@@ -1,0 +1,1799 @@
+CA_scaffold_010075	PNNL	CDS	255	932	.	+	0	ID=CA_scaffold_010075_000001;bin=HLMG_199
+CA_scaffold_010075	PNNL	CDS	1104	1514	.	+	0	ID=CA_scaffold_010075_000002;bin=HLMG_199;gene=sfcA;product=malate dehydrogenase (oxaloacetate-decarboxylating);EC_number=1.1.1.38
+CA_scaffold_010075	PNNL	CDS	1818	2216	.	-	0	ID=CA_scaffold_010075_000003;bin=HLMG_199
+CA_scaffold_010075	PNNL	CDS	2405	2899	.	+	0	ID=CA_scaffold_010075_000004;bin=HLMG_199
+CA_scaffold_010075	PNNL	CDS	3282	4838	.	-	0	ID=CA_scaffold_010075_000005;bin=HLMG_199
+CA_scaffold_010075	PNNL	CDS	5428	6879	.	-	0	ID=CA_scaffold_010075_000006;bin=HLMG_199
+CA_scaffold_010075	PNNL	CDS	6979	8541	.	+	0	ID=CA_scaffold_010075_000007;bin=HLMG_199
+CA_scaffold_010075	PNNL	CDS	8733	9386	.	-	0	ID=CA_scaffold_010075_000008;bin=HLMG_199;gene=hprA;product=glycerate dehydrogenase;EC_number=1.1.1.29
+CA_scaffold_010080	PNNL	CDS	1	246	.	+	0	ID=CA_scaffold_010080_000001;bin=HLMG_199
+CA_scaffold_010080	PNNL	CDS	256	834	.	-	0	ID=CA_scaffold_010080_000002;bin=HLMG_199
+CA_scaffold_010080	PNNL	CDS	824	1171	.	-	0	ID=CA_scaffold_010080_000003;bin=HLMG_199
+CA_scaffold_010080	PNNL	CDS	1528	2736	.	+	0	ID=CA_scaffold_010080_000004;bin=HLMG_199
+CA_scaffold_010080	PNNL	CDS	2733	2879	.	+	0	ID=CA_scaffold_010080_000005;bin=HLMG_199
+CA_scaffold_010080	PNNL	CDS	3081	5540	.	-	0	ID=CA_scaffold_010080_000006;bin=HLMG_199;gene=glgP;product=starch phosphorylase;EC_number=2.4.1.1
+CA_scaffold_010220	PNNL	CDS	1	441	.	+	0	ID=CA_scaffold_010220_000001;bin=HLMG_199
+CA_scaffold_010220	PNNL	CDS	772	1614	.	+	0	ID=CA_scaffold_010220_000002;bin=HLMG_199
+CA_scaffold_010220	PNNL	CDS	2733	4097	.	+	0	ID=CA_scaffold_010220_000003;bin=HLMG_199;gene=trpB;product=tryptophan synthase beta chain;EC_number=4.2.1.20
+CA_scaffold_010220	PNNL	CDS	5684	6766	.	-	0	ID=CA_scaffold_010220_000004;bin=HLMG_199;gene=fabH;product=3-oxoacyl-[acyl-carrier-protein] synthase III;EC_number=2.3.1.180
+CA_scaffold_010220	PNNL	CDS	8574	9851	.	-	0	ID=CA_scaffold_010220_000005;bin=HLMG_199
+CA_scaffold_010394	PNNL	CDS	2	460	.	+	0	ID=CA_scaffold_010394_000001;bin=HLMG_199
+CA_scaffold_010394	PNNL	CDS	672	2144	.	+	0	ID=CA_scaffold_010394_000002;bin=HLMG_199
+CA_scaffold_010394	PNNL	CDS	2273	3832	.	+	0	ID=CA_scaffold_010394_000003;bin=HLMG_199
+CA_scaffold_010394	PNNL	CDS	3843	4352	.	-	0	ID=CA_scaffold_010394_000004;bin=HLMG_199
+CA_scaffold_010394	PNNL	CDS	4693	5169	.	-	0	ID=CA_scaffold_010394_000005;bin=HLMG_199
+CA_scaffold_010394	PNNL	CDS	5202	5723	.	-	0	ID=CA_scaffold_010394_000006;bin=HLMG_199
+CA_scaffold_010394	PNNL	CDS	6160	7659	.	+	0	ID=CA_scaffold_010394_000007;bin=HLMG_199
+CA_scaffold_010547	PNNL	CDS	2	151	.	+	0	ID=CA_scaffold_010547_000001;bin=HLMG_199;gene=panD;product=aspartate 1-decarboxylase;EC_number=4.1.1.11
+CA_scaffold_010547	PNNL	CDS	362	1762	.	-	0	ID=CA_scaffold_010547_000002;bin=HLMG_199
+CA_scaffold_010547	PNNL	CDS	1859	2632	.	-	0	ID=CA_scaffold_010547_000003;bin=HLMG_199
+CA_scaffold_010547	PNNL	CDS	2629	4353	.	-	0	ID=CA_scaffold_010547_000004;bin=HLMG_199
+CA_scaffold_010547	PNNL	CDS	4394	5098	.	-	0	ID=CA_scaffold_010547_000005;bin=HLMG_199
+CA_scaffold_010589	PNNL	CDS	1	1758	.	+	0	ID=CA_scaffold_010589_000001;bin=HLMG_199;gene=ppiB;product=peptidyl-prolyl cis-trans isomerase B (cyclophilin B);EC_number=5.2.1.8
+CA_scaffold_010589	PNNL	CDS	1821	2177	.	+	0	ID=CA_scaffold_010589_000002;bin=HLMG_199
+CA_scaffold_010589	PNNL	CDS	2227	3441	.	-	0	ID=CA_scaffold_010589_000003;bin=HLMG_199
+CA_scaffold_010589	PNNL	CDS	3668	4705	.	-	0	ID=CA_scaffold_010589_000004;bin=HLMG_199
+CA_scaffold_010589	PNNL	CDS	4744	5157	.	-	0	ID=CA_scaffold_010589_000005;bin=HLMG_199
+CA_scaffold_010589	PNNL	CDS	5182	5706	.	-	0	ID=CA_scaffold_010589_000006;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	3	632	.	-	0	ID=CA_scaffold_010670_000001;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	902	2398	.	+	0	ID=CA_scaffold_010670_000002;bin=HLMG_199;product=neurotransmitter:Na+ symporter, NSS family
+CA_scaffold_010670	PNNL	CDS	2495	2995	.	-	0	ID=CA_scaffold_010670_000003;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	3280	3618	.	-	0	ID=CA_scaffold_010670_000004;bin=HLMG_199;gene=msrB;product=peptide-methionine (R)-S-oxide reductase;EC_number=1.8.4.12
+CA_scaffold_010670	PNNL	CDS	3669	4859	.	-	0	ID=CA_scaffold_010670_000005;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	5364	5852	.	-	0	ID=CA_scaffold_010670_000006;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	5915	6127	.	-	0	ID=CA_scaffold_010670_000007;bin=HLMG_199;gene=cspA;product=cold shock protein (beta-ribbon, CspA family)
+CA_scaffold_010670	PNNL	CDS	6252	6839	.	-	0	ID=CA_scaffold_010670_000008;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	7094	9130	.	-	0	ID=CA_scaffold_010670_000009;bin=HLMG_199;product=iron complex outermembrane recepter protein
+CA_scaffold_010670	PNNL	CDS	9501	9845	.	+	0	ID=CA_scaffold_010670_000010;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	9842	10243	.	+	0	ID=CA_scaffold_010670_000011;bin=HLMG_199
+CA_scaffold_010670	PNNL	CDS	10409	10663	.	+	0	ID=CA_scaffold_010670_000012;bin=HLMG_199
+CA_scaffold_010970	PNNL	CDS	1	294	.	+	0	ID=CA_scaffold_010970_000001;bin=HLMG_199;gene=rimP;product=ribosome maturation factor RimP
+CA_scaffold_010970	PNNL	CDS	422	1432	.	+	0	ID=CA_scaffold_010970_000002;bin=HLMG_199;gene=nusA;product=N utilization substance protein A
+CA_scaffold_010970	PNNL	CDS	1501	4353	.	+	0	ID=CA_scaffold_010970_000003;bin=HLMG_199;gene=infB;product=translation initiation factor IF-2
+CA_scaffold_010970	PNNL	CDS	4444	4815	.	+	0	ID=CA_scaffold_010970_000004;bin=HLMG_199;gene=rbfA;product=ribosome-binding factor A
+CA_scaffold_010970	PNNL	CDS	4818	5069	.	+	0	ID=CA_scaffold_010970_000005;bin=HLMG_199;gene=truB;product=tRNA pseudouridine55 synthase;EC_number=5.4.99.25
+CA_scaffold_001101	PNNL	CDS	3	524	.	-	0	ID=CA_scaffold_001101_000001;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	540	1301	.	-	0	ID=CA_scaffold_001101_000002;bin=HLMG_199;gene=flgG;product=flagellar basal-body rod protein FlgG
+CA_scaffold_001101	PNNL	CDS	1357	2073	.	-	0	ID=CA_scaffold_001101_000003;bin=HLMG_199;gene=flgG;product=flagellar basal-body rod protein FlgG
+CA_scaffold_001101	PNNL	CDS	2454	3530	.	+	0	ID=CA_scaffold_001101_000004;bin=HLMG_199;gene=flhB;product=flagellar biosynthetic protein FlhB
+CA_scaffold_001101	PNNL	CDS	3573	5639	.	+	0	ID=CA_scaffold_001101_000005;bin=HLMG_199;gene=flhA;product=flagellar biosynthesis protein FlhA
+CA_scaffold_001101	PNNL	CDS	5636	7096	.	+	0	ID=CA_scaffold_001101_000006;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	7089	7898	.	+	0	ID=CA_scaffold_001101_000007;bin=HLMG_199;gene=flhG;product=flagellar biosynthesis protein FlhG
+CA_scaffold_001101	PNNL	CDS	7910	8143	.	+	0	ID=CA_scaffold_001101_000008;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	8149	8904	.	+	0	ID=CA_scaffold_001101_000009;bin=HLMG_199;gene=fliA;product=RNA polymerase sigma factor for flagellar operon FliA
+CA_scaffold_001101	PNNL	CDS	9177	10136	.	-	0	ID=CA_scaffold_001101_000010;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	10329	11336	.	+	0	ID=CA_scaffold_001101_000011;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	11864	13114	.	+	0	ID=CA_scaffold_001101_000012;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	13189	14493	.	+	0	ID=CA_scaffold_001101_000013;bin=HLMG_199;product=myo-inositol-1-phosphate synthase;EC_number=5.5.1.4
+CA_scaffold_001101	PNNL	CDS	14516	15247	.	+	0	ID=CA_scaffold_001101_000014;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	15417	16001	.	-	0	ID=CA_scaffold_001101_000015;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	16014	17432	.	-	0	ID=CA_scaffold_001101_000016;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	17639	18529	.	-	0	ID=CA_scaffold_001101_000017;bin=HLMG_199;gene=atpG;product=F-type H+-transporting ATPase subunit gamma
+CA_scaffold_001101	PNNL	CDS	18533	20149	.	-	0	ID=CA_scaffold_001101_000018;bin=HLMG_199;gene=atpA;product=F-type H+-transporting ATPase subunit alpha;EC_number=3.6.3.14
+CA_scaffold_001101	PNNL	CDS	20169	20714	.	-	0	ID=CA_scaffold_001101_000019;bin=HLMG_199;gene=atpH;product=F-type H+-transporting ATPase subunit delta
+CA_scaffold_001101	PNNL	CDS	20718	21236	.	-	0	ID=CA_scaffold_001101_000020;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	21256	21477	.	-	0	ID=CA_scaffold_001101_000021;bin=HLMG_199;gene=atpE;product=F-type H+-transporting ATPase subunit c
+CA_scaffold_001101	PNNL	CDS	21499	22563	.	-	0	ID=CA_scaffold_001101_000022;bin=HLMG_199;gene=atpB;product=F-type H+-transporting ATPase subunit a
+CA_scaffold_001101	PNNL	CDS	22588	22953	.	-	0	ID=CA_scaffold_001101_000023;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	22965	23177	.	-	0	ID=CA_scaffold_001101_000024;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	23178	23621	.	-	0	ID=CA_scaffold_001101_000025;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	23633	24052	.	-	0	ID=CA_scaffold_001101_000026;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	24013	24474	.	-	0	ID=CA_scaffold_001101_000027;bin=HLMG_199
+CA_scaffold_001101	PNNL	CDS	24520	25110	.	-	0	ID=CA_scaffold_001101_000028;bin=HLMG_199;gene=guaB;product=IMP dehydrogenase;EC_number=1.1.1.205
+CA_scaffold_011154	PNNL	CDS	1	747	.	+	0	ID=CA_scaffold_011154_000001;bin=HLMG_199
+CA_scaffold_011154	PNNL	CDS	1081	1944	.	+	0	ID=CA_scaffold_011154_000002;bin=HLMG_199;product=UPF0755 protein
+CA_scaffold_011154	PNNL	CDS	2078	3808	.	-	0	ID=CA_scaffold_011154_000003;bin=HLMG_199
+CA_scaffold_011154	PNNL	CDS	3876	4898	.	-	0	ID=CA_scaffold_011154_000004;bin=HLMG_199;gene=guaA;product=GMP synthase (glutamine-hydrolysing);EC_number=6.3.5.2
+CA_scaffold_011154	PNNL	CDS	4898	5413	.	-	0	ID=CA_scaffold_011154_000005;bin=HLMG_199;gene=guaA;product=GMP synthase (glutamine-hydrolysing);EC_number=6.3.5.2
+CA_scaffold_011154	PNNL	CDS	5438	5755	.	-	0	ID=CA_scaffold_011154_000006;bin=HLMG_199;gene=gcvH;product=glycine cleavage system H protein
+CA_scaffold_011154	PNNL	CDS	5881	7143	.	-	0	ID=CA_scaffold_011154_000007;bin=HLMG_199;gene=accC;product=acetyl-CoA carboxylase, biotin carboxylase subunit;EC_number=6.4.1.2 6.3.4.1
+CA_scaffold_011154	PNNL	CDS	7153	7638	.	-	0	ID=CA_scaffold_011154_000008;bin=HLMG_199;gene=accB;product=acetyl-CoA carboxylase biotin carboxyl carrier protein
+CA_scaffold_011154	PNNL	CDS	7647	8222	.	-	0	ID=CA_scaffold_011154_000009;bin=HLMG_199;gene=efp;product=elongation factor P
+CA_scaffold_011154	PNNL	CDS	8318	9670	.	-	0	ID=CA_scaffold_011154_000010;bin=HLMG_199;product=neurotransmitter:Na+ symporter, NSS family
+CA_scaffold_011154	PNNL	CDS	9721	10413	.	-	0	ID=CA_scaffold_011154_000011;bin=HLMG_199
+CA_scaffold_011179	PNNL	CDS	888	2621	.	-	0	ID=CA_scaffold_011179_000001;bin=HLMG_199
+CA_scaffold_011179	PNNL	CDS	2761	3486	.	+	0	ID=CA_scaffold_011179_000002;bin=HLMG_199;gene=pcm;product=protein-L-isoaspartate(D-aspartate) O-methyltransferase;EC_number=2.1.1.77
+CA_scaffold_011179	PNNL	CDS	3879	4397	.	+	0	ID=CA_scaffold_011179_000003;bin=HLMG_199
+CA_scaffold_011179	PNNL	CDS	4481	5362	.	-	0	ID=CA_scaffold_011179_000004;bin=HLMG_199
+CA_scaffold_011600	PNNL	CDS	499	1050	.	+	0	ID=CA_scaffold_011600_000001;bin=HLMG_199
+CA_scaffold_011600	PNNL	CDS	1036	1740	.	-	0	ID=CA_scaffold_011600_000002;bin=HLMG_199;gene=vicR;product=two-component system, OmpR family, response regulator VicR
+CA_scaffold_011600	PNNL	CDS	1733	3454	.	-	0	ID=CA_scaffold_011600_000003;bin=HLMG_199
+CA_scaffold_011600	PNNL	CDS	3619	5100	.	-	0	ID=CA_scaffold_011600_000004;bin=HLMG_199
+CA_scaffold_011751	PNNL	CDS	1	1179	.	-	0	ID=CA_scaffold_011751_000001;bin=HLMG_199;gene=dacB;product=D-alanyl-D-alanine carboxypeptidase / D-alanyl-D-alanine-endopeptidase (penicillin-binding protein 4;EC_number=3.4.16.4 3.4.21
+CA_scaffold_011751	PNNL	CDS	1589	4615	.	+	0	ID=CA_scaffold_011751_000002;bin=HLMG_199
+CA_scaffold_011751	PNNL	CDS	4634	6055	.	+	0	ID=CA_scaffold_011751_000003;bin=HLMG_199
+CA_scaffold_011751	PNNL	CDS	6073	6804	.	-	0	ID=CA_scaffold_011751_000004;bin=HLMG_199;gene=ada;product=AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[p;EC_number=2.1.1.63
+CA_scaffold_011751	PNNL	CDS	7302	7460	.	+	0	ID=CA_scaffold_011751_000005;bin=HLMG_199
+CA_scaffold_011929	PNNL	CDS	3	215	.	-	0	ID=CA_scaffold_011929_000001;bin=HLMG_199
+CA_scaffold_011929	PNNL	CDS	348	752	.	-	0	ID=CA_scaffold_011929_000002;bin=HLMG_199
+CA_scaffold_011929	PNNL	CDS	787	1200	.	-	0	ID=CA_scaffold_011929_000003;bin=HLMG_199
+CA_scaffold_011929	PNNL	CDS	1210	2478	.	-	0	ID=CA_scaffold_011929_000004;bin=HLMG_199;gene=dmpA;product=D-aminopeptidase;EC_number=3.4.11.19
+CA_scaffold_011929	PNNL	CDS	3400	4293	.	-	0	ID=CA_scaffold_011929_000005;bin=HLMG_199
+CA_scaffold_011929	PNNL	CDS	4306	4683	.	-	0	ID=CA_scaffold_011929_000006;bin=HLMG_199
+CA_scaffold_011929	PNNL	CDS	4883	6628	.	+	0	ID=CA_scaffold_011929_000007;bin=HLMG_199;gene=ggt;product=gamma-glutamyltranspeptidase;EC_number=2.3.2.2
+CA_scaffold_011929	PNNL	CDS	6843	7184	.	+	0	ID=CA_scaffold_011929_000008;bin=HLMG_199
+CA_scaffold_011929	PNNL	CDS	7199	7369	.	-	0	ID=CA_scaffold_011929_000009;bin=HLMG_199
+CA_scaffold_012699	PNNL	CDS	3	692	.	-	0	ID=CA_scaffold_012699_000001;bin=HLMG_199
+CA_scaffold_012699	PNNL	CDS	805	1977	.	-	0	ID=CA_scaffold_012699_000002;bin=HLMG_199;product=leucine dehydrogenase;EC_number=1.4.1.9
+CA_scaffold_012699	PNNL	CDS	2317	4029	.	+	0	ID=CA_scaffold_012699_000003;bin=HLMG_199;gene=recJ;product=single-stranded-DNA-specific exonuclease;EC_number=3.1.-.-
+CA_scaffold_012699	PNNL	CDS	4325	6205	.	+	0	ID=CA_scaffold_012699_000004;bin=HLMG_199
+CA_scaffold_012699	PNNL	CDS	6342	6587	.	+	0	ID=CA_scaffold_012699_000005;bin=HLMG_199
+CA_scaffold_012699	PNNL	CDS	7092	7181	.	-	0	ID=CA_scaffold_012699_000006;bin=HLMG_199
+CA_scaffold_012787	PNNL	CDS	2	2170	.	+	0	ID=CA_scaffold_012787_000001;bin=HLMG_199
+CA_scaffold_012787	PNNL	CDS	2244	3482	.	-	0	ID=CA_scaffold_012787_000002;bin=HLMG_199;product=ABC-2 type transport system permease protein
+CA_scaffold_012787	PNNL	CDS	3550	4482	.	-	0	ID=CA_scaffold_012787_000003;bin=HLMG_199;product=ABC-2 type transport system ATP-binding protein
+CA_scaffold_012787	PNNL	CDS	4858	6294	.	+	0	ID=CA_scaffold_012787_000004;bin=HLMG_199;gene=glgA;product=starch synthase;EC_number=2.4.1.21
+CA_scaffold_012787	PNNL	CDS	6305	7642	.	+	0	ID=CA_scaffold_012787_000005;bin=HLMG_199;gene=glgC;product=glucose-1-phosphate adenylyltransferase;EC_number=2.7.7.27
+CA_scaffold_012787	PNNL	CDS	7798	7929	.	+	0	ID=CA_scaffold_012787_000006;bin=HLMG_199
+CA_scaffold_012787	PNNL	CDS	7898	8416	.	+	0	ID=CA_scaffold_012787_000007;bin=HLMG_199;product=SM-20-related protein
+CA_scaffold_012787	PNNL	CDS	8433	8645	.	-	0	ID=CA_scaffold_012787_000008;bin=HLMG_199
+CA_scaffold_012906	PNNL	CDS	3	215	.	+	0	ID=CA_scaffold_012906_000001;bin=HLMG_199;gene=paaZ;product=oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase;EC_number=3.3.2.12 1.17.1
+CA_scaffold_012906	PNNL	CDS	572	1117	.	-	0	ID=CA_scaffold_012906_000002;bin=HLMG_199;gene=ppa;product=inorganic pyrophosphatase;EC_number=3.6.1.1
+CA_scaffold_012906	PNNL	CDS	1218	2297	.	-	0	ID=CA_scaffold_012906_000003;bin=HLMG_199;gene=prfA;product=peptide chain release factor 1
+CA_scaffold_012906	PNNL	CDS	2497	3654	.	+	0	ID=CA_scaffold_012906_000004;bin=HLMG_199;gene=purK;product=5-(carboxyamino)imidazole ribonucleotide synthase;EC_number=6.3.4.18
+CA_scaffold_012906	PNNL	CDS	3740	4930	.	+	0	ID=CA_scaffold_012906_000005;bin=HLMG_199
+CA_scaffold_012906	PNNL	CDS	5056	5280	.	-	0	ID=CA_scaffold_012906_000006;bin=HLMG_199
+CA_scaffold_012924	PNNL	CDS	2	208	.	+	0	ID=CA_scaffold_012924_000001;bin=HLMG_199
+CA_scaffold_012924	PNNL	CDS	285	1067	.	+	0	ID=CA_scaffold_012924_000002;bin=HLMG_199
+CA_scaffold_012924	PNNL	CDS	1064	2059	.	+	0	ID=CA_scaffold_012924_000003;bin=HLMG_199
+CA_scaffold_012924	PNNL	CDS	2064	2840	.	-	0	ID=CA_scaffold_012924_000004;bin=HLMG_199;gene=fliR;product=flagellar biosynthetic protein FliR
+CA_scaffold_012924	PNNL	CDS	2866	3135	.	-	0	ID=CA_scaffold_012924_000005;bin=HLMG_199;gene=fliQ;product=flagellar biosynthetic protein FliQ
+CA_scaffold_012924	PNNL	CDS	3148	3942	.	-	0	ID=CA_scaffold_012924_000006;bin=HLMG_199;gene=fliP;product=flagellar biosynthetic protein FliP
+CA_scaffold_012924	PNNL	CDS	3935	4480	.	-	0	ID=CA_scaffold_012924_000007;bin=HLMG_199
+CA_scaffold_012924	PNNL	CDS	4480	5487	.	-	0	ID=CA_scaffold_012924_000008;bin=HLMG_199;gene=fliNY;product=flagellar motor switch protein FliN/FliY
+CA_scaffold_012924	PNNL	CDS	5490	6170	.	-	0	ID=CA_scaffold_012924_000009;bin=HLMG_199
+CA_scaffold_013558	PNNL	CDS	1	192	.	+	0	ID=CA_scaffold_013558_000001;bin=HLMG_199
+CA_scaffold_013558	PNNL	CDS	198	1307	.	+	0	ID=CA_scaffold_013558_000002;bin=HLMG_199
+CA_scaffold_013558	PNNL	CDS	1315	2790	.	+	0	ID=CA_scaffold_013558_000003;bin=HLMG_199;gene=menE;product=O-succinylbenzoic acid--CoA ligase;EC_number=6.2.1.26
+CA_scaffold_013558	PNNL	CDS	2866	3363	.	+	0	ID=CA_scaffold_013558_000004;bin=HLMG_199
+CA_scaffold_013558	PNNL	CDS	3435	3989	.	+	0	ID=CA_scaffold_013558_000005;bin=HLMG_199
+CA_scaffold_013558	PNNL	CDS	3992	4534	.	+	0	ID=CA_scaffold_013558_000006;bin=HLMG_199;product=RIMS-binding protein 2
+CA_scaffold_013558	PNNL	CDS	4713	5225	.	+	0	ID=CA_scaffold_013558_000007;bin=HLMG_199
+CA_scaffold_013753	PNNL	CDS	2	118	.	-	0	ID=CA_scaffold_013753_000001;bin=HLMG_199
+CA_scaffold_013753	PNNL	CDS	190	444	.	+	0	ID=CA_scaffold_013753_000002;bin=HLMG_199
+CA_scaffold_013753	PNNL	CDS	1052	3448	.	+	0	ID=CA_scaffold_013753_000003;bin=HLMG_199
+CA_scaffold_013753	PNNL	CDS	3460	4176	.	+	0	ID=CA_scaffold_013753_000004;bin=HLMG_199
+CA_scaffold_013753	PNNL	CDS	4342	5532	.	+	0	ID=CA_scaffold_013753_000005;bin=HLMG_199;gene=rumA;product=23S rRNA (uracil1939-C5)-methyltransferase;EC_number=2.1.1.190
+CA_scaffold_013849	PNNL	CDS	3	1274	.	-	0	ID=CA_scaffold_013849_000001;bin=HLMG_199;gene=hutH;product=histidine ammonia-lyase;EC_number=4.3.1.3
+CA_scaffold_013849	PNNL	CDS	1379	1816	.	-	0	ID=CA_scaffold_013849_000002;bin=HLMG_199
+CA_scaffold_013849	PNNL	CDS	1887	2405	.	-	0	ID=CA_scaffold_013849_000003;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_013849	PNNL	CDS	2551	3285	.	-	0	ID=CA_scaffold_013849_000004;bin=HLMG_199
+CA_scaffold_013849	PNNL	CDS	3658	4782	.	+	0	ID=CA_scaffold_013849_000005;bin=HLMG_199;gene=nagZ;product=beta-N-acetylhexosaminidase;EC_number=3.2.1.52
+CA_scaffold_013849	PNNL	CDS	4775	5347	.	+	0	ID=CA_scaffold_013849_000006;bin=HLMG_199
+CA_scaffold_013849	PNNL	CDS	5348	5794	.	-	0	ID=CA_scaffold_013849_000007;bin=HLMG_199
+CA_scaffold_014462	PNNL	CDS	3	1181	.	-	0	ID=CA_scaffold_014462_000001;bin=HLMG_199
+CA_scaffold_014462	PNNL	CDS	1513	2334	.	-	0	ID=CA_scaffold_014462_000002;bin=HLMG_199;gene=mscS;product=small conductance mechanosensitive channel
+CA_scaffold_014462	PNNL	CDS	2470	2973	.	-	0	ID=CA_scaffold_014462_000003;bin=HLMG_199;gene=dps;product=starvation-inducible DNA-binding protein
+CA_scaffold_014462	PNNL	CDS	3114	3464	.	-	0	ID=CA_scaffold_014462_000004;bin=HLMG_199
+CA_scaffold_014462	PNNL	CDS	3576	3998	.	+	0	ID=CA_scaffold_014462_000005;bin=HLMG_199
+CA_scaffold_014462	PNNL	CDS	4091	5716	.	+	0	ID=CA_scaffold_014462_000006;bin=HLMG_199
+CA_scaffold_014462	PNNL	CDS	5713	5997	.	-	0	ID=CA_scaffold_014462_000007;bin=HLMG_199;gene=sixA;product=phosphohistidine phosphatase;EC_number=3.1.3.-
+CA_scaffold_015223	PNNL	CDS	45	809	.	-	0	ID=CA_scaffold_015223_000001;bin=HLMG_199
+CA_scaffold_015223	PNNL	CDS	772	1302	.	-	0	ID=CA_scaffold_015223_000002;bin=HLMG_199
+CA_scaffold_015223	PNNL	CDS	1496	1684	.	-	0	ID=CA_scaffold_015223_000003;bin=HLMG_199
+CA_scaffold_015223	PNNL	CDS	2224	3480	.	+	0	ID=CA_scaffold_015223_000004;bin=HLMG_199;gene=hisS;product=histidyl-tRNA synthetase;EC_number=6.1.1.21
+CA_scaffold_015223	PNNL	CDS	3700	5454	.	-	0	ID=CA_scaffold_015223_000005;bin=HLMG_199;product=sulfate permease, SulP family
+CA_scaffold_015223	PNNL	CDS	5502	6146	.	-	0	ID=CA_scaffold_015223_000006;bin=HLMG_199
+CA_scaffold_015400	PNNL	CDS	2	1189	.	+	0	ID=CA_scaffold_015400_000001;bin=HLMG_199
+CA_scaffold_015400	PNNL	CDS	1207	1563	.	-	0	ID=CA_scaffold_015400_000002;bin=HLMG_199
+CA_scaffold_015400	PNNL	CDS	1718	2242	.	+	0	ID=CA_scaffold_015400_000003;bin=HLMG_199
+CA_scaffold_015400	PNNL	CDS	2304	2972	.	+	0	ID=CA_scaffold_015400_000004;bin=HLMG_199
+CA_scaffold_015400	PNNL	CDS	3092	3751	.	+	0	ID=CA_scaffold_015400_000005;bin=HLMG_199;gene=rpoE;product=RNA polymerase sigma-70 factor, ECF subfamily
+CA_scaffold_015400	PNNL	CDS	3801	4046	.	+	0	ID=CA_scaffold_015400_000006;bin=HLMG_199
+CA_scaffold_015400	PNNL	CDS	4122	5222	.	+	0	ID=CA_scaffold_015400_000007;bin=HLMG_199
+CA_scaffold_015400	PNNL	CDS	5227	5343	.	-	0	ID=CA_scaffold_015400_000008;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	3	593	.	-	0	ID=CA_scaffold_001563_000001;bin=HLMG_199;gene=comM;product=magnesium chelatase family protein
+CA_scaffold_001563	PNNL	CDS	668	1051	.	+	0	ID=CA_scaffold_001563_000002;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	1109	2089	.	-	0	ID=CA_scaffold_001563_000003;bin=HLMG_199;gene=trxB;product=thioredoxin reductase (NADPH);EC_number=1.8.1.9
+CA_scaffold_001563	PNNL	CDS	2288	3409	.	+	0	ID=CA_scaffold_001563_000004;bin=HLMG_199;gene=pntA;product=NAD(P) transhydrogenase subunit alpha;EC_number=1.6.1.2
+CA_scaffold_001563	PNNL	CDS	3434	3727	.	+	0	ID=CA_scaffold_001563_000005;bin=HLMG_199;gene=pntA;product=NAD(P) transhydrogenase subunit alpha;EC_number=1.6.1.2
+CA_scaffold_001563	PNNL	CDS	3724	5139	.	+	0	ID=CA_scaffold_001563_000006;bin=HLMG_199;gene=pntB;product=NAD(P) transhydrogenase subunit beta;EC_number=1.6.1.2
+CA_scaffold_001563	PNNL	CDS	5231	6445	.	-	0	ID=CA_scaffold_001563_000007;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	6518	7366	.	-	0	ID=CA_scaffold_001563_000008;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	7417	8109	.	-	0	ID=CA_scaffold_001563_000009;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	8122	10302	.	-	0	ID=CA_scaffold_001563_000010;bin=HLMG_199;gene=recQ;product=ATP-dependent DNA helicase RecQ;EC_number=3.6.4.12
+CA_scaffold_001563	PNNL	CDS	10447	11790	.	-	0	ID=CA_scaffold_001563_000011;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	11883	12953	.	+	0	ID=CA_scaffold_001563_000012;bin=HLMG_199;gene=ilvE;product=branched-chain amino acid aminotransferase;EC_number=2.6.1.42
+CA_scaffold_001563	PNNL	CDS	12959	13894	.	-	0	ID=CA_scaffold_001563_000013;bin=HLMG_199;product=5'-nucleotidase;EC_number=3.1.3.5
+CA_scaffold_001563	PNNL	CDS	13891	14625	.	-	0	ID=CA_scaffold_001563_000014;bin=HLMG_199;product=5'-nucleotidase;EC_number=3.1.3.5
+CA_scaffold_001563	PNNL	CDS	14637	15392	.	-	0	ID=CA_scaffold_001563_000015;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	15448	16584	.	-	0	ID=CA_scaffold_001563_000016;bin=HLMG_199;gene=mnmA;product=tRNA-specific 2-thiouridylase;EC_number=2.8.1.-
+CA_scaffold_001563	PNNL	CDS	16707	17204	.	-	0	ID=CA_scaffold_001563_000017;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	17291	18433	.	-	0	ID=CA_scaffold_001563_000018;bin=HLMG_199
+CA_scaffold_001563	PNNL	CDS	18614	19600	.	+	0	ID=CA_scaffold_001563_000019;bin=HLMG_199;gene=gdhA;product=glutamate dehydrogenase (NAD(P)+);EC_number=1.4.1.3
+CA_scaffold_015733	PNNL	CDS	2	199	.	+	0	ID=CA_scaffold_015733_000001;bin=HLMG_199;gene=pheA;product=chorismate mutase / prephenate dehydratase;EC_number=5.4.99.5 4.2.1.
+CA_scaffold_015733	PNNL	CDS	316	2073	.	+	0	ID=CA_scaffold_015733_000002;bin=HLMG_199
+CA_scaffold_015733	PNNL	CDS	2018	4477	.	+	0	ID=CA_scaffold_015733_000003;bin=HLMG_199
+CA_scaffold_015733	PNNL	CDS	4483	5148	.	+	0	ID=CA_scaffold_015733_000004;bin=HLMG_199
+CA_scaffold_015733	PNNL	CDS	5102	5542	.	+	0	ID=CA_scaffold_015733_000005;bin=HLMG_199
+CA_scaffold_015733	PNNL	CDS	5746	7920	.	+	0	ID=CA_scaffold_015733_000006;bin=HLMG_199
+CA_scaffold_015733	PNNL	CDS	7940	8296	.	+	0	ID=CA_scaffold_015733_000007;bin=HLMG_199
+CA_scaffold_015733	PNNL	CDS	8289	8912	.	+	0	ID=CA_scaffold_015733_000008;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	1	582	.	-	0	ID=CA_scaffold_001578_000001;bin=HLMG_199;gene=bglX;product=beta-glucosidase;EC_number=3.2.1.21
+CA_scaffold_001578	PNNL	CDS	1122	1694	.	+	0	ID=CA_scaffold_001578_000002;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	1858	2934	.	+	0	ID=CA_scaffold_001578_000003;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	2959	6342	.	+	0	ID=CA_scaffold_001578_000004;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	6375	7949	.	+	0	ID=CA_scaffold_001578_000005;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	7983	9434	.	+	0	ID=CA_scaffold_001578_000006;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	9510	10367	.	+	0	ID=CA_scaffold_001578_000007;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	10620	11291	.	+	0	ID=CA_scaffold_001578_000008;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	11301	11774	.	-	0	ID=CA_scaffold_001578_000009;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	11779	12078	.	-	0	ID=CA_scaffold_001578_000010;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	12130	13149	.	-	0	ID=CA_scaffold_001578_000011;bin=HLMG_199;gene=idi;product=isopentenyl-diphosphate delta-isomerase;EC_number=5.3.3.2
+CA_scaffold_001578	PNNL	CDS	13203	15053	.	-	0	ID=CA_scaffold_001578_000012;bin=HLMG_199;gene=corA;product=magnesium transporter
+CA_scaffold_001578	PNNL	CDS	15293	16282	.	+	0	ID=CA_scaffold_001578_000013;bin=HLMG_199;gene=add;product=adenosine deaminase;EC_number=3.5.4.4
+CA_scaffold_001578	PNNL	CDS	16355	16927	.	-	0	ID=CA_scaffold_001578_000014;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	17354	18364	.	-	0	ID=CA_scaffold_001578_000015;bin=HLMG_199;gene=afuA;product=iron(III) transport system substrate-binding protein
+CA_scaffold_001578	PNNL	CDS	18541	20664	.	-	0	ID=CA_scaffold_001578_000016;bin=HLMG_199;gene=fusA;product=elongation factor G
+CA_scaffold_001578	PNNL	CDS	20843	21790	.	+	0	ID=CA_scaffold_001578_000017;bin=HLMG_199;gene=ansA;product=L-asparaginase;EC_number=3.5.1.1
+CA_scaffold_001578	PNNL	CDS	21969	22676	.	+	0	ID=CA_scaffold_001578_000018;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_001578	PNNL	CDS	22738	24201	.	-	0	ID=CA_scaffold_001578_000019;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	24384	24836	.	+	0	ID=CA_scaffold_001578_000020;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	24927	27233	.	+	0	ID=CA_scaffold_001578_000021;bin=HLMG_199;product=iron complex outermembrane recepter protein
+CA_scaffold_001578	PNNL	CDS	27701	29077	.	-	0	ID=CA_scaffold_001578_000022;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	29090	30451	.	-	0	ID=CA_scaffold_001578_000023;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	30455	30727	.	-	0	ID=CA_scaffold_001578_000024;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	30787	32481	.	-	0	ID=CA_scaffold_001578_000025;bin=HLMG_199;gene=ggt;product=gamma-glutamyltranspeptidase;EC_number=2.3.2.2
+CA_scaffold_001578	PNNL	CDS	32801	33229	.	-	0	ID=CA_scaffold_001578_000026;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	33380	34909	.	-	0	ID=CA_scaffold_001578_000027;bin=HLMG_199
+CA_scaffold_001578	PNNL	CDS	34848	35186	.	-	0	ID=CA_scaffold_001578_000028;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	3	71	.	-	0	ID=CA_scaffold_001589_000001;bin=HLMG_199;gene=tktA;product=transketolase;EC_number=2.2.1.1
+CA_scaffold_001589	PNNL	CDS	201	1100	.	-	0	ID=CA_scaffold_001589_000002;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	1179	2207	.	-	0	ID=CA_scaffold_001589_000003;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	2322	3032	.	-	0	ID=CA_scaffold_001589_000004;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	3039	3671	.	-	0	ID=CA_scaffold_001589_000005;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	3658	4593	.	-	0	ID=CA_scaffold_001589_000006;bin=HLMG_199;gene=parB;product=chromosome partitioning protein, ParB family
+CA_scaffold_001589	PNNL	CDS	4606	5403	.	-	0	ID=CA_scaffold_001589_000007;bin=HLMG_199;gene=parA;product=chromosome partitioning protein
+CA_scaffold_001589	PNNL	CDS	5582	6163	.	-	0	ID=CA_scaffold_001589_000008;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	6160	6825	.	-	0	ID=CA_scaffold_001589_000009;bin=HLMG_199;gene=rpoE;product=RNA polymerase sigma-70 factor, ECF subfamily
+CA_scaffold_001589	PNNL	CDS	7005	8837	.	-	0	ID=CA_scaffold_001589_000010;bin=HLMG_199;gene=uvrC;product=excinuclease ABC subunit C
+CA_scaffold_001589	PNNL	CDS	8924	9619	.	+	0	ID=CA_scaffold_001589_000011;bin=HLMG_199;gene=rluD;product=23S rRNA pseudouridine1911/1915/1917 synthase;EC_number=5.4.99.23
+CA_scaffold_001589	PNNL	CDS	9762	10652	.	+	0	ID=CA_scaffold_001589_000012;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	10643	11953	.	-	0	ID=CA_scaffold_001589_000013;bin=HLMG_199;gene=rmuC;product=DNA recombination protein RmuC
+CA_scaffold_001589	PNNL	CDS	12063	13235	.	-	0	ID=CA_scaffold_001589_000014;bin=HLMG_199;gene=dnaJ;product=molecular chaperone DnaJ
+CA_scaffold_001589	PNNL	CDS	13245	13829	.	-	0	ID=CA_scaffold_001589_000015;bin=HLMG_199;product=molecular chaperone GrpE
+CA_scaffold_001589	PNNL	CDS	14084	14467	.	-	0	ID=CA_scaffold_001589_000016;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	14564	15247	.	+	0	ID=CA_scaffold_001589_000017;bin=HLMG_199;gene=rsmI;product=16S rRNA (cytidine1402-2'-O)-methyltransferase;EC_number=2.1.1.198
+CA_scaffold_001589	PNNL	CDS	15247	16794	.	+	0	ID=CA_scaffold_001589_000018;bin=HLMG_199;gene=lnt;product=apolipoprotein N-acyltransferase;EC_number=2.3.1.-
+CA_scaffold_001589	PNNL	CDS	16791	18485	.	-	0	ID=CA_scaffold_001589_000019;bin=HLMG_199;gene=pgm;product=phosphoglucomutase;EC_number=5.4.2.2
+CA_scaffold_001589	PNNL	CDS	18595	18696	.	-	0	ID=CA_scaffold_001589_000020;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	18742	19179	.	-	0	ID=CA_scaffold_001589_000021;bin=HLMG_199;gene=ppiB;product=peptidyl-prolyl cis-trans isomerase B (cyclophilin B);EC_number=5.2.1.8
+CA_scaffold_001589	PNNL	CDS	19224	19739	.	-	0	ID=CA_scaffold_001589_000022;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	19745	21286	.	-	0	ID=CA_scaffold_001589_000023;bin=HLMG_199
+CA_scaffold_001589	PNNL	CDS	21291	22031	.	-	0	ID=CA_scaffold_001589_000024;bin=HLMG_199;gene=recO;product=DNA repair protein RecO (recombination protein O)
+CA_scaffold_001589	PNNL	CDS	22081	23646	.	-	0	ID=CA_scaffold_001589_000025;bin=HLMG_199
+CA_scaffold_016039	PNNL	CDS	31	651	.	-	0	ID=CA_scaffold_016039_000001;bin=HLMG_199
+CA_scaffold_016039	PNNL	CDS	973	2097	.	+	0	ID=CA_scaffold_016039_000002;bin=HLMG_199;gene=hemH;product=ferrochelatase;EC_number=4.99.1.1
+CA_scaffold_016039	PNNL	CDS	2103	3365	.	+	0	ID=CA_scaffold_016039_000003;bin=HLMG_199;gene=hemA;product=glutamyl-tRNA reductase;EC_number=1.2.1.70
+CA_scaffold_016039	PNNL	CDS	3358	4134	.	+	0	ID=CA_scaffold_016039_000004;bin=HLMG_199;gene=hemC;product=hydroxymethylbilane synthase;EC_number=2.5.1.61
+CA_scaffold_016039	PNNL	CDS	4162	4905	.	+	0	ID=CA_scaffold_016039_000005;bin=HLMG_199;gene=hemD;product=uroporphyrinogen-III synthase;EC_number=4.2.1.75
+CA_scaffold_016039	PNNL	CDS	4966	5028	.	+	0	ID=CA_scaffold_016039_000006;bin=HLMG_199;gene=hemE;product=uroporphyrinogen decarboxylase;EC_number=4.1.1.37
+CA_scaffold_016071	PNNL	CDS	1	321	.	-	0	ID=CA_scaffold_016071_000001;bin=HLMG_199
+CA_scaffold_016071	PNNL	CDS	603	1760	.	+	0	ID=CA_scaffold_016071_000002;bin=HLMG_199
+CA_scaffold_016071	PNNL	CDS	1896	2258	.	+	0	ID=CA_scaffold_016071_000003;bin=HLMG_199
+CA_scaffold_016071	PNNL	CDS	2485	2904	.	-	0	ID=CA_scaffold_016071_000004;bin=HLMG_199
+CA_scaffold_016071	PNNL	CDS	3201	3683	.	+	0	ID=CA_scaffold_016071_000005;bin=HLMG_199;gene=prfC;product=peptide chain release factor 3
+CA_scaffold_016071	PNNL	CDS	3680	4063	.	+	0	ID=CA_scaffold_016071_000006;bin=HLMG_199;gene=prfC;product=peptide chain release factor 3
+CA_scaffold_016071	PNNL	CDS	4099	4719	.	+	0	ID=CA_scaffold_016071_000007;bin=HLMG_199;gene=prfC;product=peptide chain release factor 3
+CA_scaffold_016071	PNNL	CDS	4936	5310	.	-	0	ID=CA_scaffold_016071_000008;bin=HLMG_199;gene=tspO;product=tryptophan-rich sensory protein
+CA_scaffold_016071	PNNL	CDS	5442	7010	.	+	0	ID=CA_scaffold_016071_000009;bin=HLMG_199
+CA_scaffold_016071	PNNL	CDS	7221	7325	.	-	0	ID=CA_scaffold_016071_000010;bin=HLMG_199
+CA_scaffold_016703	PNNL	CDS	280	1110	.	+	0	ID=CA_scaffold_016703_000001;bin=HLMG_199
+CA_scaffold_016703	PNNL	CDS	1107	2477	.	+	0	ID=CA_scaffold_016703_000002;bin=HLMG_199;product=aldehyde dehydrogenase (NAD+);EC_number=1.2.1.3
+CA_scaffold_016703	PNNL	CDS	2474	3481	.	+	0	ID=CA_scaffold_016703_000003;bin=HLMG_199
+CA_scaffold_016703	PNNL	CDS	3544	3813	.	-	0	ID=CA_scaffold_016703_000004;bin=HLMG_199
+CA_scaffold_016703	PNNL	CDS	3896	4810	.	+	0	ID=CA_scaffold_016703_000005;bin=HLMG_199
+CA_scaffold_016885	PNNL	CDS	206	1258	.	+	0	ID=CA_scaffold_016885_000001;bin=HLMG_199;gene=recG;product=ATP-dependent DNA helicase RecG;EC_number=3.6.4.12
+CA_scaffold_016885	PNNL	CDS	1514	2233	.	+	0	ID=CA_scaffold_016885_000002;bin=HLMG_199;gene=recG;product=ATP-dependent DNA helicase RecG;EC_number=3.6.4.12
+CA_scaffold_016885	PNNL	CDS	2371	2784	.	-	0	ID=CA_scaffold_016885_000003;bin=HLMG_199
+CA_scaffold_016885	PNNL	CDS	2876	3340	.	-	0	ID=CA_scaffold_016885_000004;bin=HLMG_199
+CA_scaffold_016885	PNNL	CDS	3423	4016	.	+	0	ID=CA_scaffold_016885_000005;bin=HLMG_199
+CA_scaffold_016885	PNNL	CDS	4026	4769	.	-	0	ID=CA_scaffold_016885_000006;bin=HLMG_199;gene=rfbB;product=dTDP-glucose 4,6-dehydratase;EC_number=4.2.1.46
+CA_scaffold_016885	PNNL	CDS	4844	5011	.	-	0	ID=CA_scaffold_016885_000007;bin=HLMG_199;gene=rfbB;product=dTDP-glucose 4,6-dehydratase;EC_number=4.2.1.46
+CA_scaffold_016885	PNNL	CDS	5034	5582	.	-	0	ID=CA_scaffold_016885_000008;bin=HLMG_199;gene=rfbC;product=dTDP-4-dehydrorhamnose 3,5-epimerase;EC_number=5.1.3.13
+CA_scaffold_016885	PNNL	CDS	5586	5921	.	-	0	ID=CA_scaffold_016885_000009;bin=HLMG_199;gene=rfbD;product=dTDP-4-dehydrorhamnose reductase;EC_number=1.1.1.133
+CA_scaffold_017026	PNNL	CDS	1	1017	.	+	0	ID=CA_scaffold_017026_000001;bin=HLMG_199;gene=leuB;product=3-isopropylmalate dehydrogenase;EC_number=1.1.1.85
+CA_scaffold_017026	PNNL	CDS	1175	1615	.	+	0	ID=CA_scaffold_017026_000002;bin=HLMG_199
+CA_scaffold_017026	PNNL	CDS	1747	2082	.	+	0	ID=CA_scaffold_017026_000003;bin=HLMG_199
+CA_scaffold_017026	PNNL	CDS	2293	3339	.	+	0	ID=CA_scaffold_017026_000004;bin=HLMG_199
+CA_scaffold_017026	PNNL	CDS	3381	4733	.	-	0	ID=CA_scaffold_017026_000005;bin=HLMG_199
+CA_scaffold_017026	PNNL	CDS	4875	5120	.	+	0	ID=CA_scaffold_017026_000006;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	3	878	.	-	0	ID=CA_scaffold_017053_000001;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	1016	1396	.	-	0	ID=CA_scaffold_017053_000002;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	1540	2199	.	-	0	ID=CA_scaffold_017053_000003;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	2304	2891	.	-	0	ID=CA_scaffold_017053_000004;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	3008	4597	.	-	0	ID=CA_scaffold_017053_000005;bin=HLMG_199;gene=pckA;product=phosphoenolpyruvate carboxykinase (ATP);EC_number=4.1.1.49
+CA_scaffold_017053	PNNL	CDS	4856	5026	.	+	0	ID=CA_scaffold_017053_000006;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	5074	5562	.	-	0	ID=CA_scaffold_017053_000007;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	5559	5945	.	-	0	ID=CA_scaffold_017053_000008;bin=HLMG_199
+CA_scaffold_017053	PNNL	CDS	6095	6604	.	-	0	ID=CA_scaffold_017053_000009;bin=HLMG_199;product=metallo-beta-lactamase family protein
+CA_scaffold_001881	PNNL	CDS	2	235	.	+	0	ID=CA_scaffold_001881_000001;bin=HLMG_199
+CA_scaffold_001881	PNNL	CDS	433	1329	.	+	0	ID=CA_scaffold_001881_000002;bin=HLMG_199;product=glutamate carboxypeptidase;EC_number=3.4.17.11
+CA_scaffold_001881	PNNL	CDS	1809	2513	.	-	0	ID=CA_scaffold_001881_000003;bin=HLMG_199
+CA_scaffold_001881	PNNL	CDS	3123	4088	.	-	0	ID=CA_scaffold_001881_000004;bin=HLMG_199
+CA_scaffold_001881	PNNL	CDS	4091	5263	.	+	0	ID=CA_scaffold_001881_000005;bin=HLMG_199
+CA_scaffold_001881	PNNL	CDS	5344	7926	.	-	0	ID=CA_scaffold_001881_000006;bin=HLMG_199;gene=clpC;product=ATP-dependent Clp protease ATP-binding subunit ClpC
+CA_scaffold_001881	PNNL	CDS	8095	9618	.	-	0	ID=CA_scaffold_001881_000007;bin=HLMG_199;gene=gpmI;product=2,3-bisphosphoglycerate-independent phosphoglycerate mutase;EC_number=5.4.2.12
+CA_scaffold_001881	PNNL	CDS	9625	9876	.	-	0	ID=CA_scaffold_001881_000008;bin=HLMG_199;gene=rpsT;product=small subunit ribosomal protein S20
+CA_scaffold_001881	PNNL	CDS	10004	10666	.	+	0	ID=CA_scaffold_001881_000009;bin=HLMG_199;gene=cmk;product=cytidylate kinase;EC_number=2.7.4.14
+CA_scaffold_001881	PNNL	CDS	10728	12635	.	+	0	ID=CA_scaffold_001881_000010;bin=HLMG_199;gene=rpsA;product=small subunit ribosomal protein S1
+CA_scaffold_001881	PNNL	CDS	12882	13133	.	-	0	ID=CA_scaffold_001881_000011;bin=HLMG_199
+CA_scaffold_001881	PNNL	CDS	13595	14593	.	-	0	ID=CA_scaffold_001881_000012;bin=HLMG_199;gene=moxR;product=MoxR-like ATPase;EC_number=3.6.3.-
+CA_scaffold_001881	PNNL	CDS	14621	14749	.	-	0	ID=CA_scaffold_001881_000013;bin=HLMG_199
+CA_scaffold_001881	PNNL	CDS	14757	15572	.	+	0	ID=CA_scaffold_001881_000014;bin=HLMG_199;gene=bacA;product=undecaprenyl-diphosphatase;EC_number=3.6.1.27
+CA_scaffold_001881	PNNL	CDS	15650	16171	.	+	0	ID=CA_scaffold_001881_000015;bin=HLMG_199;gene=nuoJ;product=NADH-quinone oxidoreductase subunit J;EC_number=1.6.5.3
+CA_scaffold_001881	PNNL	CDS	16171	16473	.	+	0	ID=CA_scaffold_001881_000016;bin=HLMG_199;gene=nuoK;product=NADH-quinone oxidoreductase subunit K;EC_number=1.6.5.3
+CA_scaffold_001885	PNNL	CDS	3	335	.	-	0	ID=CA_scaffold_001885_000001;bin=HLMG_199;gene=nuoG;product=NADH-quinone oxidoreductase subunit G;EC_number=1.6.5.3
+CA_scaffold_001885	PNNL	CDS	419	1714	.	-	0	ID=CA_scaffold_001885_000002;bin=HLMG_199;gene=nuoF;product=NADH-quinone oxidoreductase subunit F;EC_number=1.6.5.3
+CA_scaffold_001885	PNNL	CDS	1720	2250	.	-	0	ID=CA_scaffold_001885_000003;bin=HLMG_199;product=NADH dehydrogenase (ubiquinone) flavoprotein 2;EC_number=1.6.5.3 1.6.99.
+CA_scaffold_001885	PNNL	CDS	2255	3547	.	-	0	ID=CA_scaffold_001885_000004;bin=HLMG_199;gene=nuoD;product=NADH-quinone oxidoreductase subunit D;EC_number=1.6.5.3
+CA_scaffold_001885	PNNL	CDS	3557	4057	.	-	0	ID=CA_scaffold_001885_000005;bin=HLMG_199;gene=nuoC;product=NADH-quinone oxidoreductase subunit C;EC_number=1.6.5.3
+CA_scaffold_001885	PNNL	CDS	4075	4557	.	-	0	ID=CA_scaffold_001885_000006;bin=HLMG_199;gene=nuoB;product=NADH-quinone oxidoreductase subunit B;EC_number=1.6.5.3
+CA_scaffold_001885	PNNL	CDS	4567	4905	.	-	0	ID=CA_scaffold_001885_000007;bin=HLMG_199;gene=nuoA;product=NADH-quinone oxidoreductase subunit A;EC_number=1.6.5.3
+CA_scaffold_001885	PNNL	CDS	5138	5767	.	-	0	ID=CA_scaffold_001885_000008;bin=HLMG_199
+CA_scaffold_001885	PNNL	CDS	5786	8104	.	-	0	ID=CA_scaffold_001885_000009;bin=HLMG_199;gene=mrcA;product=penicillin-binding protein 1A;EC_number=2.4.1.- 3.4.-.-
+CA_scaffold_001885	PNNL	CDS	8094	8867	.	-	0	ID=CA_scaffold_001885_000010;bin=HLMG_199;gene=lpxH;product=UDP-2,3-diacylglucosamine hydrolase;EC_number=3.6.1.54
+CA_scaffold_001885	PNNL	CDS	8873	9694	.	-	0	ID=CA_scaffold_001885_000011;bin=HLMG_199;gene=ispB;product=octaprenyl-diphosphate synthase;EC_number=2.5.1.90
+CA_scaffold_001885	PNNL	CDS	9999	10967	.	+	0	ID=CA_scaffold_001885_000012;bin=HLMG_199;gene=pfkA;product=6-phosphofructokinase 1;EC_number=2.7.1.11
+CA_scaffold_001885	PNNL	CDS	10971	12263	.	+	0	ID=CA_scaffold_001885_000013;bin=HLMG_199;gene=pgi;product=glucose-6-phosphate isomerase;EC_number=5.3.1.9
+CA_scaffold_001885	PNNL	CDS	12263	12907	.	+	0	ID=CA_scaffold_001885_000014;bin=HLMG_199
+CA_scaffold_001885	PNNL	CDS	12949	13461	.	+	0	ID=CA_scaffold_001885_000015;bin=HLMG_199
+CA_scaffold_001885	PNNL	CDS	13676	14659	.	+	0	ID=CA_scaffold_001885_000016;bin=HLMG_199;gene=plsX;product=glycerol-3-phosphate acyltransferase PlsX;EC_number=2.3.1.15
+CA_scaffold_001885	PNNL	CDS	14675	15664	.	+	0	ID=CA_scaffold_001885_000017;bin=HLMG_199;gene=fabH;product=3-oxoacyl-[acyl-carrier-protein] synthase III;EC_number=2.3.1.180
+CA_scaffold_001885	PNNL	CDS	15664	16548	.	+	0	ID=CA_scaffold_001885_000018;bin=HLMG_199;gene=fabD;product=[acyl-carrier-protein] S-malonyltransferase;EC_number=2.3.1.39
+CA_scaffold_001885	PNNL	CDS	16548	17291	.	+	0	ID=CA_scaffold_001885_000019;bin=HLMG_199;gene=fabG;product=3-oxoacyl-[acyl-carrier protein] reductase;EC_number=1.1.1.100
+CA_scaffold_001885	PNNL	CDS	17414	17650	.	+	0	ID=CA_scaffold_001885_000020;bin=HLMG_199;gene=acpP;product=acyl carrier protein
+CA_scaffold_001885	PNNL	CDS	17684	18928	.	+	0	ID=CA_scaffold_001885_000021;bin=HLMG_199;gene=fabF;product=3-oxoacyl-[acyl-carrier-protein] synthase II;EC_number=2.3.1.179
+CA_scaffold_001885	PNNL	CDS	18932	19696	.	+	0	ID=CA_scaffold_001885_000022;bin=HLMG_199;gene=rnc;product=ribonuclease III;EC_number=3.1.26.3
+CA_scaffold_001885	PNNL	CDS	19779	21161	.	+	0	ID=CA_scaffold_001885_000023;bin=HLMG_199;gene=mgtE;product=magnesium transporter
+CA_scaffold_001885	PNNL	CDS	21174	22022	.	+	0	ID=CA_scaffold_001885_000024;bin=HLMG_199;gene=thyA;product=thymidylate synthase;EC_number=2.1.1.45
+CA_scaffold_001885	PNNL	CDS	22019	22489	.	+	0	ID=CA_scaffold_001885_000025;bin=HLMG_199;gene=folA;product=dihydrofolate reductase;EC_number=1.5.1.3
+CA_scaffold_001885	PNNL	CDS	22583	23680	.	+	0	ID=CA_scaffold_001885_000026;bin=HLMG_199
+CA_scaffold_001885	PNNL	CDS	23667	24923	.	-	0	ID=CA_scaffold_001885_000027;bin=HLMG_199
+CA_scaffold_001885	PNNL	CDS	24926	25363	.	-	0	ID=CA_scaffold_001885_000028;bin=HLMG_199;gene=ybgC;product=acyl-CoA thioester hydrolase;EC_number=3.1.2.-
+CA_scaffold_001885	PNNL	CDS	25516	25911	.	+	0	ID=CA_scaffold_001885_000029;bin=HLMG_199;product=endoglucanase;EC_number=3.2.1.4
+CA_scaffold_001885	PNNL	CDS	26024	26572	.	+	0	ID=CA_scaffold_001885_000030;bin=HLMG_199
+CA_scaffold_001885	PNNL	CDS	26666	27682	.	-	0	ID=CA_scaffold_001885_000031;bin=HLMG_199;gene=galE;product=UDP-glucose 4-epimerase;EC_number=5.1.3.2
+CA_scaffold_001885	PNNL	CDS	27708	27809	.	-	0	ID=CA_scaffold_001885_000032;bin=HLMG_199
+CA_scaffold_018861	PNNL	CDS	3	98	.	-	0	ID=CA_scaffold_018861_000001;bin=HLMG_199;gene=hsdM;product=type I restriction enzyme M protein;EC_number=2.1.1.72
+CA_scaffold_018861	PNNL	CDS	133	1005	.	-	0	ID=CA_scaffold_018861_000002;bin=HLMG_199
+CA_scaffold_018861	PNNL	CDS	1261	1476	.	-	0	ID=CA_scaffold_018861_000003;bin=HLMG_199
+CA_scaffold_018861	PNNL	CDS	1757	2785	.	+	0	ID=CA_scaffold_018861_000004;bin=HLMG_199
+CA_scaffold_018861	PNNL	CDS	2745	3116	.	+	0	ID=CA_scaffold_018861_000005;bin=HLMG_199
+CA_scaffold_018861	PNNL	CDS	3457	3927	.	+	0	ID=CA_scaffold_018861_000006;bin=HLMG_199
+CA_scaffold_019128	PNNL	CDS	3	98	.	-	0	ID=CA_scaffold_019128_000001;bin=HLMG_199
+CA_scaffold_019128	PNNL	CDS	113	547	.	-	0	ID=CA_scaffold_019128_000002;bin=HLMG_199
+CA_scaffold_019128	PNNL	CDS	544	984	.	-	0	ID=CA_scaffold_019128_000003;bin=HLMG_199;gene=ybgC;product=acyl-CoA thioester hydrolase;EC_number=3.1.2.-
+CA_scaffold_019128	PNNL	CDS	984	1955	.	-	0	ID=CA_scaffold_019128_000004;bin=HLMG_199;gene=accA;product=acetyl-CoA carboxylase carboxyl transferase subunit alpha;EC_number=6.4.1.2
+CA_scaffold_019128	PNNL	CDS	2023	2358	.	-	0	ID=CA_scaffold_019128_000005;bin=HLMG_199
+CA_scaffold_019128	PNNL	CDS	2367	3395	.	-	0	ID=CA_scaffold_019128_000006;bin=HLMG_199;gene=rluD;product=23S rRNA pseudouridine1911/1915/1917 synthase;EC_number=5.4.99.23
+CA_scaffold_019128	PNNL	CDS	3460	4707	.	-	0	ID=CA_scaffold_019128_000007;bin=HLMG_199
+CA_scaffold_019128	PNNL	CDS	4704	5678	.	-	0	ID=CA_scaffold_019128_000008;bin=HLMG_199;product=phosphoesterase RecJ domain-containing protein
+CA_scaffold_019128	PNNL	CDS	5800	6138	.	+	0	ID=CA_scaffold_019128_000009;bin=HLMG_199;gene=thiN;product=thiamine pyrophosphokinase;EC_number=2.7.6.2
+CA_scaffold_019548	PNNL	CDS	2	154	.	+	0	ID=CA_scaffold_019548_000001;bin=HLMG_199;product=Ca2+ transporting ATPase, plasma membrane;EC_number=3.6.3.8
+CA_scaffold_019548	PNNL	CDS	244	969	.	-	0	ID=CA_scaffold_019548_000002;bin=HLMG_199
+CA_scaffold_019548	PNNL	CDS	990	2552	.	-	0	ID=CA_scaffold_019548_000003;bin=HLMG_199
+CA_scaffold_019548	PNNL	CDS	2781	3068	.	-	0	ID=CA_scaffold_019548_000004;bin=HLMG_199
+CA_scaffold_019548	PNNL	CDS	3184	3861	.	-	0	ID=CA_scaffold_019548_000005;bin=HLMG_199
+CA_scaffold_019548	PNNL	CDS	4143	4727	.	-	0	ID=CA_scaffold_019548_000006;bin=HLMG_199
+CA_scaffold_019548	PNNL	CDS	4734	5810	.	-	0	ID=CA_scaffold_019548_000007;bin=HLMG_199
+CA_scaffold_019613	PNNL	CDS	1	417	.	+	0	ID=CA_scaffold_019613_000001;bin=HLMG_199
+CA_scaffold_019613	PNNL	CDS	762	1478	.	-	0	ID=CA_scaffold_019613_000002;bin=HLMG_199;gene=pflA;product=pyruvate formate lyase activating enzyme;EC_number=1.97.1.4
+CA_scaffold_019613	PNNL	CDS	1556	3838	.	-	0	ID=CA_scaffold_019613_000003;bin=HLMG_199;gene=pflD;product=formate C-acetyltransferase;EC_number=2.3.1.54
+CA_scaffold_019613	PNNL	CDS	4256	5026	.	-	0	ID=CA_scaffold_019613_000004;bin=HLMG_199
+CA_scaffold_019613	PNNL	CDS	5131	5241	.	+	0	ID=CA_scaffold_019613_000005;bin=HLMG_199
+CA_scaffold_020162	PNNL	CDS	95	1423	.	-	0	ID=CA_scaffold_020162_000001;bin=HLMG_199;product=N-acetylated-alpha-linked acidic dipeptidase;EC_number=3.4.17.21
+CA_scaffold_020162	PNNL	CDS	1434	2153	.	-	0	ID=CA_scaffold_020162_000002;bin=HLMG_199;product=N-acetylated-alpha-linked acidic dipeptidase;EC_number=3.4.17.21
+CA_scaffold_020162	PNNL	CDS	2199	2711	.	-	0	ID=CA_scaffold_020162_000003;bin=HLMG_199
+CA_scaffold_020162	PNNL	CDS	2817	3542	.	-	0	ID=CA_scaffold_020162_000004;bin=HLMG_199;gene=ytfE;product=regulator of cell morphogenesis and NO signaling
+CA_scaffold_020162	PNNL	CDS	3558	3977	.	-	0	ID=CA_scaffold_020162_000005;bin=HLMG_199
+CA_scaffold_020162	PNNL	CDS	4012	4479	.	-	0	ID=CA_scaffold_020162_000006;bin=HLMG_199
+CA_scaffold_020162	PNNL	CDS	4511	4915	.	-	0	ID=CA_scaffold_020162_000007;bin=HLMG_199
+CA_scaffold_020162	PNNL	CDS	4912	5283	.	-	0	ID=CA_scaffold_020162_000008;bin=HLMG_199;product=protein SCO1/2
+CA_scaffold_020247	PNNL	CDS	2	1825	.	+	0	ID=CA_scaffold_020247_000001;bin=HLMG_199
+CA_scaffold_020247	PNNL	CDS	2039	2209	.	-	0	ID=CA_scaffold_020247_000002;bin=HLMG_199
+CA_scaffold_020247	PNNL	CDS	2425	2748	.	+	0	ID=CA_scaffold_020247_000003;bin=HLMG_199;gene=folE;product=GTP cyclohydrolase I;EC_number=3.5.4.16
+CA_scaffold_020247	PNNL	CDS	2726	3208	.	+	0	ID=CA_scaffold_020247_000004;bin=HLMG_199;gene=folE;product=GTP cyclohydrolase I;EC_number=3.5.4.16
+CA_scaffold_020247	PNNL	CDS	3342	3704	.	-	0	ID=CA_scaffold_020247_000005;bin=HLMG_199;gene=sucA;product=2-oxoglutarate dehydrogenase E1 component;EC_number=1.2.4.2
+CA_scaffold_020247	PNNL	CDS	4353	6758	.	-	0	ID=CA_scaffold_020247_000006;bin=HLMG_199;gene=sucA;product=2-oxoglutarate dehydrogenase E1 component;EC_number=1.2.4.2
+CA_scaffold_020247	PNNL	CDS	7091	8290	.	+	0	ID=CA_scaffold_020247_000007;bin=HLMG_199;gene=pepF;product=oligoendopeptidase F;EC_number=3.4.24.-
+CA_scaffold_002087	PNNL	CDS	1	363	.	+	0	ID=CA_scaffold_002087_000001;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	556	1668	.	-	0	ID=CA_scaffold_002087_000002;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	2000	2860	.	+	0	ID=CA_scaffold_002087_000003;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	2904	3284	.	+	0	ID=CA_scaffold_002087_000004;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	3584	4729	.	-	0	ID=CA_scaffold_002087_000005;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	4751	5305	.	+	0	ID=CA_scaffold_002087_000006;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	5292	6149	.	+	0	ID=CA_scaffold_002087_000007;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	6144	6908	.	-	0	ID=CA_scaffold_002087_000008;bin=HLMG_199;gene=surE;product=5'-nucleotidase;EC_number=3.1.3.5
+CA_scaffold_002087	PNNL	CDS	6954	7781	.	-	0	ID=CA_scaffold_002087_000009;bin=HLMG_199;gene=panB;product=3-methyl-2-oxobutanoate hydroxymethyltransferase;EC_number=2.1.2.11
+CA_scaffold_002087	PNNL	CDS	7778	8215	.	-	0	ID=CA_scaffold_002087_000010;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	8363	9052	.	-	0	ID=CA_scaffold_002087_000011;bin=HLMG_199;gene=ubiE;product=ubiquinone/menaquinone biosynthesis methyltransferase;EC_number=2.1.1.163 2.1.1
+CA_scaffold_002087	PNNL	CDS	9078	9692	.	-	0	ID=CA_scaffold_002087_000012;bin=HLMG_199;gene=gpmB;product=probable phosphoglycerate mutase;EC_number=5.4.2.12
+CA_scaffold_002087	PNNL	CDS	9689	10327	.	-	0	ID=CA_scaffold_002087_000013;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	10391	11173	.	-	0	ID=CA_scaffold_002087_000014;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	11222	12349	.	+	0	ID=CA_scaffold_002087_000015;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	12372	14366	.	+	0	ID=CA_scaffold_002087_000016;bin=HLMG_199;gene=ligA;product=DNA ligase (NAD+);EC_number=6.5.1.2
+CA_scaffold_002087	PNNL	CDS	14489	16897	.	+	0	ID=CA_scaffold_002087_000017;bin=HLMG_199
+CA_scaffold_002087	PNNL	CDS	16900	17754	.	+	0	ID=CA_scaffold_002087_000018;bin=HLMG_199;gene=xerD;product=integrase/recombinase XerD
+CA_scaffold_002119	PNNL	CDS	3	617	.	-	0	ID=CA_scaffold_002119_000001;bin=HLMG_199
+CA_scaffold_002119	PNNL	CDS	666	1271	.	-	0	ID=CA_scaffold_002119_000002;bin=HLMG_199;gene=recR;product=recombination protein RecR
+CA_scaffold_002119	PNNL	CDS	1335	1682	.	-	0	ID=CA_scaffold_002119_000003;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_002119	PNNL	CDS	1679	1960	.	-	0	ID=CA_scaffold_002119_000004;bin=HLMG_199
+CA_scaffold_002119	PNNL	CDS	1929	3530	.	-	0	ID=CA_scaffold_002119_000005;bin=HLMG_199;gene=dnaX;product=DNA polymerase III subunit gamma/tau;EC_number=2.7.7.7
+CA_scaffold_002119	PNNL	CDS	3745	5811	.	+	0	ID=CA_scaffold_002119_000006;bin=HLMG_199
+CA_scaffold_002119	PNNL	CDS	5822	6739	.	-	0	ID=CA_scaffold_002119_000007;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_002119	PNNL	CDS	6806	8266	.	-	0	ID=CA_scaffold_002119_000008;bin=HLMG_199
+CA_scaffold_002119	PNNL	CDS	8766	10205	.	+	0	ID=CA_scaffold_002119_000009;bin=HLMG_199;product=N-acyl-D-amino-acid deacylase;EC_number=3.5.1.81
+CA_scaffold_002119	PNNL	CDS	10678	11604	.	-	0	ID=CA_scaffold_002119_000010;bin=HLMG_199;gene=ghrA;product=gyoxylate/hydroxypyruvate reductase A;EC_number=1.1.1.79 1.1.1.
+CA_scaffold_002119	PNNL	CDS	11838	12248	.	+	0	ID=CA_scaffold_002119_000011;bin=HLMG_199;gene=umuD;product=DNA polymerase V;EC_number=3.4.21.-
+CA_scaffold_002119	PNNL	CDS	12270	13544	.	+	0	ID=CA_scaffold_002119_000012;bin=HLMG_199;gene=umuC;product=DNA polymerase V
+CA_scaffold_002119	PNNL	CDS	13552	14730	.	-	0	ID=CA_scaffold_002119_000013;bin=HLMG_199
+CA_scaffold_002119	PNNL	CDS	14908	16323	.	+	0	ID=CA_scaffold_002119_000014;bin=HLMG_199
+CA_scaffold_021562	PNNL	CDS	2	556	.	+	0	ID=CA_scaffold_021562_000001;bin=HLMG_199
+CA_scaffold_021562	PNNL	CDS	928	2076	.	-	0	ID=CA_scaffold_021562_000002;bin=HLMG_199;gene=lysA;product=diaminopimelate decarboxylase;EC_number=4.1.1.20
+CA_scaffold_021562	PNNL	CDS	2447	3988	.	-	0	ID=CA_scaffold_021562_000003;bin=HLMG_199
+CA_scaffold_021562	PNNL	CDS	4220	4351	.	+	0	ID=CA_scaffold_021562_000004;bin=HLMG_199
+CA_scaffold_021562	PNNL	CDS	4364	5362	.	+	0	ID=CA_scaffold_021562_000005;bin=HLMG_199
+CA_scaffold_021969	PNNL	CDS	2	1063	.	+	0	ID=CA_scaffold_021969_000001;bin=HLMG_199
+CA_scaffold_021969	PNNL	CDS	1090	2784	.	+	0	ID=CA_scaffold_021969_000002;bin=HLMG_199
+CA_scaffold_021969	PNNL	CDS	2829	4226	.	+	0	ID=CA_scaffold_021969_000003;bin=HLMG_199
+CA_scaffold_021969	PNNL	CDS	4310	5191	.	+	0	ID=CA_scaffold_021969_000004;bin=HLMG_199;gene=cphB;product=cyanophycinase;EC_number=3.4.15.6
+CA_scaffold_021969	PNNL	CDS	5184	5429	.	+	0	ID=CA_scaffold_021969_000005;bin=HLMG_199
+CA_scaffold_021969	PNNL	CDS	5447	6334	.	+	0	ID=CA_scaffold_021969_000006;bin=HLMG_199;gene=penP;product=beta-lactamase class A;EC_number=3.5.2.6
+CA_scaffold_021969	PNNL	CDS	6442	9255	.	+	0	ID=CA_scaffold_021969_000007;bin=HLMG_199
+CA_scaffold_002228	PNNL	CDS	3	1190	.	-	0	ID=CA_scaffold_002228_000001;bin=HLMG_199
+CA_scaffold_002228	PNNL	CDS	1333	2817	.	-	0	ID=CA_scaffold_002228_000002;bin=HLMG_199
+CA_scaffold_002228	PNNL	CDS	3007	5112	.	-	0	ID=CA_scaffold_002228_000003;bin=HLMG_199;gene=ftsH;product=cell division protease FtsH;EC_number=3.4.24.-
+CA_scaffold_002228	PNNL	CDS	5242	6276	.	-	0	ID=CA_scaffold_002228_000004;bin=HLMG_199;gene=thiL;product=thiamine-monophosphate kinase;EC_number=2.7.4.16
+CA_scaffold_002228	PNNL	CDS	6351	6797	.	-	0	ID=CA_scaffold_002228_000005;bin=HLMG_199
+CA_scaffold_002228	PNNL	CDS	6803	7345	.	-	0	ID=CA_scaffold_002228_000006;bin=HLMG_199
+CA_scaffold_002228	PNNL	CDS	7350	7619	.	-	0	ID=CA_scaffold_002228_000007;bin=HLMG_199
+CA_scaffold_002228	PNNL	CDS	7655	8365	.	-	0	ID=CA_scaffold_002228_000008;bin=HLMG_199;gene=exbB;product=biopolymer transport protein ExbB
+CA_scaffold_002228	PNNL	CDS	8667	10571	.	-	0	ID=CA_scaffold_002228_000009;bin=HLMG_199;gene=dsbD;product=thiol:disulfide interchange protein DsbD;EC_number=1.8.1.8
+CA_scaffold_002228	PNNL	CDS	10639	11085	.	-	0	ID=CA_scaffold_002228_000010;bin=HLMG_199;gene=rplI;product=large subunit ribosomal protein L9
+CA_scaffold_002228	PNNL	CDS	11103	11354	.	-	0	ID=CA_scaffold_002228_000011;bin=HLMG_199;gene=rpsR;product=small subunit ribosomal protein S18
+CA_scaffold_002228	PNNL	CDS	11375	11761	.	-	0	ID=CA_scaffold_002228_000012;bin=HLMG_199;gene=rpsF;product=small subunit ribosomal protein S6
+CA_scaffold_002228	PNNL	CDS	11957	13396	.	-	0	ID=CA_scaffold_002228_000013;bin=HLMG_199;gene=nuoN;product=NADH-quinone oxidoreductase subunit N;EC_number=1.6.5.3
+CA_scaffold_002228	PNNL	CDS	13398	13688	.	-	0	ID=CA_scaffold_002228_000014;bin=HLMG_199;gene=phhB;product=4a-hydroxytetrahydrobiopterin dehydratase;EC_number=4.2.1.96
+CA_scaffold_002228	PNNL	CDS	13693	13935	.	-	0	ID=CA_scaffold_002228_000015;bin=HLMG_199
+CA_scaffold_002228	PNNL	CDS	14025	14165	.	-	0	ID=CA_scaffold_002228_000016;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	3	671	.	-	0	ID=CA_scaffold_002257_000001;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	757	1800	.	-	0	ID=CA_scaffold_002257_000002;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	1882	3009	.	-	0	ID=CA_scaffold_002257_000003;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	3097	4071	.	+	0	ID=CA_scaffold_002257_000004;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	4175	5632	.	+	0	ID=CA_scaffold_002257_000005;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	5632	6303	.	+	0	ID=CA_scaffold_002257_000006;bin=HLMG_199;gene=mutY;product=A/G-specific adenine glycosylase;EC_number=3.2.2.-
+CA_scaffold_002257	PNNL	CDS	6252	6707	.	+	0	ID=CA_scaffold_002257_000007;bin=HLMG_199;gene=mutY;product=A/G-specific adenine glycosylase;EC_number=3.2.2.-
+CA_scaffold_002257	PNNL	CDS	6707	7543	.	+	0	ID=CA_scaffold_002257_000008;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	7725	8774	.	+	0	ID=CA_scaffold_002257_000009;bin=HLMG_199;gene=recA;product=recombination protein RecA
+CA_scaffold_002257	PNNL	CDS	8777	9475	.	+	0	ID=CA_scaffold_002257_000010;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	9468	10583	.	+	0	ID=CA_scaffold_002257_000011;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	10654	11229	.	+	0	ID=CA_scaffold_002257_000012;bin=HLMG_199;gene=purN;product=phosphoribosylglycinamide formyltransferase 1;EC_number=2.1.2.2
+CA_scaffold_002257	PNNL	CDS	11239	12813	.	+	0	ID=CA_scaffold_002257_000013;bin=HLMG_199;gene=purH;product=phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase;EC_number=2.1.2.3 3.5.4.1
+CA_scaffold_002257	PNNL	CDS	12919	13989	.	+	0	ID=CA_scaffold_002257_000014;bin=HLMG_199;gene=mreB;product=rod shape-determining protein MreB and related proteins
+CA_scaffold_002257	PNNL	CDS	14004	14828	.	+	0	ID=CA_scaffold_002257_000015;bin=HLMG_199;gene=mreC;product=rod shape-determining protein MreC
+CA_scaffold_002257	PNNL	CDS	14825	15301	.	+	0	ID=CA_scaffold_002257_000016;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	15304	17166	.	+	0	ID=CA_scaffold_002257_000017;bin=HLMG_199;gene=mrdA;product=penicillin-binding protein 2
+CA_scaffold_002257	PNNL	CDS	17150	18400	.	+	0	ID=CA_scaffold_002257_000018;bin=HLMG_199;gene=rodA;product=rod shape determining protein RodA
+CA_scaffold_002257	PNNL	CDS	18397	19026	.	-	0	ID=CA_scaffold_002257_000019;bin=HLMG_199;gene=rnhB;product=ribonuclease HII;EC_number=3.1.26.4
+CA_scaffold_002257	PNNL	CDS	19070	20266	.	+	0	ID=CA_scaffold_002257_000020;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	20305	20850	.	-	0	ID=CA_scaffold_002257_000021;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	20869	21390	.	-	0	ID=CA_scaffold_002257_000022;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	21437	21970	.	-	0	ID=CA_scaffold_002257_000023;bin=HLMG_199;gene=hlpA;product=outer membrane protein
+CA_scaffold_002257	PNNL	CDS	21982	24486	.	-	0	ID=CA_scaffold_002257_000024;bin=HLMG_199;gene=bamA;product=outer membrane protein insertion porin family
+CA_scaffold_002257	PNNL	CDS	24506	25333	.	-	0	ID=CA_scaffold_002257_000025;bin=HLMG_199;gene=uppS;product=undecaprenyl diphosphate synthase;EC_number=2.5.1.31
+CA_scaffold_002257	PNNL	CDS	25403	25858	.	-	0	ID=CA_scaffold_002257_000026;bin=HLMG_199;gene=ribH;product=6,7-dimethyl-8-ribityllumazine synthase;EC_number=2.5.1.78
+CA_scaffold_002257	PNNL	CDS	25877	26728	.	-	0	ID=CA_scaffold_002257_000027;bin=HLMG_199
+CA_scaffold_002257	PNNL	CDS	26733	27695	.	-	0	ID=CA_scaffold_002257_000028;bin=HLMG_199;gene=prc;product=carboxyl-terminal processing protease;EC_number=3.4.21.102
+CA_scaffold_002257	PNNL	CDS	27845	28309	.	-	0	ID=CA_scaffold_002257_000029;bin=HLMG_199;gene=prc;product=carboxyl-terminal processing protease;EC_number=3.4.21.102
+CA_scaffold_002257	PNNL	CDS	28329	29405	.	-	0	ID=CA_scaffold_002257_000030;bin=HLMG_199;gene=mltD;product=membrane-bound lytic murein transglycosylase D;EC_number=3.2.1.-
+CA_scaffold_002257	PNNL	CDS	29347	30270	.	-	0	ID=CA_scaffold_002257_000031;bin=HLMG_199;gene=mltD;product=membrane-bound lytic murein transglycosylase D;EC_number=3.2.1.-
+CA_scaffold_002269	PNNL	CDS	476	1834	.	+	0	ID=CA_scaffold_002269_000001;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	2038	2244	.	+	0	ID=CA_scaffold_002269_000002;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	2244	2642	.	+	0	ID=CA_scaffold_002269_000003;bin=HLMG_199;gene=doc;product=death on curing protein
+CA_scaffold_002269	PNNL	CDS	2796	3374	.	+	0	ID=CA_scaffold_002269_000004;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	3492	4280	.	-	0	ID=CA_scaffold_002269_000005;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	4333	5580	.	-	0	ID=CA_scaffold_002269_000006;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	5870	7798	.	-	0	ID=CA_scaffold_002269_000007;bin=HLMG_199;gene=recQ;product=ATP-dependent DNA helicase RecQ;EC_number=3.6.4.12
+CA_scaffold_002269	PNNL	CDS	7925	9040	.	-	0	ID=CA_scaffold_002269_000008;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	9045	10157	.	-	0	ID=CA_scaffold_002269_000009;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	10539	12071	.	+	0	ID=CA_scaffold_002269_000010;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	12543	14147	.	+	0	ID=CA_scaffold_002269_000011;bin=HLMG_199
+CA_scaffold_002269	PNNL	CDS	14178	15224	.	+	0	ID=CA_scaffold_002269_000012;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	2	1918	.	+	0	ID=CA_scaffold_002367_000001;bin=HLMG_199;product=serine/threonine protein kinase, bacterial;EC_number=2.7.11.1
+CA_scaffold_002367	PNNL	CDS	2247	2693	.	-	0	ID=CA_scaffold_002367_000002;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	3113	4636	.	+	0	ID=CA_scaffold_002367_000003;bin=HLMG_199;product=dimethylaniline monooxygenase (N-oxide forming);EC_number=1.14.13.8
+CA_scaffold_002367	PNNL	CDS	5022	5636	.	+	0	ID=CA_scaffold_002367_000004;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	6079	6705	.	+	0	ID=CA_scaffold_002367_000005;bin=HLMG_199;gene=ccmC;product=heme exporter protein C
+CA_scaffold_002367	PNNL	CDS	6702	6989	.	+	0	ID=CA_scaffold_002367_000006;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	7028	7423	.	+	0	ID=CA_scaffold_002367_000007;bin=HLMG_199;gene=ccmE;product=cytochrome c-type biogenesis protein CcmE
+CA_scaffold_002367	PNNL	CDS	7494	9989	.	+	0	ID=CA_scaffold_002367_000008;bin=HLMG_199;gene=ccmF;product=cytochrome c-type biogenesis protein CcmF
+CA_scaffold_002367	PNNL	CDS	10300	11910	.	+	0	ID=CA_scaffold_002367_000009;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	11925	12677	.	+	0	ID=CA_scaffold_002367_000010;bin=HLMG_199;gene=plsC;product=1-acyl-sn-glycerol-3-phosphate acyltransferase;EC_number=2.3.1.51
+CA_scaffold_002367	PNNL	CDS	12718	13146	.	-	0	ID=CA_scaffold_002367_000011;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	14095	14559	.	+	0	ID=CA_scaffold_002367_000012;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	14695	15258	.	-	0	ID=CA_scaffold_002367_000013;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	15875	16342	.	+	0	ID=CA_scaffold_002367_000014;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	16427	18553	.	-	0	ID=CA_scaffold_002367_000015;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	18591	19586	.	-	0	ID=CA_scaffold_002367_000016;bin=HLMG_199;gene=moxR;product=MoxR-like ATPase;EC_number=3.6.3.-
+CA_scaffold_002367	PNNL	CDS	19583	21004	.	-	0	ID=CA_scaffold_002367_000017;bin=HLMG_199;gene=surA;product=peptidyl-prolyl cis-trans isomerase SurA;EC_number=5.2.1.8
+CA_scaffold_002367	PNNL	CDS	21036	21926	.	-	0	ID=CA_scaffold_002367_000018;bin=HLMG_199
+CA_scaffold_002367	PNNL	CDS	22054	22185	.	-	0	ID=CA_scaffold_002367_000019;bin=HLMG_199
+CA_scaffold_002389	PNNL	CDS	1	567	.	-	0	ID=CA_scaffold_002389_000001;bin=HLMG_199;gene=menD;product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase;EC_number=2.2.1.9
+CA_scaffold_002389	PNNL	CDS	560	2014	.	-	0	ID=CA_scaffold_002389_000002;bin=HLMG_199;gene=menF;product=menaquinone-specific isochorismate synthase;EC_number=5.4.4.2
+CA_scaffold_002389	PNNL	CDS	2180	2455	.	-	0	ID=CA_scaffold_002389_000003;bin=HLMG_199
+CA_scaffold_002389	PNNL	CDS	2767	3753	.	+	0	ID=CA_scaffold_002389_000004;bin=HLMG_199;product=cystathionine beta-synthase;EC_number=4.2.1.22
+CA_scaffold_002389	PNNL	CDS	3797	4969	.	+	0	ID=CA_scaffold_002389_000005;bin=HLMG_199
+CA_scaffold_002389	PNNL	CDS	4971	6020	.	-	0	ID=CA_scaffold_002389_000006;bin=HLMG_199;gene=mtnA;product=methylthioribose-1-phosphate isomerase;EC_number=5.3.1.23
+CA_scaffold_002389	PNNL	CDS	6302	6511	.	+	0	ID=CA_scaffold_002389_000007;bin=HLMG_199
+CA_scaffold_002389	PNNL	CDS	6667	7683	.	+	0	ID=CA_scaffold_002389_000008;bin=HLMG_199
+CA_scaffold_002389	PNNL	CDS	7696	8850	.	-	0	ID=CA_scaffold_002389_000009;bin=HLMG_199;gene=rnd;product=ribonuclease D;EC_number=3.1.13.5
+CA_scaffold_002389	PNNL	CDS	8987	10237	.	+	0	ID=CA_scaffold_002389_000010;bin=HLMG_199
+CA_scaffold_002389	PNNL	CDS	10630	11475	.	+	0	ID=CA_scaffold_002389_000011;bin=HLMG_199
+CA_scaffold_002389	PNNL	CDS	11485	11910	.	+	0	ID=CA_scaffold_002389_000012;bin=HLMG_199;gene=csgF;product=curli production assembly/transport component CsgF
+CA_scaffold_002389	PNNL	CDS	11910	13268	.	+	0	ID=CA_scaffold_002389_000013;bin=HLMG_199;gene=csgG;product=curli production assembly/transport component CsgG
+CA_scaffold_023987	PNNL	CDS	1	204	.	+	0	ID=CA_scaffold_023987_000001;bin=HLMG_199
+CA_scaffold_023987	PNNL	CDS	182	2014	.	+	0	ID=CA_scaffold_023987_000002;bin=HLMG_199;gene=fecA;product=Fe(3+) dicitrate transport protein
+CA_scaffold_023987	PNNL	CDS	2008	2595	.	+	0	ID=CA_scaffold_023987_000003;bin=HLMG_199;gene=fecA;product=Fe(3+) dicitrate transport protein
+CA_scaffold_023987	PNNL	CDS	2946	4526	.	+	0	ID=CA_scaffold_023987_000004;bin=HLMG_199
+CA_scaffold_023987	PNNL	CDS	4792	5274	.	-	0	ID=CA_scaffold_023987_000005;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	2	439	.	+	0	ID=CA_scaffold_002426_000001;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	783	1400	.	-	0	ID=CA_scaffold_002426_000002;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	1413	1502	.	-	0	ID=CA_scaffold_002426_000003;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	1562	1909	.	-	0	ID=CA_scaffold_002426_000004;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	2225	2491	.	+	0	ID=CA_scaffold_002426_000005;bin=HLMG_199;product=linoleoyl-CoA desaturase;EC_number=1.14.19.3
+CA_scaffold_002426	PNNL	CDS	2488	2631	.	+	0	ID=CA_scaffold_002426_000006;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	2665	3240	.	+	0	ID=CA_scaffold_002426_000007;bin=HLMG_199;product=linoleoyl-CoA desaturase;EC_number=1.14.19.3
+CA_scaffold_002426	PNNL	CDS	3525	3722	.	+	0	ID=CA_scaffold_002426_000008;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	4014	5510	.	+	0	ID=CA_scaffold_002426_000009;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	6278	7024	.	-	0	ID=CA_scaffold_002426_000010;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	7063	7635	.	-	0	ID=CA_scaffold_002426_000011;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	8064	8543	.	+	0	ID=CA_scaffold_002426_000012;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	8875	9333	.	-	0	ID=CA_scaffold_002426_000013;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	9622	10866	.	-	0	ID=CA_scaffold_002426_000014;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	10945	11223	.	-	0	ID=CA_scaffold_002426_000015;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	11253	11408	.	-	0	ID=CA_scaffold_002426_000016;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	11433	11885	.	-	0	ID=CA_scaffold_002426_000017;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	11943	12155	.	-	0	ID=CA_scaffold_002426_000018;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	12275	12814	.	-	0	ID=CA_scaffold_002426_000019;bin=HLMG_199
+CA_scaffold_002426	PNNL	CDS	13147	13332	.	+	0	ID=CA_scaffold_002426_000020;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	1	897	.	-	0	ID=CA_scaffold_002565_000001;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	1284	2429	.	+	0	ID=CA_scaffold_002565_000002;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	2451	2873	.	+	0	ID=CA_scaffold_002565_000003;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	2993	4594	.	+	0	ID=CA_scaffold_002565_000004;bin=HLMG_199;gene=mcp;product=methyl-accepting chemotaxis protein
+CA_scaffold_002565	PNNL	CDS	4626	4802	.	+	0	ID=CA_scaffold_002565_000005;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	4737	11876	.	-	0	ID=CA_scaffold_002565_000006;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	12108	12266	.	-	0	ID=CA_scaffold_002565_000007;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	12296	13036	.	+	0	ID=CA_scaffold_002565_000008;bin=HLMG_199;gene=lptF;product=lipopolysaccharide export system permease protein
+CA_scaffold_002565	PNNL	CDS	13033	13737	.	+	0	ID=CA_scaffold_002565_000009;bin=HLMG_199;gene=lptF;product=lipopolysaccharide export system permease protein
+CA_scaffold_002565	PNNL	CDS	13730	14806	.	+	0	ID=CA_scaffold_002565_000010;bin=HLMG_199;gene=lptG;product=lipopolysaccharide export system permease protein
+CA_scaffold_002565	PNNL	CDS	14870	15148	.	+	0	ID=CA_scaffold_002565_000011;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	15141	15239	.	+	0	ID=CA_scaffold_002565_000012;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	15268	16167	.	+	0	ID=CA_scaffold_002565_000013;bin=HLMG_199;gene=lptG;product=lipopolysaccharide export system permease protein
+CA_scaffold_002565	PNNL	CDS	16173	16499	.	-	0	ID=CA_scaffold_002565_000014;bin=HLMG_199
+CA_scaffold_002565	PNNL	CDS	16635	16925	.	-	0	ID=CA_scaffold_002565_000015;bin=HLMG_199
+CA_scaffold_002592	PNNL	CDS	1	426	.	+	0	ID=CA_scaffold_002592_000001;bin=HLMG_199
+CA_scaffold_002592	PNNL	CDS	575	1684	.	-	0	ID=CA_scaffold_002592_000002;bin=HLMG_199;product=plectin
+CA_scaffold_002592	PNNL	CDS	1742	2026	.	-	0	ID=CA_scaffold_002592_000003;bin=HLMG_199
+CA_scaffold_002592	PNNL	CDS	2538	4841	.	-	0	ID=CA_scaffold_002592_000004;bin=HLMG_199
+CA_scaffold_002592	PNNL	CDS	4841	5434	.	-	0	ID=CA_scaffold_002592_000005;bin=HLMG_199
+CA_scaffold_002592	PNNL	CDS	5719	6636	.	-	0	ID=CA_scaffold_002592_000006;bin=HLMG_199
+CA_scaffold_002592	PNNL	CDS	6726	7238	.	+	0	ID=CA_scaffold_002592_000007;bin=HLMG_199;gene=rplM;product=large subunit ribosomal protein L13
+CA_scaffold_002592	PNNL	CDS	7248	7634	.	+	0	ID=CA_scaffold_002592_000008;bin=HLMG_199;gene=rpsI;product=small subunit ribosomal protein S9
+CA_scaffold_002592	PNNL	CDS	7863	8816	.	+	0	ID=CA_scaffold_002592_000009;bin=HLMG_199;gene=rpsB;product=small subunit ribosomal protein S2
+CA_scaffold_002592	PNNL	CDS	8844	9674	.	+	0	ID=CA_scaffold_002592_000010;bin=HLMG_199;gene=tsf;product=elongation factor Ts
+CA_scaffold_002592	PNNL	CDS	9749	10471	.	+	0	ID=CA_scaffold_002592_000011;bin=HLMG_199;gene=pyrH;product=uridylate kinase;EC_number=2.7.4.22
+CA_scaffold_002592	PNNL	CDS	10573	11142	.	+	0	ID=CA_scaffold_002592_000012;bin=HLMG_199;gene=frr;product=ribosome recycling factor
+CA_scaffold_002592	PNNL	CDS	11288	12721	.	+	0	ID=CA_scaffold_002592_000013;bin=HLMG_199;gene=smc;product=chromosome segregation protein
+CA_scaffold_026099	PNNL	CDS	3	437	.	-	0	ID=CA_scaffold_026099_000001;bin=HLMG_199
+CA_scaffold_026099	PNNL	CDS	448	3063	.	-	0	ID=CA_scaffold_026099_000002;bin=HLMG_199
+CA_scaffold_026099	PNNL	CDS	3338	4042	.	-	0	ID=CA_scaffold_026099_000003;bin=HLMG_199
+CA_scaffold_026099	PNNL	CDS	4039	4647	.	-	0	ID=CA_scaffold_026099_000004;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_026099	PNNL	CDS	4876	5340	.	+	0	ID=CA_scaffold_026099_000005;bin=HLMG_199
+CA_scaffold_026099	PNNL	CDS	5407	5562	.	-	0	ID=CA_scaffold_026099_000006;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	1	381	.	+	0	ID=CA_scaffold_002675_000001;bin=HLMG_199;gene=thiN;product=thiamine pyrophosphokinase;EC_number=2.7.6.2
+CA_scaffold_002675	PNNL	CDS	504	1745	.	+	0	ID=CA_scaffold_002675_000002;bin=HLMG_199;product=solute:Na+ symporter, SSS family
+CA_scaffold_002675	PNNL	CDS	1752	2036	.	-	0	ID=CA_scaffold_002675_000003;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	2033	2452	.	-	0	ID=CA_scaffold_002675_000004;bin=HLMG_199;gene=tsaE;product=tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+CA_scaffold_002675	PNNL	CDS	2454	4154	.	-	0	ID=CA_scaffold_002675_000005;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	4111	4677	.	-	0	ID=CA_scaffold_002675_000006;bin=HLMG_199;gene=comEA;product=competence protein ComEA
+CA_scaffold_002675	PNNL	CDS	4802	5530	.	+	0	ID=CA_scaffold_002675_000007;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	5537	5734	.	-	0	ID=CA_scaffold_002675_000008;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	5893	6630	.	+	0	ID=CA_scaffold_002675_000009;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	6742	8421	.	+	0	ID=CA_scaffold_002675_000010;bin=HLMG_199;product=N-acyl-D-amino-acid deacylase;EC_number=3.5.1.81
+CA_scaffold_002675	PNNL	CDS	8636	9925	.	+	0	ID=CA_scaffold_002675_000011;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	9977	12526	.	-	0	ID=CA_scaffold_002675_000012;bin=HLMG_199;product=serine/threonine protein kinase, bacterial;EC_number=2.7.11.1
+CA_scaffold_002675	PNNL	CDS	12545	12739	.	-	0	ID=CA_scaffold_002675_000013;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	12726	13085	.	-	0	ID=CA_scaffold_002675_000014;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	13544	14005	.	+	0	ID=CA_scaffold_002675_000015;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	14015	14566	.	+	0	ID=CA_scaffold_002675_000016;bin=HLMG_199
+CA_scaffold_002675	PNNL	CDS	14736	15497	.	+	0	ID=CA_scaffold_002675_000017;bin=HLMG_199
+CA_scaffold_002753	PNNL	CDS	3	707	.	+	0	ID=CA_scaffold_002753_000001;bin=HLMG_199;gene=cheR;product=chemotaxis protein methyltransferase CheR;EC_number=2.1.1.80
+CA_scaffold_002753	PNNL	CDS	704	1258	.	+	0	ID=CA_scaffold_002753_000002;bin=HLMG_199;gene=cheD;product=chemotaxis protein CheD;EC_number=3.5.1.44
+CA_scaffold_002753	PNNL	CDS	1258	1674	.	+	0	ID=CA_scaffold_002753_000003;bin=HLMG_199;gene=cheY;product=two-component system, chemotaxis family, response regulator CheY
+CA_scaffold_002753	PNNL	CDS	1749	2129	.	+	0	ID=CA_scaffold_002753_000004;bin=HLMG_199
+CA_scaffold_002753	PNNL	CDS	2126	2593	.	+	0	ID=CA_scaffold_002753_000005;bin=HLMG_199
+CA_scaffold_002753	PNNL	CDS	2599	3669	.	+	0	ID=CA_scaffold_002753_000006;bin=HLMG_199;gene=cheB;product=two-component system, chemotaxis family, response regulator CheB;EC_number=3.1.1.61
+CA_scaffold_002753	PNNL	CDS	3689	4075	.	+	0	ID=CA_scaffold_002753_000007;bin=HLMG_199;gene=cheY;product=two-component system, chemotaxis family, response regulator CheY
+CA_scaffold_002753	PNNL	CDS	4833	6533	.	+	0	ID=CA_scaffold_002753_000008;bin=HLMG_199;gene=mcp;product=methyl-accepting chemotaxis protein
+CA_scaffold_002753	PNNL	CDS	6736	8430	.	+	0	ID=CA_scaffold_002753_000009;bin=HLMG_199;gene=mcp;product=methyl-accepting chemotaxis protein
+CA_scaffold_002753	PNNL	CDS	8693	9214	.	+	0	ID=CA_scaffold_002753_000010;bin=HLMG_199;gene=cheW;product=purine-binding chemotaxis protein CheW
+CA_scaffold_002753	PNNL	CDS	9413	11521	.	+	0	ID=CA_scaffold_002753_000011;bin=HLMG_199;gene=mcp;product=methyl-accepting chemotaxis protein
+CA_scaffold_002753	PNNL	CDS	11609	11989	.	+	0	ID=CA_scaffold_002753_000012;bin=HLMG_199
+CA_scaffold_002753	PNNL	CDS	12089	12220	.	+	0	ID=CA_scaffold_002753_000013;bin=HLMG_199
+CA_scaffold_002765	PNNL	CDS	3	1949	.	-	0	ID=CA_scaffold_002765_000001;bin=HLMG_199
+CA_scaffold_002765	PNNL	CDS	1952	6610	.	-	0	ID=CA_scaffold_002765_000002;bin=HLMG_199
+CA_scaffold_002765	PNNL	CDS	7071	7643	.	-	0	ID=CA_scaffold_002765_000003;bin=HLMG_199
+CA_scaffold_002765	PNNL	CDS	7757	9775	.	-	0	ID=CA_scaffold_002765_000004;bin=HLMG_199
+CA_scaffold_002765	PNNL	CDS	9826	11826	.	-	0	ID=CA_scaffold_002765_000005;bin=HLMG_199
+CA_scaffold_002765	PNNL	CDS	11871	16850	.	-	0	ID=CA_scaffold_002765_000006;bin=HLMG_199
+CA_scaffold_002788	PNNL	CDS	1	591	.	+	0	ID=CA_scaffold_002788_000001;bin=HLMG_199;gene=npdA;product=NAD-dependent deacetylase;EC_number=3.5.1.-
+CA_scaffold_002788	PNNL	CDS	584	1462	.	+	0	ID=CA_scaffold_002788_000002;bin=HLMG_199
+CA_scaffold_002788	PNNL	CDS	1540	2202	.	-	0	ID=CA_scaffold_002788_000003;bin=HLMG_199
+CA_scaffold_002788	PNNL	CDS	2283	2981	.	-	0	ID=CA_scaffold_002788_000004;bin=HLMG_199
+CA_scaffold_002788	PNNL	CDS	3153	4250	.	+	0	ID=CA_scaffold_002788_000005;bin=HLMG_199;gene=hisC;product=histidinol-phosphate aminotransferase;EC_number=2.6.1.9
+CA_scaffold_002788	PNNL	CDS	4272	6341	.	+	0	ID=CA_scaffold_002788_000006;bin=HLMG_199;gene=bkdA;product=2-oxoisovalerate dehydrogenase E1 component;EC_number=1.2.4.4
+CA_scaffold_002788	PNNL	CDS	6595	8448	.	+	0	ID=CA_scaffold_002788_000007;bin=HLMG_199
+CA_scaffold_002788	PNNL	CDS	8461	10020	.	-	0	ID=CA_scaffold_002788_000008;bin=HLMG_199;gene=glpA;product=glycerol-3-phosphate dehydrogenase;EC_number=1.1.5.3
+CA_scaffold_002788	PNNL	CDS	10308	13262	.	+	0	ID=CA_scaffold_002788_000009;bin=HLMG_199
+CA_scaffold_002788	PNNL	CDS	13274	14647	.	+	0	ID=CA_scaffold_002788_000010;bin=HLMG_199
+CA_scaffold_002788	PNNL	CDS	14838	15053	.	-	0	ID=CA_scaffold_002788_000011;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	3	1013	.	-	0	ID=CA_scaffold_002794_000001;bin=HLMG_199;gene=recG;product=ATP-dependent DNA helicase RecG;EC_number=3.6.4.12
+CA_scaffold_002794	PNNL	CDS	1019	1936	.	-	0	ID=CA_scaffold_002794_000002;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	2053	2286	.	-	0	ID=CA_scaffold_002794_000003;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	2333	5344	.	-	0	ID=CA_scaffold_002794_000004;bin=HLMG_199;gene=hsdR;product=type I restriction enzyme, R subunit;EC_number=3.1.21.3
+CA_scaffold_002794	PNNL	CDS	5356	6735	.	-	0	ID=CA_scaffold_002794_000005;bin=HLMG_199;gene=hsdS;product=type I restriction enzyme, S subunit;EC_number=3.1.21.3
+CA_scaffold_002794	PNNL	CDS	6743	7570	.	-	0	ID=CA_scaffold_002794_000006;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	7567	7869	.	-	0	ID=CA_scaffold_002794_000007;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	7956	8948	.	+	0	ID=CA_scaffold_002794_000008;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	8935	10107	.	+	0	ID=CA_scaffold_002794_000009;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	10107	10835	.	+	0	ID=CA_scaffold_002794_000010;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	10871	11668	.	-	0	ID=CA_scaffold_002794_000011;bin=HLMG_199
+CA_scaffold_002794	PNNL	CDS	11665	12126	.	-	0	ID=CA_scaffold_002794_000012;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	2	391	.	+	0	ID=CA_scaffold_002912_000001;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	649	1011	.	+	0	ID=CA_scaffold_002912_000002;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	2001	2351	.	-	0	ID=CA_scaffold_002912_000003;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	2440	2574	.	-	0	ID=CA_scaffold_002912_000004;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	2600	3445	.	-	0	ID=CA_scaffold_002912_000005;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	3813	4538	.	+	0	ID=CA_scaffold_002912_000006;bin=HLMG_199;gene=phhA;product=phenylalanine-4-hydroxylase;EC_number=1.14.16.1
+CA_scaffold_002912	PNNL	CDS	4621	7350	.	-	0	ID=CA_scaffold_002912_000007;bin=HLMG_199;product=Ca2+-transporting ATPase;EC_number=3.6.3.8
+CA_scaffold_002912	PNNL	CDS	7986	8978	.	+	0	ID=CA_scaffold_002912_000008;bin=HLMG_199;gene=ldh;product=L-lactate dehydrogenase;EC_number=1.1.1.27
+CA_scaffold_002912	PNNL	CDS	9222	9740	.	-	0	ID=CA_scaffold_002912_000009;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	10381	10860	.	-	0	ID=CA_scaffold_002912_000010;bin=HLMG_199
+CA_scaffold_002912	PNNL	CDS	10942	12051	.	-	0	ID=CA_scaffold_002912_000011;bin=HLMG_199;gene=metB;product=cystathionine gamma-synthase;EC_number=2.5.1.48
+CA_scaffold_002951	PNNL	CDS	158	1132	.	-	0	ID=CA_scaffold_002951_000001;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	1188	1709	.	-	0	ID=CA_scaffold_002951_000002;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	2002	2964	.	-	0	ID=CA_scaffold_002951_000003;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	2957	3091	.	-	0	ID=CA_scaffold_002951_000004;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	3161	3496	.	-	0	ID=CA_scaffold_002951_000005;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	3635	4597	.	-	0	ID=CA_scaffold_002951_000006;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	4594	5397	.	-	0	ID=CA_scaffold_002951_000007;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	5455	6690	.	-	0	ID=CA_scaffold_002951_000008;bin=HLMG_199;gene=hipA;product=serine/threonine-protein kinase HipA;EC_number=2.7.11.1
+CA_scaffold_002951	PNNL	CDS	6687	6980	.	-	0	ID=CA_scaffold_002951_000009;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	7241	8485	.	-	0	ID=CA_scaffold_002951_000010;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	8990	9472	.	-	0	ID=CA_scaffold_002951_000011;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	9766	11274	.	+	0	ID=CA_scaffold_002951_000012;bin=HLMG_199
+CA_scaffold_002951	PNNL	CDS	11423	11578	.	-	0	ID=CA_scaffold_002951_000013;bin=HLMG_199
+CA_scaffold_002959	PNNL	CDS	2	589	.	+	0	ID=CA_scaffold_002959_000001;bin=HLMG_199
+CA_scaffold_002959	PNNL	CDS	579	2462	.	+	0	ID=CA_scaffold_002959_000002;bin=HLMG_199
+CA_scaffold_002959	PNNL	CDS	2459	2839	.	-	0	ID=CA_scaffold_002959_000003;bin=HLMG_199;gene=ridA;product=reactive intermediate imine deaminase;EC_number=3.5.4.-
+CA_scaffold_002959	PNNL	CDS	3005	4318	.	+	0	ID=CA_scaffold_002959_000004;bin=HLMG_199
+CA_scaffold_002959	PNNL	CDS	4343	5548	.	+	0	ID=CA_scaffold_002959_000005;bin=HLMG_199
+CA_scaffold_002959	PNNL	CDS	5552	6688	.	+	0	ID=CA_scaffold_002959_000006;bin=HLMG_199;gene=metC;product=cystathionine beta-lyase;EC_number=4.4.1.8
+CA_scaffold_002959	PNNL	CDS	6705	7883	.	+	0	ID=CA_scaffold_002959_000007;bin=HLMG_199;gene=atoB;product=acetyl-CoA C-acetyltransferase;EC_number=2.3.1.9
+CA_scaffold_002959	PNNL	CDS	8204	9340	.	+	0	ID=CA_scaffold_002959_000008;bin=HLMG_199
+CA_scaffold_002959	PNNL	CDS	9352	12177	.	+	0	ID=CA_scaffold_002959_000009;bin=HLMG_199
+CA_scaffold_003011	PNNL	CDS	1	249	.	+	0	ID=CA_scaffold_003011_000001;bin=HLMG_199;gene=metX;product=homoserine O-acetyltransferase;EC_number=2.3.1.31
+CA_scaffold_003011	PNNL	CDS	253	1323	.	+	0	ID=CA_scaffold_003011_000002;bin=HLMG_199;gene=thrA;product=bifunctional aspartokinase / homoserine dehydrogenase 1;EC_number=2.7.2.4 1.1.1.3
+CA_scaffold_003011	PNNL	CDS	1378	1998	.	-	0	ID=CA_scaffold_003011_000003;bin=HLMG_199
+CA_scaffold_003011	PNNL	CDS	2449	2916	.	+	0	ID=CA_scaffold_003011_000004;bin=HLMG_199;gene=mraZ;product=MraZ protein
+CA_scaffold_003011	PNNL	CDS	2913	3836	.	+	0	ID=CA_scaffold_003011_000005;bin=HLMG_199;gene=mraW;product=16S rRNA (cytosine1402-N4)-methyltransferase;EC_number=2.1.1.199
+CA_scaffold_003011	PNNL	CDS	3836	4285	.	+	0	ID=CA_scaffold_003011_000006;bin=HLMG_199
+CA_scaffold_003011	PNNL	CDS	4294	6447	.	+	0	ID=CA_scaffold_003011_000007;bin=HLMG_199
+CA_scaffold_003011	PNNL	CDS	6448	7935	.	+	0	ID=CA_scaffold_003011_000008;bin=HLMG_199;gene=murE;product=UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase;EC_number=6.3.2.13
+CA_scaffold_003011	PNNL	CDS	7935	9071	.	+	0	ID=CA_scaffold_003011_000009;bin=HLMG_199;gene=mraY;product=phospho-N-acetylmuramoyl-pentapeptide-transferase;EC_number=2.7.8.13
+CA_scaffold_003011	PNNL	CDS	9223	10392	.	+	0	ID=CA_scaffold_003011_000010;bin=HLMG_199;gene=murD;product=UDP-N-acetylmuramoylalanine--D-glutamate ligase;EC_number=6.3.2.9
+CA_scaffold_003011	PNNL	CDS	10411	11604	.	+	0	ID=CA_scaffold_003011_000011;bin=HLMG_199;gene=ftsW;product=cell division protein FtsW
+CA_scaffold_003011	PNNL	CDS	11604	12764	.	+	0	ID=CA_scaffold_003011_000012;bin=HLMG_199;gene=murG;product=UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosam;EC_number=2.4.1.227
+CA_scaffold_003011	PNNL	CDS	12761	14170	.	+	0	ID=CA_scaffold_003011_000013;bin=HLMG_199;gene=murC;product=UDP-N-acetylmuramate--alanine ligase;EC_number=6.3.2.8
+CA_scaffold_003011	PNNL	CDS	14178	14942	.	+	0	ID=CA_scaffold_003011_000014;bin=HLMG_199
+CA_scaffold_003011	PNNL	CDS	14991	16259	.	+	0	ID=CA_scaffold_003011_000015;bin=HLMG_199;gene=ftsA;product=cell division protein FtsA
+CA_scaffold_003011	PNNL	CDS	16376	17710	.	+	0	ID=CA_scaffold_003011_000016;bin=HLMG_199;gene=ftsZ;product=cell division protein FtsZ
+CA_scaffold_003011	PNNL	CDS	17909	18487	.	+	0	ID=CA_scaffold_003011_000017;bin=HLMG_199
+CA_scaffold_003011	PNNL	CDS	18492	19226	.	-	0	ID=CA_scaffold_003011_000018;bin=HLMG_199
+CA_scaffold_003011	PNNL	CDS	19288	20493	.	-	0	ID=CA_scaffold_003011_000019;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	1	1104	.	-	0	ID=CA_scaffold_003014_000001;bin=HLMG_199;gene=rsbU;product=sigma-B regulation protein RsbU (phosphoserine phosphatase)
+CA_scaffold_003014	PNNL	CDS	1113	1499	.	-	0	ID=CA_scaffold_003014_000002;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	1496	2842	.	-	0	ID=CA_scaffold_003014_000003;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	2994	4658	.	-	0	ID=CA_scaffold_003014_000004;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	4655	7243	.	-	0	ID=CA_scaffold_003014_000005;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	7421	7840	.	-	0	ID=CA_scaffold_003014_000006;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	8796	9404	.	+	0	ID=CA_scaffold_003014_000007;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	9816	10766	.	-	0	ID=CA_scaffold_003014_000008;bin=HLMG_199
+CA_scaffold_003014	PNNL	CDS	11057	11416	.	-	0	ID=CA_scaffold_003014_000009;bin=HLMG_199
+CA_scaffold_003027	PNNL	CDS	22	831	.	-	0	ID=CA_scaffold_003027_000001;bin=HLMG_199;gene=map;product=methionyl aminopeptidase;EC_number=3.4.11.18
+CA_scaffold_003027	PNNL	CDS	831	2057	.	-	0	ID=CA_scaffold_003027_000002;bin=HLMG_199;gene=secY;product=preprotein translocase subunit SecY
+CA_scaffold_003027	PNNL	CDS	2171	2623	.	-	0	ID=CA_scaffold_003027_000003;bin=HLMG_199;gene=rplO;product=large subunit ribosomal protein L15
+CA_scaffold_003027	PNNL	CDS	2651	3175	.	-	0	ID=CA_scaffold_003027_000004;bin=HLMG_199;gene=rpsE;product=small subunit ribosomal protein S5
+CA_scaffold_003027	PNNL	CDS	3189	3557	.	-	0	ID=CA_scaffold_003027_000005;bin=HLMG_199;gene=rplR;product=large subunit ribosomal protein L18
+CA_scaffold_003027	PNNL	CDS	3577	4131	.	-	0	ID=CA_scaffold_003027_000006;bin=HLMG_199;gene=rplF;product=large subunit ribosomal protein L6
+CA_scaffold_003027	PNNL	CDS	4153	4548	.	-	0	ID=CA_scaffold_003027_000007;bin=HLMG_199;gene=rpsH;product=small subunit ribosomal protein S8
+CA_scaffold_003027	PNNL	CDS	4566	4835	.	-	0	ID=CA_scaffold_003027_000008;bin=HLMG_199;gene=rpsN;product=small subunit ribosomal protein S14
+CA_scaffold_003027	PNNL	CDS	4861	5406	.	-	0	ID=CA_scaffold_003027_000009;bin=HLMG_199;gene=rplE;product=large subunit ribosomal protein L5
+CA_scaffold_003027	PNNL	CDS	5415	5768	.	-	0	ID=CA_scaffold_003027_000010;bin=HLMG_199;gene=rplX;product=large subunit ribosomal protein L24
+CA_scaffold_003027	PNNL	CDS	5782	6150	.	-	0	ID=CA_scaffold_003027_000011;bin=HLMG_199;gene=rplN;product=large subunit ribosomal protein L14
+CA_scaffold_003027	PNNL	CDS	6175	6438	.	-	0	ID=CA_scaffold_003027_000012;bin=HLMG_199;gene=rpsQ;product=small subunit ribosomal protein S17
+CA_scaffold_003027	PNNL	CDS	6442	6639	.	-	0	ID=CA_scaffold_003027_000013;bin=HLMG_199;gene=rpmC;product=large subunit ribosomal protein L29
+CA_scaffold_003027	PNNL	CDS	6657	7079	.	-	0	ID=CA_scaffold_003027_000014;bin=HLMG_199;gene=rplP;product=large subunit ribosomal protein L16
+CA_scaffold_003027	PNNL	CDS	7098	7838	.	-	0	ID=CA_scaffold_003027_000015;bin=HLMG_199;gene=rpsC;product=small subunit ribosomal protein S3
+CA_scaffold_003027	PNNL	CDS	7851	8231	.	-	0	ID=CA_scaffold_003027_000016;bin=HLMG_199;gene=rplV;product=large subunit ribosomal protein L22
+CA_scaffold_003027	PNNL	CDS	8248	8517	.	-	0	ID=CA_scaffold_003027_000017;bin=HLMG_199;gene=rpsS;product=small subunit ribosomal protein S19
+CA_scaffold_003027	PNNL	CDS	8523	9356	.	-	0	ID=CA_scaffold_003027_000018;bin=HLMG_199;gene=rplB;product=large subunit ribosomal protein L2
+CA_scaffold_003027	PNNL	CDS	9370	9660	.	-	0	ID=CA_scaffold_003027_000019;bin=HLMG_199;gene=rplW;product=large subunit ribosomal protein L23
+CA_scaffold_003027	PNNL	CDS	9657	10307	.	-	0	ID=CA_scaffold_003027_000020;bin=HLMG_199;gene=rplD;product=large subunit ribosomal protein L4
+CA_scaffold_003027	PNNL	CDS	10307	10948	.	-	0	ID=CA_scaffold_003027_000021;bin=HLMG_199;gene=rplC;product=large subunit ribosomal protein L3
+CA_scaffold_003027	PNNL	CDS	10965	11276	.	-	0	ID=CA_scaffold_003027_000022;bin=HLMG_199;gene=rpsJ;product=small subunit ribosomal protein S10
+CA_scaffold_003027	PNNL	CDS	11289	11387	.	-	0	ID=CA_scaffold_003027_000023;bin=HLMG_199;gene=tuf;product=elongation factor Tu
+CA_scaffold_003062	PNNL	CDS	3	410	.	+	0	ID=CA_scaffold_003062_000001;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	450	2699	.	+	0	ID=CA_scaffold_003062_000002;bin=HLMG_199;product=iron complex outermembrane recepter protein
+CA_scaffold_003062	PNNL	CDS	2744	3622	.	-	0	ID=CA_scaffold_003062_000003;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	3914	4990	.	+	0	ID=CA_scaffold_003062_000004;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	5354	6937	.	+	0	ID=CA_scaffold_003062_000005;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	7028	7519	.	+	0	ID=CA_scaffold_003062_000006;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	7719	8669	.	+	0	ID=CA_scaffold_003062_000007;bin=HLMG_199;gene=ilvA;product=threonine dehydratase;EC_number=4.3.1.19
+CA_scaffold_003062	PNNL	CDS	8727	9557	.	-	0	ID=CA_scaffold_003062_000008;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	9970	10167	.	+	0	ID=CA_scaffold_003062_000009;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	10176	10280	.	-	0	ID=CA_scaffold_003062_000010;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	10314	11003	.	+	0	ID=CA_scaffold_003062_000011;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	11000	12277	.	+	0	ID=CA_scaffold_003062_000012;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	12389	14803	.	+	0	ID=CA_scaffold_003062_000013;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	14903	15289	.	-	0	ID=CA_scaffold_003062_000014;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	15305	16027	.	+	0	ID=CA_scaffold_003062_000015;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	16199	17416	.	-	0	ID=CA_scaffold_003062_000016;bin=HLMG_199;gene=pfkA;product=6-phosphofructokinase 1;EC_number=2.7.1.11
+CA_scaffold_003062	PNNL	CDS	17515	17715	.	+	0	ID=CA_scaffold_003062_000017;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	18231	18662	.	+	0	ID=CA_scaffold_003062_000018;bin=HLMG_199
+CA_scaffold_003062	PNNL	CDS	18823	19980	.	+	0	ID=CA_scaffold_003062_000019;bin=HLMG_199;gene=ypsC;product=putative N6-adenine-specific DNA methylase;EC_number=2.1.1.-
+CA_scaffold_003062	PNNL	CDS	20003	20635	.	-	0	ID=CA_scaffold_003062_000020;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	3	1406	.	-	0	ID=CA_scaffold_003094_000001;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	1542	1922	.	+	0	ID=CA_scaffold_003094_000002;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	1931	2359	.	-	0	ID=CA_scaffold_003094_000003;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	2411	3133	.	-	0	ID=CA_scaffold_003094_000004;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	3255	4745	.	+	0	ID=CA_scaffold_003094_000005;bin=HLMG_199;gene=gltX;product=glutamyl-tRNA synthetase;EC_number=6.1.1.17
+CA_scaffold_003094	PNNL	CDS	4912	7998	.	+	0	ID=CA_scaffold_003094_000006;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	8080	9099	.	+	0	ID=CA_scaffold_003094_000007;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	9177	10193	.	-	0	ID=CA_scaffold_003094_000008;bin=HLMG_199
+CA_scaffold_003094	PNNL	CDS	10289	11209	.	-	0	ID=CA_scaffold_003094_000009;bin=HLMG_199
+CA_scaffold_003202	PNNL	CDS	3	1553	.	-	0	ID=CA_scaffold_003202_000001;bin=HLMG_199
+CA_scaffold_003202	PNNL	CDS	1787	3181	.	+	0	ID=CA_scaffold_003202_000002;bin=HLMG_199
+CA_scaffold_003202	PNNL	CDS	3356	4477	.	+	0	ID=CA_scaffold_003202_000003;bin=HLMG_199
+CA_scaffold_003202	PNNL	CDS	4523	5035	.	-	0	ID=CA_scaffold_003202_000004;bin=HLMG_199
+CA_scaffold_003202	PNNL	CDS	5434	7893	.	+	0	ID=CA_scaffold_003202_000005;bin=HLMG_199
+CA_scaffold_003202	PNNL	CDS	8140	9771	.	-	0	ID=CA_scaffold_003202_000006;bin=HLMG_199;product=1-pyrroline-5-carboxylate dehydrogenase;EC_number=1.2.1.88
+CA_scaffold_003202	PNNL	CDS	9929	10933	.	-	0	ID=CA_scaffold_003202_000007;bin=HLMG_199;gene=nagB;product=glucosamine-6-phosphate deaminase;EC_number=3.5.99.6
+CA_scaffold_003208	PNNL	CDS	3	374	.	-	0	ID=CA_scaffold_003208_000001;bin=HLMG_199;gene=rpiB;product=ribose 5-phosphate isomerase B;EC_number=5.3.1.6
+CA_scaffold_003208	PNNL	CDS	481	1350	.	-	0	ID=CA_scaffold_003208_000002;bin=HLMG_199
+CA_scaffold_003208	PNNL	CDS	1403	3688	.	-	0	ID=CA_scaffold_003208_000003;bin=HLMG_199
+CA_scaffold_003208	PNNL	CDS	3695	3871	.	+	0	ID=CA_scaffold_003208_000004;bin=HLMG_199
+CA_scaffold_003208	PNNL	CDS	4152	4694	.	+	0	ID=CA_scaffold_003208_000005;bin=HLMG_199
+CA_scaffold_003208	PNNL	CDS	5630	5962	.	+	0	ID=CA_scaffold_003208_000006;bin=HLMG_199
+CA_scaffold_003208	PNNL	CDS	5996	6970	.	-	0	ID=CA_scaffold_003208_000007;bin=HLMG_199
+CA_scaffold_003208	PNNL	CDS	7075	8103	.	-	0	ID=CA_scaffold_003208_000008;bin=HLMG_199;gene=hprK;product=HPr kinase/phosphorylase;EC_number=2.7.11.- 2.7.4.
+CA_scaffold_003208	PNNL	CDS	8177	8476	.	-	0	ID=CA_scaffold_003208_000009;bin=HLMG_199;gene=yhbH;product=putative sigma-54 modulation protein
+CA_scaffold_003208	PNNL	CDS	8496	9413	.	-	0	ID=CA_scaffold_003208_000010;bin=HLMG_199;gene=xerC;product=integrase/recombinase XerC
+CA_scaffold_003208	PNNL	CDS	9508	10683	.	-	0	ID=CA_scaffold_003208_000011;bin=HLMG_199
+CA_scaffold_003208	PNNL	CDS	10764	10901	.	+	0	ID=CA_scaffold_003208_000012;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	119	3502	.	+	0	ID=CA_scaffold_003241_000001;bin=HLMG_199;gene=hsdR;product=type I restriction enzyme, R subunit;EC_number=3.1.21.3
+CA_scaffold_003241	PNNL	CDS	3552	3971	.	+	0	ID=CA_scaffold_003241_000002;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	3940	4629	.	+	0	ID=CA_scaffold_003241_000003;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	4589	5203	.	+	0	ID=CA_scaffold_003241_000004;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	5639	7573	.	+	0	ID=CA_scaffold_003241_000005;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	8841	9815	.	+	0	ID=CA_scaffold_003241_000006;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	9812	10342	.	+	0	ID=CA_scaffold_003241_000007;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	11005	11448	.	+	0	ID=CA_scaffold_003241_000008;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	11409	11783	.	+	0	ID=CA_scaffold_003241_000009;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	11804	12040	.	-	0	ID=CA_scaffold_003241_000010;bin=HLMG_199
+CA_scaffold_003241	PNNL	CDS	12115	13506	.	-	0	ID=CA_scaffold_003241_000011;bin=HLMG_199
+CA_scaffold_003242	PNNL	CDS	2	478	.	+	0	ID=CA_scaffold_003242_000001;bin=HLMG_199
+CA_scaffold_003242	PNNL	CDS	468	1289	.	-	0	ID=CA_scaffold_003242_000002;bin=HLMG_199;gene=pssA;product=CDP-diacylglycerol---serine O-phosphatidyltransferase;EC_number=2.7.8.8
+CA_scaffold_003242	PNNL	CDS	1292	1939	.	-	0	ID=CA_scaffold_003242_000003;bin=HLMG_199;gene=psd;product=phosphatidylserine decarboxylase;EC_number=4.1.1.65
+CA_scaffold_003242	PNNL	CDS	1946	3289	.	-	0	ID=CA_scaffold_003242_000004;bin=HLMG_199;gene=rseP;product=regulator of sigma E protease;EC_number=3.4.24.-
+CA_scaffold_003242	PNNL	CDS	3296	4450	.	-	0	ID=CA_scaffold_003242_000005;bin=HLMG_199;gene=dxr;product=1-deoxy-D-xylulose-5-phosphate reductoisomerase;EC_number=1.1.1.267
+CA_scaffold_003242	PNNL	CDS	4493	5404	.	-	0	ID=CA_scaffold_003242_000006;bin=HLMG_199
+CA_scaffold_003242	PNNL	CDS	5419	6159	.	-	0	ID=CA_scaffold_003242_000007;bin=HLMG_199;gene=yfiH;product=conserved hypothetical protein
+CA_scaffold_003242	PNNL	CDS	6161	7027	.	-	0	ID=CA_scaffold_003242_000008;bin=HLMG_199;gene=aroE;product=shikimate dehydrogenase;EC_number=1.1.1.25
+CA_scaffold_003242	PNNL	CDS	7107	7571	.	-	0	ID=CA_scaffold_003242_000009;bin=HLMG_199
+CA_scaffold_003242	PNNL	CDS	7631	9073	.	+	0	ID=CA_scaffold_003242_000010;bin=HLMG_199
+CA_scaffold_003242	PNNL	CDS	9216	10841	.	+	0	ID=CA_scaffold_003242_000011;bin=HLMG_199
+CA_scaffold_003242	PNNL	CDS	10898	11305	.	+	0	ID=CA_scaffold_003242_000012;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	305	1084	.	-	0	ID=CA_scaffold_003243_000001;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	1128	2519	.	-	0	ID=CA_scaffold_003243_000002;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	2531	5524	.	-	0	ID=CA_scaffold_003243_000003;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	6016	7266	.	-	0	ID=CA_scaffold_003243_000004;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	7301	10204	.	-	0	ID=CA_scaffold_003243_000005;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	10797	12167	.	-	0	ID=CA_scaffold_003243_000006;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	12186	13457	.	-	0	ID=CA_scaffold_003243_000007;bin=HLMG_199
+CA_scaffold_003243	PNNL	CDS	13459	13716	.	-	0	ID=CA_scaffold_003243_000008;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	3	3437	.	+	0	ID=CA_scaffold_003292_000001;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	3831	4229	.	-	0	ID=CA_scaffold_003292_000002;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	4238	5566	.	-	0	ID=CA_scaffold_003292_000003;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	5579	6103	.	-	0	ID=CA_scaffold_003292_000004;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	6161	6574	.	-	0	ID=CA_scaffold_003292_000005;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	6829	7707	.	-	0	ID=CA_scaffold_003292_000006;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	7909	8619	.	+	0	ID=CA_scaffold_003292_000007;bin=HLMG_199
+CA_scaffold_003292	PNNL	CDS	8631	10682	.	+	0	ID=CA_scaffold_003292_000008;bin=HLMG_199
+CA_scaffold_003374	PNNL	CDS	88	699	.	+	0	ID=CA_scaffold_003374_000001;bin=HLMG_199;gene=nudF;product=ADP-ribose pyrophosphatase;EC_number=3.6.1.13
+CA_scaffold_003374	PNNL	CDS	677	943	.	-	0	ID=CA_scaffold_003374_000002;bin=HLMG_199
+CA_scaffold_003374	PNNL	CDS	940	1362	.	-	0	ID=CA_scaffold_003374_000003;bin=HLMG_199
+CA_scaffold_003374	PNNL	CDS	1625	4744	.	-	0	ID=CA_scaffold_003374_000004;bin=HLMG_199;product=hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family
+CA_scaffold_003374	PNNL	CDS	4767	6017	.	-	0	ID=CA_scaffold_003374_000005;bin=HLMG_199
+CA_scaffold_003374	PNNL	CDS	6235	7257	.	+	0	ID=CA_scaffold_003374_000006;bin=HLMG_199;product=inner membrane protein
+CA_scaffold_003374	PNNL	CDS	7309	7809	.	+	0	ID=CA_scaffold_003374_000007;bin=HLMG_199
+CA_scaffold_003374	PNNL	CDS	8660	10153	.	-	0	ID=CA_scaffold_003374_000008;bin=HLMG_199;gene=phoA;product=alkaline phosphatase;EC_number=3.1.3.1
+CA_scaffold_003374	PNNL	CDS	10246	11073	.	-	0	ID=CA_scaffold_003374_000009;bin=HLMG_199
+CA_scaffold_003433	PNNL	CDS	3	236	.	+	0	ID=CA_scaffold_003433_000001;bin=HLMG_199;product=putative endonuclease
+CA_scaffold_003433	PNNL	CDS	617	1111	.	-	0	ID=CA_scaffold_003433_000002;bin=HLMG_199
+CA_scaffold_003433	PNNL	CDS	1124	1330	.	-	0	ID=CA_scaffold_003433_000003;bin=HLMG_199
+CA_scaffold_003433	PNNL	CDS	1844	3175	.	+	0	ID=CA_scaffold_003433_000004;bin=HLMG_199;gene=pilC;product=type IV pilus assembly protein PilC
+CA_scaffold_003433	PNNL	CDS	3379	5169	.	+	0	ID=CA_scaffold_003433_000005;bin=HLMG_199;gene=pilB;product=type IV pilus assembly protein PilB
+CA_scaffold_003433	PNNL	CDS	5338	6561	.	+	0	ID=CA_scaffold_003433_000006;bin=HLMG_199;gene=pilT;product=twitching motility protein PilT
+CA_scaffold_003433	PNNL	CDS	6574	8847	.	+	0	ID=CA_scaffold_003433_000007;bin=HLMG_199
+CA_scaffold_003433	PNNL	CDS	8851	9723	.	+	0	ID=CA_scaffold_003433_000008;bin=HLMG_199
+CA_scaffold_003433	PNNL	CDS	9725	10426	.	+	0	ID=CA_scaffold_003433_000009;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	585	848	.	-	0	ID=CA_scaffold_003450_000001;bin=HLMG_199;gene=cas2;product=CRISPR-associated protein Cas2
+CA_scaffold_003450	PNNL	CDS	906	1991	.	-	0	ID=CA_scaffold_003450_000002;bin=HLMG_199;gene=cas1;product=CRISP-associated protein Cas1
+CA_scaffold_003450	PNNL	CDS	2021	2548	.	-	0	ID=CA_scaffold_003450_000003;bin=HLMG_199;product=putative RecB family exonuclease
+CA_scaffold_003450	PNNL	CDS	2604	3233	.	-	0	ID=CA_scaffold_003450_000004;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	3345	3791	.	-	0	ID=CA_scaffold_003450_000005;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	3851	4957	.	-	0	ID=CA_scaffold_003450_000006;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	4997	6355	.	-	0	ID=CA_scaffold_003450_000007;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	6369	8522	.	-	0	ID=CA_scaffold_003450_000008;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	8519	9061	.	-	0	ID=CA_scaffold_003450_000009;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	9107	9775	.	-	0	ID=CA_scaffold_003450_000010;bin=HLMG_199
+CA_scaffold_003450	PNNL	CDS	10232	10384	.	-	0	ID=CA_scaffold_003450_000011;bin=HLMG_199
+CA_scaffold_034500	PNNL	CDS	67	753	.	-	0	ID=CA_scaffold_034500_000001;bin=HLMG_199
+CA_scaffold_034500	PNNL	CDS	1024	1389	.	-	0	ID=CA_scaffold_034500_000002;bin=HLMG_199
+CA_scaffold_034500	PNNL	CDS	1389	2174	.	-	0	ID=CA_scaffold_034500_000003;bin=HLMG_199
+CA_scaffold_034500	PNNL	CDS	2171	3007	.	-	0	ID=CA_scaffold_034500_000004;bin=HLMG_199;product=ABC-2 type transport system ATP-binding protein
+CA_scaffold_034500	PNNL	CDS	3128	3610	.	+	0	ID=CA_scaffold_034500_000005;bin=HLMG_199
+CA_scaffold_034500	PNNL	CDS	3882	5267	.	+	0	ID=CA_scaffold_034500_000006;bin=HLMG_199;gene=sdaA;product=L-serine dehydratase;EC_number=4.3.1.17
+CA_scaffold_034500	PNNL	CDS	5267	5857	.	+	0	ID=CA_scaffold_034500_000007;bin=HLMG_199
+CA_scaffold_034500	PNNL	CDS	5861	6112	.	-	0	ID=CA_scaffold_034500_000008;bin=HLMG_199
+CA_scaffold_034500	PNNL	CDS	6189	6338	.	+	0	ID=CA_scaffold_034500_000009;bin=HLMG_199;gene=anmK;product=anhydro-N-acetylmuramic acid kinase;EC_number=2.7.1.170
+CA_scaffold_003471	PNNL	CDS	39	995	.	+	0	ID=CA_scaffold_003471_000001;bin=HLMG_199;gene=ftsY;product=fused signal recognition particle receptor
+CA_scaffold_003471	PNNL	CDS	1057	4164	.	+	0	ID=CA_scaffold_003471_000002;bin=HLMG_199
+CA_scaffold_003471	PNNL	CDS	4284	5966	.	-	0	ID=CA_scaffold_003471_000003;bin=HLMG_199
+CA_scaffold_003471	PNNL	CDS	5963	6736	.	-	0	ID=CA_scaffold_003471_000004;bin=HLMG_199;gene=scpA;product=segregation and condensation protein A
+CA_scaffold_003471	PNNL	CDS	7125	7967	.	+	0	ID=CA_scaffold_003471_000005;bin=HLMG_199
+CA_scaffold_003471	PNNL	CDS	8091	8501	.	+	0	ID=CA_scaffold_003471_000006;bin=HLMG_199
+CA_scaffold_003471	PNNL	CDS	8505	9137	.	-	0	ID=CA_scaffold_003471_000007;bin=HLMG_199;product=uncharacterized protein
+CA_scaffold_003471	PNNL	CDS	9139	10077	.	-	0	ID=CA_scaffold_003471_000008;bin=HLMG_199
+CA_scaffold_003471	PNNL	CDS	10084	10320	.	-	0	ID=CA_scaffold_003471_000009;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	1	1521	.	-	0	ID=CA_scaffold_003490_000001;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	1652	2566	.	+	0	ID=CA_scaffold_003490_000002;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	2963	3070	.	-	0	ID=CA_scaffold_003490_000003;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	3084	4208	.	+	0	ID=CA_scaffold_003490_000004;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	4495	6447	.	+	0	ID=CA_scaffold_003490_000005;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	6480	6968	.	+	0	ID=CA_scaffold_003490_000006;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	7092	7637	.	+	0	ID=CA_scaffold_003490_000007;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	7776	8222	.	+	0	ID=CA_scaffold_003490_000008;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	8254	9156	.	+	0	ID=CA_scaffold_003490_000009;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	9252	9599	.	+	0	ID=CA_scaffold_003490_000010;bin=HLMG_199
+CA_scaffold_003490	PNNL	CDS	10012	10278	.	+	0	ID=CA_scaffold_003490_000011;bin=HLMG_199
+CA_scaffold_003533	PNNL	CDS	1	426	.	+	0	ID=CA_scaffold_003533_000001;bin=HLMG_199
+CA_scaffold_003533	PNNL	CDS	511	1716	.	-	0	ID=CA_scaffold_003533_000002;bin=HLMG_199;gene=coaBC;product=phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase;EC_number=4.1.1.36 6.3.2.
+CA_scaffold_003533	PNNL	CDS	1719	2012	.	-	0	ID=CA_scaffold_003533_000003;bin=HLMG_199
+CA_scaffold_003533	PNNL	CDS	2021	2593	.	-	0	ID=CA_scaffold_003533_000004;bin=HLMG_199;gene=gmk;product=guanylate kinase;EC_number=2.7.4.8
+CA_scaffold_003533	PNNL	CDS	2631	3512	.	-	0	ID=CA_scaffold_003533_000005;bin=HLMG_199
+CA_scaffold_003533	PNNL	CDS	3591	4940	.	-	0	ID=CA_scaffold_003533_000006;bin=HLMG_199;gene=manB;product=phosphomannomutase;EC_number=5.4.2.8
+CA_scaffold_003533	PNNL	CDS	5139	5684	.	-	0	ID=CA_scaffold_003533_000007;bin=HLMG_199;gene=cobO;product=cob(I)alamin adenosyltransferase;EC_number=2.5.1.17
+CA_scaffold_003533	PNNL	CDS	5724	6350	.	-	0	ID=CA_scaffold_003533_000008;bin=HLMG_199
+CA_scaffold_003533	PNNL	CDS	6562	7269	.	+	0	ID=CA_scaffold_003533_000009;bin=HLMG_199;gene=sdhC;product=succinate dehydrogenase cytochrome b556 subunit
+CA_scaffold_003533	PNNL	CDS	7297	9216	.	+	0	ID=CA_scaffold_003533_000010;bin=HLMG_199;gene=sdhA;product=succinate dehydrogenase flavoprotein subunit;EC_number=1.3.5.1
+CA_scaffold_003533	PNNL	CDS	9228	9980	.	+	0	ID=CA_scaffold_003533_000011;bin=HLMG_199;gene=sdhB;product=succinate dehydrogenase iron-sulfur subunit;EC_number=1.3.5.1
+CA_scaffold_003543	PNNL	CDS	1	300	.	-	0	ID=CA_scaffold_003543_000001;bin=HLMG_199;gene=metX;product=homoserine O-acetyltransferase;EC_number=2.3.1.31
+CA_scaffold_003543	PNNL	CDS	337	1692	.	-	0	ID=CA_scaffold_003543_000002;bin=HLMG_199;gene=metY;product=O-acetylhomoserine (thiol)-lyase;EC_number=2.5.1.49
+CA_scaffold_003543	PNNL	CDS	2226	4070	.	-	0	ID=CA_scaffold_003543_000003;bin=HLMG_199;gene=pepXP;product=X-Pro dipeptidyl-peptidase;EC_number=3.4.14.11
+CA_scaffold_003543	PNNL	CDS	4170	5051	.	-	0	ID=CA_scaffold_003543_000004;bin=HLMG_199;gene=era;product=GTP-binding protein Era
+CA_scaffold_003543	PNNL	CDS	5120	5839	.	-	0	ID=CA_scaffold_003543_000005;bin=HLMG_199;gene=pdxJ;product=pyridoxine 5-phosphate synthase;EC_number=2.6.99.2
+CA_scaffold_003543	PNNL	CDS	5911	6417	.	+	0	ID=CA_scaffold_003543_000006;bin=HLMG_199;gene=spr;product=lipoprotein Spr
+CA_scaffold_003543	PNNL	CDS	6566	7144	.	+	0	ID=CA_scaffold_003543_000007;bin=HLMG_199
+CA_scaffold_003543	PNNL	CDS	7227	8474	.	-	0	ID=CA_scaffold_003543_000008;bin=HLMG_199;gene=icd;product=isocitrate dehydrogenase;EC_number=1.1.1.42
+CA_scaffold_003543	PNNL	CDS	8700	8915	.	+	0	ID=CA_scaffold_003543_000009;bin=HLMG_199
+CA_scaffold_003543	PNNL	CDS	8948	10162	.	+	0	ID=CA_scaffold_003543_000010;bin=HLMG_199;gene=mutL;product=DNA mismatch repair protein MutL
+CA_scaffold_003576	PNNL	CDS	1	1311	.	+	0	ID=CA_scaffold_003576_000001;bin=HLMG_199;gene=rpoC;product=DNA-directed RNA polymerase subunit beta';EC_number=2.7.7.6
+CA_scaffold_003576	PNNL	CDS	1442	3583	.	+	0	ID=CA_scaffold_003576_000002;bin=HLMG_199;gene=rpoC;product=DNA-directed RNA polymerase subunit beta';EC_number=2.7.7.6
+CA_scaffold_003576	PNNL	CDS	3651	3950	.	-	0	ID=CA_scaffold_003576_000003;bin=HLMG_199
+CA_scaffold_003576	PNNL	CDS	4082	4738	.	+	0	ID=CA_scaffold_003576_000004;bin=HLMG_199;gene=talA;product=transaldolase;EC_number=2.2.1.2
+CA_scaffold_003576	PNNL	CDS	4814	6292	.	-	0	ID=CA_scaffold_003576_000005;bin=HLMG_199;gene=crtI;product=phytoene desaturase;EC_number=1.3.99.26 1.3.9
+CA_scaffold_003576	PNNL	CDS	6365	7051	.	-	0	ID=CA_scaffold_003576_000006;bin=HLMG_199;gene=rlpA;product=rare lipoprotein A
+CA_scaffold_003576	PNNL	CDS	7337	7933	.	+	0	ID=CA_scaffold_003576_000007;bin=HLMG_199
+CA_scaffold_003576	PNNL	CDS	7983	9059	.	-	0	ID=CA_scaffold_003576_000008;bin=HLMG_199;gene=serC;product=phosphoserine aminotransferase;EC_number=2.6.1.52
+CA_scaffold_003576	PNNL	CDS	9072	10283	.	-	0	ID=CA_scaffold_003576_000009;bin=HLMG_199
+CA_scaffold_003576	PNNL	CDS	10381	10719	.	+	0	ID=CA_scaffold_003576_000010;bin=HLMG_199
+CA_scaffold_003576	PNNL	CDS	10747	11163	.	+	0	ID=CA_scaffold_003576_000011;bin=HLMG_199
+CA_scaffold_003576	PNNL	CDS	11371	11823	.	-	0	ID=CA_scaffold_003576_000012;bin=HLMG_199
+CA_scaffold_003576	PNNL	CDS	11918	12004	.	+	0	ID=CA_scaffold_003576_000013;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	1	594	.	-	0	ID=CA_scaffold_003702_000001;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	705	1511	.	-	0	ID=CA_scaffold_003702_000002;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	1508	2284	.	-	0	ID=CA_scaffold_003702_000003;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	2353	3519	.	-	0	ID=CA_scaffold_003702_000004;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	3525	4364	.	-	0	ID=CA_scaffold_003702_000005;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	4397	5329	.	-	0	ID=CA_scaffold_003702_000006;bin=HLMG_199;gene=rluB;product=23S rRNA pseudouridine2605 synthase;EC_number=5.4.99.22
+CA_scaffold_003702	PNNL	CDS	5461	5763	.	-	0	ID=CA_scaffold_003702_000007;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	5766	6722	.	-	0	ID=CA_scaffold_003702_000008;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	6832	7809	.	-	0	ID=CA_scaffold_003702_000009;bin=HLMG_199
+CA_scaffold_003702	PNNL	CDS	7838	9298	.	+	0	ID=CA_scaffold_003702_000010;bin=HLMG_199;gene=icd;product=isocitrate dehydrogenase;EC_number=1.1.1.42
+CA_scaffold_003702	PNNL	CDS	9420	10094	.	+	0	ID=CA_scaffold_003702_000011;bin=HLMG_199
+CA_scaffold_003767	PNNL	CDS	1	3504	.	+	0	ID=CA_scaffold_003767_000001;bin=HLMG_199;gene=recB;product=exodeoxyribonuclease V beta subunit;EC_number=3.1.11.5
+CA_scaffold_003767	PNNL	CDS	3504	5330	.	+	0	ID=CA_scaffold_003767_000002;bin=HLMG_199;gene=recD;product=exodeoxyribonuclease V alpha subunit;EC_number=3.1.11.5
+CA_scaffold_003767	PNNL	CDS	5565	6338	.	-	0	ID=CA_scaffold_003767_000003;bin=HLMG_199
+CA_scaffold_003767	PNNL	CDS	7000	7737	.	-	0	ID=CA_scaffold_003767_000004;bin=HLMG_199;gene=ppgK;product=polyphosphate glucokinase;EC_number=2.7.1.63
+CA_scaffold_003767	PNNL	CDS	7966	8316	.	-	0	ID=CA_scaffold_003767_000005;bin=HLMG_199
+CA_scaffold_003767	PNNL	CDS	8468	9694	.	-	0	ID=CA_scaffold_003767_000006;bin=HLMG_199;gene=lolC;product=lipoprotein-releasing system permease protein
+CA_scaffold_003778	PNNL	CDS	1	2715	.	+	0	ID=CA_scaffold_003778_000001;bin=HLMG_199;product=prokaryotic molybdopterin-containing oxidoreductase family, iron-sulfur binding subunit
+CA_scaffold_003778	PNNL	CDS	2748	4184	.	+	0	ID=CA_scaffold_003778_000002;bin=HLMG_199;product=prokaryotic molybdopterin-containing oxidoreductase family, membrane subunit
+CA_scaffold_003778	PNNL	CDS	4189	4740	.	+	0	ID=CA_scaffold_003778_000003;bin=HLMG_199
+CA_scaffold_003778	PNNL	CDS	4861	5847	.	+	0	ID=CA_scaffold_003778_000004;bin=HLMG_199
+CA_scaffold_003778	PNNL	CDS	5875	7074	.	+	0	ID=CA_scaffold_003778_000005;bin=HLMG_199
+CA_scaffold_003778	PNNL	CDS	7096	7608	.	+	0	ID=CA_scaffold_003778_000006;bin=HLMG_199
+CA_scaffold_003778	PNNL	CDS	7618	8460	.	+	0	ID=CA_scaffold_003778_000007;bin=HLMG_199;product=protein SCO1/2
+CA_scaffold_003778	PNNL	CDS	8453	9394	.	+	0	ID=CA_scaffold_003778_000008;bin=HLMG_199;gene=coxB;product=cytochrome c oxidase subunit II;EC_number=1.9.3.1
+CA_scaffold_003778	PNNL	CDS	9398	9769	.	+	0	ID=CA_scaffold_003778_000009;bin=HLMG_199;gene=coxA;product=cytochrome c oxidase subunit I;EC_number=1.9.3.1
+CA_scaffold_003778	PNNL	CDS	9794	9934	.	-	0	ID=CA_scaffold_003778_000010;bin=HLMG_199
+CA_scaffold_003780	PNNL	CDS	2	547	.	+	0	ID=CA_scaffold_003780_000001;bin=HLMG_199;product=MFS transporter, UMF1 family
+CA_scaffold_003780	PNNL	CDS	505	1152	.	+	0	ID=CA_scaffold_003780_000002;bin=HLMG_199;product=MFS transporter, UMF1 family
+CA_scaffold_003780	PNNL	CDS	1325	1501	.	+	0	ID=CA_scaffold_003780_000003;bin=HLMG_199
+CA_scaffold_003780	PNNL	CDS	1649	2128	.	+	0	ID=CA_scaffold_003780_000004;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_003780	PNNL	CDS	2121	3611	.	+	0	ID=CA_scaffold_003780_000005;bin=HLMG_199;product=putative membrane protein
+CA_scaffold_003780	PNNL	CDS	3608	3976	.	-	0	ID=CA_scaffold_003780_000006;bin=HLMG_199
+CA_scaffold_003780	PNNL	CDS	4129	7038	.	-	0	ID=CA_scaffold_003780_000007;bin=HLMG_199;gene=gcvP;product=glycine dehydrogenase;EC_number=1.4.4.2
+CA_scaffold_003780	PNNL	CDS	7303	8133	.	+	0	ID=CA_scaffold_003780_000008;bin=HLMG_199;gene=zupT;product=zinc transporter, ZIP family
+CA_scaffold_003780	PNNL	CDS	8130	8780	.	-	0	ID=CA_scaffold_003780_000009;bin=HLMG_199
+CA_scaffold_003780	PNNL	CDS	8830	9612	.	-	0	ID=CA_scaffold_003780_000010;bin=HLMG_199;product=putative glutamine amidotransferase
+CA_scaffold_003780	PNNL	CDS	9602	10078	.	-	0	ID=CA_scaffold_003780_000011;bin=HLMG_199
+CA_scaffold_003854	PNNL	CDS	2	256	.	+	0	ID=CA_scaffold_003854_000001;bin=HLMG_199
+CA_scaffold_003854	PNNL	CDS	250	957	.	+	0	ID=CA_scaffold_003854_000002;bin=HLMG_199;gene=neuA;product=N-acylneuraminate cytidylyltransferase;EC_number=2.7.7.43
+CA_scaffold_003854	PNNL	CDS	959	2014	.	+	0	ID=CA_scaffold_003854_000003;bin=HLMG_199
+CA_scaffold_003854	PNNL	CDS	2007	2684	.	+	0	ID=CA_scaffold_003854_000004;bin=HLMG_199
+CA_scaffold_003854	PNNL	CDS	2681	3856	.	+	0	ID=CA_scaffold_003854_000005;bin=HLMG_199;gene=neuB;product=N-acetylneuraminate synthase;EC_number=2.5.1.56
+CA_scaffold_003854	PNNL	CDS	4014	5807	.	+	0	ID=CA_scaffold_003854_000006;bin=HLMG_199
+CA_scaffold_003854	PNNL	CDS	5812	7089	.	+	0	ID=CA_scaffold_003854_000007;bin=HLMG_199
+CA_scaffold_003854	PNNL	CDS	7102	8628	.	-	0	ID=CA_scaffold_003854_000008;bin=HLMG_199
+CA_scaffold_003854	PNNL	CDS	8742	9572	.	-	0	ID=CA_scaffold_003854_000009;bin=HLMG_199
+CA_scaffold_003859	PNNL	CDS	1	231	.	+	0	ID=CA_scaffold_003859_000001;bin=HLMG_199;gene=gmd;product=GDPmannose 4,6-dehydratase;EC_number=4.2.1.47
+CA_scaffold_003859	PNNL	CDS	506	781	.	+	0	ID=CA_scaffold_003859_000002;bin=HLMG_199
+CA_scaffold_003859	PNNL	CDS	1227	3023	.	+	0	ID=CA_scaffold_003859_000003;bin=HLMG_199
+CA_scaffold_003859	PNNL	CDS	3253	4641	.	+	0	ID=CA_scaffold_003859_000004;bin=HLMG_199
+CA_scaffold_003859	PNNL	CDS	4748	6166	.	+	0	ID=CA_scaffold_003859_000005;bin=HLMG_199
+CA_scaffold_003859	PNNL	CDS	6249	7631	.	+	0	ID=CA_scaffold_003859_000006;bin=HLMG_199
+CA_scaffold_003859	PNNL	CDS	7661	8662	.	+	0	ID=CA_scaffold_003859_000007;bin=HLMG_199
+CA_scaffold_003859	PNNL	CDS	8804	9568	.	+	0	ID=CA_scaffold_003859_000008;bin=HLMG_199
+CA_scaffold_003890	PNNL	CDS	3	779	.	-	0	ID=CA_scaffold_003890_000001;bin=HLMG_199;gene=mutS2;product=DNA mismatch repair protein MutS2
+CA_scaffold_003890	PNNL	CDS	822	1517	.	-	0	ID=CA_scaffold_003890_000002;bin=HLMG_199
+CA_scaffold_003890	PNNL	CDS	1737	4712	.	+	0	ID=CA_scaffold_003890_000003;bin=HLMG_199
+CA_scaffold_003890	PNNL	CDS	5081	5368	.	-	0	ID=CA_scaffold_003890_000004;bin=HLMG_199
+CA_scaffold_003890	PNNL	CDS	5380	6243	.	-	0	ID=CA_scaffold_003890_000005;bin=HLMG_199
+CA_scaffold_003890	PNNL	CDS	6257	6568	.	-	0	ID=CA_scaffold_003890_000006;bin=HLMG_199
+CA_scaffold_003890	PNNL	CDS	6602	7882	.	-	0	ID=CA_scaffold_003890_000007;bin=HLMG_199;gene=hupB;product=DNA-binding protein HU-beta
+CA_scaffold_003890	PNNL	CDS	7875	8231	.	-	0	ID=CA_scaffold_003890_000008;bin=HLMG_199
+CA_scaffold_003890	PNNL	CDS	8361	9524	.	+	0	ID=CA_scaffold_003890_000009;bin=HLMG_199;gene=acnA;product=aconitate hydratase;EC_number=4.2.1.3
+CA_scaffold_003968	PNNL	CDS	402	536	.	+	0	ID=CA_scaffold_003968_000001;bin=HLMG_199
+CA_scaffold_003968	PNNL	CDS	554	1876	.	+	0	ID=CA_scaffold_003968_000002;bin=HLMG_199
+CA_scaffold_003968	PNNL	CDS	2281	4977	.	-	0	ID=CA_scaffold_003968_000003;bin=HLMG_199
+CA_scaffold_003968	PNNL	CDS	5558	5767	.	-	0	ID=CA_scaffold_003968_000004;bin=HLMG_199
+CA_scaffold_003968	PNNL	CDS	6447	7253	.	-	0	ID=CA_scaffold_003968_000005;bin=HLMG_199
+CA_scaffold_003968	PNNL	CDS	7964	8293	.	-	0	ID=CA_scaffold_003968_000006;bin=HLMG_199
+CA_scaffold_003968	PNNL	CDS	8331	9338	.	-	0	ID=CA_scaffold_003968_000007;bin=HLMG_199
+CA_scaffold_004172	PNNL	CDS	1	1032	.	+	0	ID=CA_scaffold_004172_000001;bin=HLMG_199
+CA_scaffold_004172	PNNL	CDS	1110	2015	.	-	0	ID=CA_scaffold_004172_000002;bin=HLMG_199
+CA_scaffold_004172	PNNL	CDS	2023	3645	.	-	0	ID=CA_scaffold_004172_000003;bin=HLMG_199;gene=betT;product=choline/glycine/proline betaine transport protein
+CA_scaffold_004172	PNNL	CDS	3803	5047	.	-	0	ID=CA_scaffold_004172_000004;bin=HLMG_199
+CA_scaffold_004172	PNNL	CDS	5193	6614	.	+	0	ID=CA_scaffold_004172_000005;bin=HLMG_199;gene=phrB;product=deoxyribodipyrimidine photo-lyase;EC_number=4.1.99.3
+CA_scaffold_004172	PNNL	CDS	6873	8360	.	+	0	ID=CA_scaffold_004172_000006;bin=HLMG_199
+CA_scaffold_004172	PNNL	CDS	8357	9049	.	+	0	ID=CA_scaffold_004172_000007;bin=HLMG_199;product=ABC-2 type transport system ATP-binding protein
+CA_scaffold_004173	PNNL	CDS	3	167	.	-	0	ID=CA_scaffold_004173_000001;bin=HLMG_199
+CA_scaffold_004173	PNNL	CDS	340	1155	.	+	0	ID=CA_scaffold_004173_000002;bin=HLMG_199
+CA_scaffold_004173	PNNL	CDS	1152	2195	.	+	0	ID=CA_scaffold_004173_000003;bin=HLMG_199
+CA_scaffold_004173	PNNL	CDS	2240	4312	.	-	0	ID=CA_scaffold_004173_000004;bin=HLMG_199;gene=pqqL;product=zinc protease;EC_number=3.4.24.-
+CA_scaffold_004173	PNNL	CDS	4324	5856	.	-	0	ID=CA_scaffold_004173_000005;bin=HLMG_199
+CA_scaffold_004173	PNNL	CDS	6044	6808	.	-	0	ID=CA_scaffold_004173_000006;bin=HLMG_199
+CA_scaffold_004173	PNNL	CDS	6860	7852	.	-	0	ID=CA_scaffold_004173_000007;bin=HLMG_199
+CA_scaffold_004173	PNNL	CDS	8002	9048	.	-	0	ID=CA_scaffold_004173_000008;bin=HLMG_199;product=putative membrane protein
+CA_scaffold_004201	PNNL	CDS	1	1122	.	-	0	ID=CA_scaffold_004201_000001;bin=HLMG_199;gene=fadD;product=long-chain acyl-CoA synthetase;EC_number=6.2.1.3
+CA_scaffold_004201	PNNL	CDS	1292	1804	.	+	0	ID=CA_scaffold_004201_000002;bin=HLMG_199;gene=fur;product=Fur family transcriptional regulator, ferric uptake regulator
+CA_scaffold_004201	PNNL	CDS	1801	2676	.	-	0	ID=CA_scaffold_004201_000003;bin=HLMG_199;gene=ftsX;product=cell division transport system permease protein
+CA_scaffold_004201	PNNL	CDS	2703	4664	.	-	0	ID=CA_scaffold_004201_000004;bin=HLMG_199
+CA_scaffold_004201	PNNL	CDS	4661	5947	.	-	0	ID=CA_scaffold_004201_000005;bin=HLMG_199;gene=cinA;product=competence/damage-inducible protein CinA
+CA_scaffold_004201	PNNL	CDS	6101	6658	.	+	0	ID=CA_scaffold_004201_000006;bin=HLMG_199;gene=pgsA;product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase;EC_number=2.7.8.5
+CA_scaffold_004201	PNNL	CDS	6645	7124	.	+	0	ID=CA_scaffold_004201_000007;bin=HLMG_199;gene=pgpA;product=phosphatidylglycerophosphatase A;EC_number=3.1.3.27
+CA_scaffold_004201	PNNL	CDS	7175	7906	.	+	0	ID=CA_scaffold_004201_000008;bin=HLMG_199;gene=pyrE;product=orotate phosphoribosyltransferase;EC_number=2.4.2.10
+CA_scaffold_004201	PNNL	CDS	7894	8373	.	+	0	ID=CA_scaffold_004201_000009;bin=HLMG_199
+CA_scaffold_004201	PNNL	CDS	8412	9245	.	+	0	ID=CA_scaffold_004201_000010;bin=HLMG_199;gene=fklB;product=FKBP-type peptidyl-prolyl cis-trans isomerase FklB;EC_number=5.2.1.8
+CA_scaffold_004201	PNNL	CDS	9286	10656	.	+	0	ID=CA_scaffold_004201_000011;bin=HLMG_199
+CA_scaffold_004201	PNNL	CDS	10742	12145	.	+	0	ID=CA_scaffold_004201_000012;bin=HLMG_199;gene=miaB;product=bifunctional enzyme involved in thiolation and methylation of tRNA
+CA_scaffold_004201	PNNL	CDS	12265	13086	.	-	0	ID=CA_scaffold_004201_000013;bin=HLMG_199
+CA_scaffold_004201	PNNL	CDS	13287	14162	.	-	0	ID=CA_scaffold_004201_000014;bin=HLMG_199
+CA_scaffold_004201	PNNL	CDS	14174	15421	.	-	0	ID=CA_scaffold_004201_000015;bin=HLMG_199
+CA_scaffold_004201	PNNL	CDS	15418	16119	.	-	0	ID=CA_scaffold_004201_000016;bin=HLMG_199
+CA_scaffold_004201	PNNL	CDS	16116	16691	.	-	0	ID=CA_scaffold_004201_000017;bin=HLMG_199;gene=rpoE;product=RNA polymerase sigma-70 factor, ECF subfamily
+CA_scaffold_004247	PNNL	CDS	1	207	.	-	0	ID=CA_scaffold_004247_000001;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	204	623	.	-	0	ID=CA_scaffold_004247_000002;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	620	868	.	-	0	ID=CA_scaffold_004247_000003;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	1251	2780	.	-	0	ID=CA_scaffold_004247_000004;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	2823	3647	.	-	0	ID=CA_scaffold_004247_000005;bin=HLMG_199;gene=nadD;product=nicotinate-nucleotide adenylyltransferase;EC_number=2.7.7.18
+CA_scaffold_004247	PNNL	CDS	3805	4572	.	-	0	ID=CA_scaffold_004247_000006;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	4804	5028	.	+	0	ID=CA_scaffold_004247_000007;bin=HLMG_199;gene=hemA;product=glutamyl-tRNA reductase;EC_number=1.2.1.70
+CA_scaffold_004247	PNNL	CDS	5165	5725	.	-	0	ID=CA_scaffold_004247_000008;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	5722	6027	.	-	0	ID=CA_scaffold_004247_000009;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	6017	6361	.	-	0	ID=CA_scaffold_004247_000010;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	6665	8152	.	+	0	ID=CA_scaffold_004247_000011;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	8191	8448	.	-	0	ID=CA_scaffold_004247_000012;bin=HLMG_199;gene=relE;product=RelE protein
+CA_scaffold_004247	PNNL	CDS	8429	8677	.	-	0	ID=CA_scaffold_004247_000013;bin=HLMG_199
+CA_scaffold_004247	PNNL	CDS	8748	8957	.	-	0	ID=CA_scaffold_004247_000014;bin=HLMG_199
+CA_scaffold_004329	PNNL	CDS	1	1668	.	+	0	ID=CA_scaffold_004329_000001;bin=HLMG_199
+CA_scaffold_004329	PNNL	CDS	1720	2553	.	+	0	ID=CA_scaffold_004329_000002;bin=HLMG_199
+CA_scaffold_004329	PNNL	CDS	3161	4246	.	+	0	ID=CA_scaffold_004329_000003;bin=HLMG_199
+CA_scaffold_004329	PNNL	CDS	4290	8816	.	+	0	ID=CA_scaffold_004329_000004;bin=HLMG_199
+CA_scaffold_004470	PNNL	CDS	1	1293	.	-	0	ID=CA_scaffold_004470_000001;bin=HLMG_199
+CA_scaffold_004470	PNNL	CDS	1354	1815	.	-	0	ID=CA_scaffold_004470_000002;bin=HLMG_199;gene=dut;product=dUTP pyrophosphatase;EC_number=3.6.1.23
+CA_scaffold_004470	PNNL	CDS	1793	2608	.	-	0	ID=CA_scaffold_004470_000003;bin=HLMG_199
+CA_scaffold_004470	PNNL	CDS	2574	2915	.	-	0	ID=CA_scaffold_004470_000004;bin=HLMG_199
+CA_scaffold_004470	PNNL	CDS	3038	3541	.	+	0	ID=CA_scaffold_004470_000005;bin=HLMG_199
+CA_scaffold_004470	PNNL	CDS	3592	3864	.	+	0	ID=CA_scaffold_004470_000006;bin=HLMG_199
+CA_scaffold_004470	PNNL	CDS	3854	4366	.	+	0	ID=CA_scaffold_004470_000007;bin=HLMG_199
+CA_scaffold_004470	PNNL	CDS	4359	5630	.	+	0	ID=CA_scaffold_004470_000008;bin=HLMG_199;gene=murA;product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase;EC_number=2.5.1.7
+CA_scaffold_004470	PNNL	CDS	6021	7754	.	+	0	ID=CA_scaffold_004470_000009;bin=HLMG_199;gene=rng;product=ribonuclease G;EC_number=3.1.26.-
+CA_scaffold_004470	PNNL	CDS	7787	8338	.	+	0	ID=CA_scaffold_004470_000010;bin=HLMG_199;gene=hslV;product=ATP-dependent HslUV protease, peptidase subunit HslV;EC_number=3.4.25.2
+CA_scaffold_004470	PNNL	CDS	8343	9125	.	+	0	ID=CA_scaffold_004470_000011;bin=HLMG_199;gene=hslU;product=ATP-dependent HslUV protease ATP-binding subunit HslU
+CA_scaffold_004478	PNNL	CDS	138	380	.	-	0	ID=CA_scaffold_004478_000001;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	670	1554	.	+	0	ID=CA_scaffold_004478_000002;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	1551	2723	.	+	0	ID=CA_scaffold_004478_000003;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	3033	3476	.	-	0	ID=CA_scaffold_004478_000004;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	3501	4442	.	-	0	ID=CA_scaffold_004478_000005;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	4452	4778	.	-	0	ID=CA_scaffold_004478_000006;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	4958	6697	.	-	0	ID=CA_scaffold_004478_000007;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	6703	7188	.	-	0	ID=CA_scaffold_004478_000008;bin=HLMG_199
+CA_scaffold_004478	PNNL	CDS	7510	7935	.	+	0	ID=CA_scaffold_004478_000009;bin=HLMG_199;product=putative transposase
+CA_scaffold_004478	PNNL	CDS	8144	8629	.	+	0	ID=CA_scaffold_004478_000010;bin=HLMG_199
+CA_scaffold_004483	PNNL	CDS	1	2406	.	-	0	ID=CA_scaffold_004483_000001;bin=HLMG_199
+CA_scaffold_004483	PNNL	CDS	2456	3547	.	-	0	ID=CA_scaffold_004483_000002;bin=HLMG_199
+CA_scaffold_004483	PNNL	CDS	3589	4134	.	-	0	ID=CA_scaffold_004483_000003;bin=HLMG_199;gene=rpoE;product=RNA polymerase sigma-70 factor, ECF subfamily
+CA_scaffold_004483	PNNL	CDS	4461	6368	.	-	0	ID=CA_scaffold_004483_000004;bin=HLMG_199;gene=nagB;product=glucosamine-6-phosphate deaminase;EC_number=3.5.99.6
+CA_scaffold_004483	PNNL	CDS	6586	7521	.	-	0	ID=CA_scaffold_004483_000005;bin=HLMG_199
+CA_scaffold_004483	PNNL	CDS	7769	8623	.	-	0	ID=CA_scaffold_004483_000006;bin=HLMG_199
+CA_scaffold_004551	PNNL	CDS	2	697	.	+	0	ID=CA_scaffold_004551_000001;bin=HLMG_199
+CA_scaffold_004551	PNNL	CDS	836	1819	.	+	0	ID=CA_scaffold_004551_000002;bin=HLMG_199;gene=prsA;product=ribose-phosphate pyrophosphokinase;EC_number=2.7.6.1
+CA_scaffold_004551	PNNL	CDS	1838	2533	.	+	0	ID=CA_scaffold_004551_000003;bin=HLMG_199;gene=rplY;product=large subunit ribosomal protein L25
+CA_scaffold_004551	PNNL	CDS	2549	3106	.	+	0	ID=CA_scaffold_004551_000004;bin=HLMG_199;gene=pth;product=peptidyl-tRNA hydrolase, PTH1 family;EC_number=3.1.1.29
+CA_scaffold_004551	PNNL	CDS	3151	5337	.	+	0	ID=CA_scaffold_004551_000005;bin=HLMG_199;gene=hppA;product=K(+)-stimulated pyrophosphate-energized sodium pump;EC_number=3.6.1.1
+CA_scaffold_004551	PNNL	CDS	5437	6102	.	+	0	ID=CA_scaffold_004551_000006;bin=HLMG_199
+CA_scaffold_004551	PNNL	CDS	6097	6840	.	-	0	ID=CA_scaffold_004551_000007;bin=HLMG_199
+CA_scaffold_004551	PNNL	CDS	6935	7774	.	+	0	ID=CA_scaffold_004551_000008;bin=HLMG_199;gene=pyrF;product=orotidine-5'-phosphate decarboxylase;EC_number=4.1.1.23
+CA_scaffold_004551	PNNL	CDS	7767	8216	.	+	0	ID=CA_scaffold_004551_000009;bin=HLMG_199;gene=rnhA;product=ribonuclease HI;EC_number=3.1.26.4
+CA_scaffold_004551	PNNL	CDS	8248	8544	.	+	0	ID=CA_scaffold_004551_000010;bin=HLMG_199;product=MFS transporter, UMF1 family
+CA_scaffold_004600	PNNL	CDS	247	1245	.	-	0	ID=CA_scaffold_004600_000001;bin=HLMG_199;gene=gapA;product=glyceraldehyde 3-phosphate dehydrogenase;EC_number=1.2.1.12
+CA_scaffold_004600	PNNL	CDS	1523	2212	.	-	0	ID=CA_scaffold_004600_000002;bin=HLMG_199
+CA_scaffold_004600	PNNL	CDS	2354	3256	.	-	0	ID=CA_scaffold_004600_000003;bin=HLMG_199;gene=fmt;product=methionyl-tRNA formyltransferase;EC_number=2.1.2.9
+CA_scaffold_004600	PNNL	CDS	3292	3852	.	-	0	ID=CA_scaffold_004600_000004;bin=HLMG_199;gene=def;product=peptide deformylase;EC_number=3.5.1.88
+CA_scaffold_004600	PNNL	CDS	3858	4289	.	-	0	ID=CA_scaffold_004600_000005;bin=HLMG_199;gene=ruvX;product=putative holliday junction resolvase;EC_number=3.1.-.-
+CA_scaffold_004600	PNNL	CDS	4294	4626	.	-	0	ID=CA_scaffold_004600_000006;bin=HLMG_199
+CA_scaffold_004600	PNNL	CDS	4784	7021	.	-	0	ID=CA_scaffold_004600_000007;bin=HLMG_199;gene=relA;product=GTP pyrophosphokinase;EC_number=2.7.6.5
+CA_scaffold_004600	PNNL	CDS	7132	7713	.	-	0	ID=CA_scaffold_004600_000008;bin=HLMG_199
+CA_scaffold_004600	PNNL	CDS	7813	8325	.	-	0	ID=CA_scaffold_004600_000009;bin=HLMG_199
+CA_scaffold_004600	PNNL	CDS	8447	9031	.	-	0	ID=CA_scaffold_004600_000010;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	38	1687	.	+	0	ID=CA_scaffold_004717_000001;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	1802	2323	.	-	0	ID=CA_scaffold_004717_000002;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	2771	3712	.	-	0	ID=CA_scaffold_004717_000003;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	3803	4525	.	-	0	ID=CA_scaffold_004717_000004;bin=HLMG_199;gene=fklB;product=FKBP-type peptidyl-prolyl cis-trans isomerase FklB;EC_number=5.2.1.8
+CA_scaffold_004717	PNNL	CDS	4733	5419	.	-	0	ID=CA_scaffold_004717_000005;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	5431	5850	.	-	0	ID=CA_scaffold_004717_000006;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	6036	7397	.	+	0	ID=CA_scaffold_004717_000007;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	7764	9149	.	+	0	ID=CA_scaffold_004717_000008;bin=HLMG_199;product=solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5
+CA_scaffold_004717	PNNL	CDS	9160	9663	.	+	0	ID=CA_scaffold_004717_000009;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	9660	11144	.	+	0	ID=CA_scaffold_004717_000010;bin=HLMG_199
+CA_scaffold_004717	PNNL	CDS	11277	12611	.	+	0	ID=CA_scaffold_004717_000011;bin=HLMG_199;gene=pilC;product=type IV pilus assembly protein PilC
+CA_scaffold_004739	PNNL	CDS	2	274	.	+	0	ID=CA_scaffold_004739_000001;bin=HLMG_199
+CA_scaffold_004739	PNNL	CDS	258	359	.	+	0	ID=CA_scaffold_004739_000002;bin=HLMG_199
+CA_scaffold_004739	PNNL	CDS	346	795	.	+	0	ID=CA_scaffold_004739_000003;bin=HLMG_199
+CA_scaffold_004739	PNNL	CDS	798	2156	.	+	0	ID=CA_scaffold_004739_000004;bin=HLMG_199;gene=flgK;product=flagellar hook-associated protein 1 FlgK
+CA_scaffold_004739	PNNL	CDS	2160	3053	.	+	0	ID=CA_scaffold_004739_000005;bin=HLMG_199;gene=flgL;product=flagellar hook-associated protein 3 FlgL
+CA_scaffold_004739	PNNL	CDS	3133	4467	.	+	0	ID=CA_scaffold_004739_000006;bin=HLMG_199
+CA_scaffold_004739	PNNL	CDS	4481	5896	.	-	0	ID=CA_scaffold_004739_000007;bin=HLMG_199
+CA_scaffold_004739	PNNL	CDS	6061	6411	.	-	0	ID=CA_scaffold_004739_000008;bin=HLMG_199;product=potassium voltage-gated channel Shab-related subfamily B member 1
+CA_scaffold_004739	PNNL	CDS	6423	6797	.	-	0	ID=CA_scaffold_004739_000009;bin=HLMG_199
+CA_scaffold_004739	PNNL	CDS	6833	8227	.	-	0	ID=CA_scaffold_004739_000010;bin=HLMG_199
+CA_scaffold_004739	PNNL	CDS	8235	8546	.	-	0	ID=CA_scaffold_004739_000011;bin=HLMG_199
+CA_scaffold_004749	PNNL	CDS	1	567	.	-	0	ID=CA_scaffold_004749_000001;bin=HLMG_199
+CA_scaffold_004749	PNNL	CDS	590	1774	.	-	0	ID=CA_scaffold_004749_000002;bin=HLMG_199
+CA_scaffold_004749	PNNL	CDS	1752	2093	.	-	0	ID=CA_scaffold_004749_000003;bin=HLMG_199
+CA_scaffold_004749	PNNL	CDS	2098	3273	.	-	0	ID=CA_scaffold_004749_000004;bin=HLMG_199;gene=aroC;product=chorismate synthase;EC_number=4.2.3.5
+CA_scaffold_004749	PNNL	CDS	3506	4243	.	+	0	ID=CA_scaffold_004749_000005;bin=HLMG_199;product=putative ABC transport system permease protein
+CA_scaffold_004749	PNNL	CDS	4240	4977	.	+	0	ID=CA_scaffold_004749_000006;bin=HLMG_199;product=putative ABC transport system ATP-binding protein
+CA_scaffold_004749	PNNL	CDS	5004	5927	.	+	0	ID=CA_scaffold_004749_000007;bin=HLMG_199;product=putative ABC transport system substrate-binding protein
+CA_scaffold_004749	PNNL	CDS	6056	7828	.	+	0	ID=CA_scaffold_004749_000008;bin=HLMG_199;gene=ppiD;product=peptidyl-prolyl cis-trans isomerase D;EC_number=5.2.1.8
+CA_scaffold_004749	PNNL	CDS	7921	8283	.	+	0	ID=CA_scaffold_004749_000009;bin=HLMG_199;gene=ribD;product=diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil redu;EC_number=3.5.4.26 1.1.1.
+CA_scaffold_004749	PNNL	CDS	8285	8899	.	+	0	ID=CA_scaffold_004749_000010;bin=HLMG_199;gene=ribD;product=diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil redu;EC_number=3.5.4.26 1.1.1.
+CA_scaffold_004766	PNNL	CDS	2	829	.	-	0	ID=CA_scaffold_004766_000001;bin=HLMG_199
+CA_scaffold_004766	PNNL	CDS	873	1337	.	-	0	ID=CA_scaffold_004766_000002;bin=HLMG_199
+CA_scaffold_004766	PNNL	CDS	1486	1887	.	+	0	ID=CA_scaffold_004766_000003;bin=HLMG_199;gene=ybgC;product=acyl-CoA thioester hydrolase;EC_number=3.1.2.-
+CA_scaffold_004766	PNNL	CDS	1973	2875	.	+	0	ID=CA_scaffold_004766_000004;bin=HLMG_199;gene=sseA;product=thiosulfate/3-mercaptopyruvate sulfurtransferase;EC_number=2.8.1.1 2.8.1.2
+CA_scaffold_004766	PNNL	CDS	2881	4446	.	-	0	ID=CA_scaffold_004766_000005;bin=HLMG_199
+CA_scaffold_004766	PNNL	CDS	4468	5436	.	-	0	ID=CA_scaffold_004766_000006;bin=HLMG_199
+CA_scaffold_004766	PNNL	CDS	5458	5835	.	-	0	ID=CA_scaffold_004766_000007;bin=HLMG_199
+CA_scaffold_004766	PNNL	CDS	6073	6873	.	+	0	ID=CA_scaffold_004766_000008;bin=HLMG_199
+CA_scaffold_004766	PNNL	CDS	6888	8246	.	+	0	ID=CA_scaffold_004766_000009;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	1	1356	.	+	0	ID=CA_scaffold_004784_000001;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	1605	1913	.	-	0	ID=CA_scaffold_004784_000002;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	2127	2366	.	+	0	ID=CA_scaffold_004784_000003;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	2371	2622	.	+	0	ID=CA_scaffold_004784_000004;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	2729	3322	.	+	0	ID=CA_scaffold_004784_000005;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	3319	4296	.	+	0	ID=CA_scaffold_004784_000006;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	4532	4792	.	+	0	ID=CA_scaffold_004784_000007;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	4795	5109	.	+	0	ID=CA_scaffold_004784_000008;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	5106	5357	.	+	0	ID=CA_scaffold_004784_000009;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	5359	5601	.	+	0	ID=CA_scaffold_004784_000010;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	5598	5891	.	+	0	ID=CA_scaffold_004784_000011;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	5948	6160	.	+	0	ID=CA_scaffold_004784_000012;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	6267	6575	.	+	0	ID=CA_scaffold_004784_000013;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	6634	6894	.	+	0	ID=CA_scaffold_004784_000014;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	7207	7527	.	+	0	ID=CA_scaffold_004784_000015;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	7608	7820	.	+	0	ID=CA_scaffold_004784_000016;bin=HLMG_199
+CA_scaffold_004784	PNNL	CDS	7838	8014	.	+	0	ID=CA_scaffold_004784_000017;bin=HLMG_199
+CA_scaffold_004854	PNNL	CDS	1	1074	.	+	0	ID=CA_scaffold_004854_000001;bin=HLMG_199;gene=glyA;product=glycine hydroxymethyltransferase;EC_number=2.1.2.1
+CA_scaffold_004854	PNNL	CDS	1128	1991	.	+	0	ID=CA_scaffold_004854_000002;bin=HLMG_199;gene=tatC;product=sec-independent protein translocase protein TatC
+CA_scaffold_004854	PNNL	CDS	2095	2634	.	+	0	ID=CA_scaffold_004854_000003;bin=HLMG_199
+CA_scaffold_004854	PNNL	CDS	2701	3771	.	-	0	ID=CA_scaffold_004854_000004;bin=HLMG_199;gene=alr;product=alanine racemase;EC_number=5.1.1.1
+CA_scaffold_004854	PNNL	CDS	3768	5375	.	-	0	ID=CA_scaffold_004854_000005;bin=HLMG_199
+CA_scaffold_004854	PNNL	CDS	5547	7274	.	+	0	ID=CA_scaffold_004854_000006;bin=HLMG_199;gene=sppA;product=protease IV;EC_number=3.4.21.-
+CA_scaffold_004854	PNNL	CDS	7396	8136	.	+	0	ID=CA_scaffold_004854_000007;bin=HLMG_199
+CA_scaffold_004921	PNNL	CDS	19	756	.	-	0	ID=CA_scaffold_004921_000001;bin=HLMG_199
+CA_scaffold_004921	PNNL	CDS	844	1209	.	-	0	ID=CA_scaffold_004921_000002;bin=HLMG_199
+CA_scaffold_004921	PNNL	CDS	1281	1736	.	-	0	ID=CA_scaffold_004921_000003;bin=HLMG_199
+CA_scaffold_004921	PNNL	CDS	1748	2047	.	-	0	ID=CA_scaffold_004921_000004;bin=HLMG_199
+CA_scaffold_004921	PNNL	CDS	2175	2444	.	+	0	ID=CA_scaffold_004921_000005;bin=HLMG_199
+CA_scaffold_004921	PNNL	CDS	3344	5713	.	-	0	ID=CA_scaffold_004921_000006;bin=HLMG_199;gene=hsdR;product=type I restriction enzyme, R subunit;EC_number=3.1.21.3
+CA_scaffold_004921	PNNL	CDS	5769	7406	.	-	0	ID=CA_scaffold_004921_000007;bin=HLMG_199;gene=recG;product=ATP-dependent DNA helicase RecG;EC_number=3.6.4.12
+CA_scaffold_004921	PNNL	CDS	7403	8056	.	-	0	ID=CA_scaffold_004921_000008;bin=HLMG_199;gene=hsdS;product=type I restriction enzyme, S subunit;EC_number=3.1.21.3
+CA_scaffold_004986	PNNL	CDS	1	1140	.	+	0	ID=CA_scaffold_004986_000001;bin=HLMG_199;gene=gspD;product=general secretion pathway protein D
+CA_scaffold_004986	PNNL	CDS	1213	2037	.	-	0	ID=CA_scaffold_004986_000002;bin=HLMG_199
+CA_scaffold_004986	PNNL	CDS	2125	2964	.	+	0	ID=CA_scaffold_004986_000003;bin=HLMG_199;gene=plsC;product=1-acyl-sn-glycerol-3-phosphate acyltransferase;EC_number=2.3.1.51
+CA_scaffold_004986	PNNL	CDS	2971	4563	.	+	0	ID=CA_scaffold_004986_000004;bin=HLMG_199
+CA_scaffold_004986	PNNL	CDS	4557	5036	.	-	0	ID=CA_scaffold_004986_000005;bin=HLMG_199;gene=tadA;product=tRNA(adenine34) deaminase;EC_number=3.5.4.33
+CA_scaffold_004986	PNNL	CDS	5110	5658	.	+	0	ID=CA_scaffold_004986_000006;bin=HLMG_199;gene=apt;product=adenine phosphoribosyltransferase;EC_number=2.4.2.7
+CA_scaffold_004986	PNNL	CDS	5722	6171	.	+	0	ID=CA_scaffold_004986_000007;bin=HLMG_199
+CA_scaffold_004986	PNNL	CDS	6183	7403	.	+	0	ID=CA_scaffold_004986_000008;bin=HLMG_199
+CA_scaffold_004986	PNNL	CDS	7695	7985	.	+	0	ID=CA_scaffold_004986_000009;bin=HLMG_199;gene=trpE;product=anthranilate synthase component I;EC_number=4.1.3.27
+CA_scaffold_005119	PNNL	CDS	1	663	.	-	0	ID=CA_scaffold_005119_000001;bin=HLMG_199
+CA_scaffold_005119	PNNL	CDS	787	2079	.	-	0	ID=CA_scaffold_005119_000002;bin=HLMG_199;gene=purD;product=phosphoribosylamine--glycine ligase;EC_number=6.3.4.13
+CA_scaffold_005119	PNNL	CDS	2080	2850	.	-	0	ID=CA_scaffold_005119_000003;bin=HLMG_199;gene=tpiA;product=triosephosphate isomerase (TIM);EC_number=5.3.1.1
+CA_scaffold_005119	PNNL	CDS	2855	4213	.	-	0	ID=CA_scaffold_005119_000004;bin=HLMG_199
+CA_scaffold_005119	PNNL	CDS	4263	5711	.	-	0	ID=CA_scaffold_005119_000005;bin=HLMG_199;gene=gatB;product=aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B;EC_number=6.3.5.6 6.3.5.7
+CA_scaffold_005119	PNNL	CDS	5936	6730	.	+	0	ID=CA_scaffold_005119_000006;bin=HLMG_199
+CA_scaffold_005119	PNNL	CDS	6750	7832	.	-	0	ID=CA_scaffold_005119_000007;bin=HLMG_199;product=agmatine deiminase;EC_number=3.5.3.12
+CA_scaffold_005160	PNNL	CDS	3	101	.	+	0	ID=CA_scaffold_005160_000001;bin=HLMG_199
+CA_scaffold_005160	PNNL	CDS	185	1630	.	+	0	ID=CA_scaffold_005160_000002;bin=HLMG_199
+CA_scaffold_005160	PNNL	CDS	1835	2419	.	-	0	ID=CA_scaffold_005160_000003;bin=HLMG_199
+CA_scaffold_005160	PNNL	CDS	2602	2754	.	-	0	ID=CA_scaffold_005160_000004;bin=HLMG_199
+CA_scaffold_005160	PNNL	CDS	3085	4074	.	-	0	ID=CA_scaffold_005160_000005;bin=HLMG_199
+CA_scaffold_005160	PNNL	CDS	4600	5520	.	-	0	ID=CA_scaffold_005160_000006;bin=HLMG_199
+CA_scaffold_005160	PNNL	CDS	5808	6704	.	+	0	ID=CA_scaffold_005160_000007;bin=HLMG_199;gene=pgsA;product=poly-gamma-glutamate synthesis protein (capsule biosynthesis protein)
+CA_scaffold_005160	PNNL	CDS	7862	8944	.	+	0	ID=CA_scaffold_005160_000008;bin=HLMG_199;gene=ampC;product=beta-lactamase class C;EC_number=3.5.2.6
+CA_scaffold_005160	PNNL	CDS	9023	9478	.	-	0	ID=CA_scaffold_005160_000009;bin=HLMG_199
+CA_scaffold_005164	PNNL	CDS	1	111	.	+	0	ID=CA_scaffold_005164_000001;bin=HLMG_199
+CA_scaffold_005164	PNNL	CDS	129	665	.	+	0	ID=CA_scaffold_005164_000002;bin=HLMG_199;gene=rdgB;product=XTP/dITP diphosphohydrolase;EC_number=3.6.1.66
+CA_scaffold_005164	PNNL	CDS	817	1152	.	+	0	ID=CA_scaffold_005164_000003;bin=HLMG_199
+CA_scaffold_005164	PNNL	CDS	1267	2811	.	+	0	ID=CA_scaffold_005164_000004;bin=HLMG_199
+CA_scaffold_005164	PNNL	CDS	2847	4436	.	-	0	ID=CA_scaffold_005164_000005;bin=HLMG_199;gene=serA;product=D-3-phosphoglycerate dehydrogenase;EC_number=1.1.1.95
+CA_scaffold_005164	PNNL	CDS	4452	5045	.	-	0	ID=CA_scaffold_005164_000006;bin=HLMG_199;gene=engB;product=GTP-binding protein
+CA_scaffold_005164	PNNL	CDS	5045	6547	.	-	0	ID=CA_scaffold_005164_000007;bin=HLMG_199;gene=purF;product=amidophosphoribosyltransferase;EC_number=2.4.2.14
+CA_scaffold_005164	PNNL	CDS	6685	7140	.	+	0	ID=CA_scaffold_005164_000008;bin=HLMG_199
+CA_scaffold_005164	PNNL	CDS	7137	7958	.	-	0	ID=CA_scaffold_005164_000009;bin=HLMG_199
+CA_scaffold_005264	PNNL	CDS	3	2375	.	+	0	ID=CA_scaffold_005264_000001;bin=HLMG_199;product=iron complex outermembrane recepter protein
+CA_scaffold_005264	PNNL	CDS	2596	3195	.	-	0	ID=CA_scaffold_005264_000002;bin=HLMG_199
+CA_scaffold_005264	PNNL	CDS	3377	5653	.	+	0	ID=CA_scaffold_005264_000003;bin=HLMG_199;gene=fepA;product=outer membrane receptor for ferrienterochelin and colicins
+CA_scaffold_005264	PNNL	CDS	5729	6379	.	+	0	ID=CA_scaffold_005264_000004;bin=HLMG_199
+CA_scaffold_005264	PNNL	CDS	6487	7569	.	+	0	ID=CA_scaffold_005264_000005;bin=HLMG_199;gene=hmuS;product=putative hemin transport protein
+CA_scaffold_005264	PNNL	CDS	7691	8653	.	+	0	ID=CA_scaffold_005264_000006;bin=HLMG_199;product=iron complex transport system substrate-binding protein
+CA_scaffold_005264	PNNL	CDS	8731	9825	.	+	0	ID=CA_scaffold_005264_000007;bin=HLMG_199;product=iron complex transport system permease protein
+CA_scaffold_005308	PNNL	CDS	3	1046	.	-	0	ID=CA_scaffold_005308_000001;bin=HLMG_199
+CA_scaffold_005308	PNNL	CDS	1495	2448	.	+	0	ID=CA_scaffold_005308_000002;bin=HLMG_199;product=cytochrome c peroxidase;EC_number=1.11.1.5
+CA_scaffold_005308	PNNL	CDS	2860	3909	.	-	0	ID=CA_scaffold_005308_000003;bin=HLMG_199;product=cytochrome c peroxidase;EC_number=1.11.1.5
+CA_scaffold_005308	PNNL	CDS	3909	5468	.	-	0	ID=CA_scaffold_005308_000004;bin=HLMG_199
+CA_scaffold_005308	PNNL	CDS	5447	6886	.	-	0	ID=CA_scaffold_005308_000005;bin=HLMG_199
+CA_scaffold_005308	PNNL	CDS	6901	9624	.	-	0	ID=CA_scaffold_005308_000006;bin=HLMG_199
+CA_scaffold_005308	PNNL	CDS	10314	10433	.	-	0	ID=CA_scaffold_005308_000007;bin=HLMG_199
+CA_scaffold_005312	PNNL	CDS	1	6576	.	+	0	ID=CA_scaffold_005312_000001;bin=HLMG_199
+CA_scaffold_005312	PNNL	CDS	6829	7626	.	+	0	ID=CA_scaffold_005312_000002;bin=HLMG_199;gene=cheB;product=two-component system, chemotaxis family, response regulator CheB;EC_number=3.1.1.61
+CA_scaffold_005323	PNNL	CDS	172	774	.	+	0	ID=CA_scaffold_005323_000001;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	734	1546	.	+	0	ID=CA_scaffold_005323_000002;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	2066	2584	.	+	0	ID=CA_scaffold_005323_000003;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	2924	3268	.	+	0	ID=CA_scaffold_005323_000004;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	3613	4563	.	+	0	ID=CA_scaffold_005323_000005;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	5096	6184	.	+	0	ID=CA_scaffold_005323_000006;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	6328	7089	.	+	0	ID=CA_scaffold_005323_000007;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	7171	7386	.	+	0	ID=CA_scaffold_005323_000008;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	8009	8170	.	+	0	ID=CA_scaffold_005323_000009;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	8186	9436	.	-	0	ID=CA_scaffold_005323_000010;bin=HLMG_199;product=STE24 endopeptidase;EC_number=3.4.24.84
+CA_scaffold_005323	PNNL	CDS	9670	9927	.	+	0	ID=CA_scaffold_005323_000011;bin=HLMG_199
+CA_scaffold_005323	PNNL	CDS	9899	10363	.	+	0	ID=CA_scaffold_005323_000012;bin=HLMG_199
+CA_scaffold_005409	PNNL	CDS	3	185	.	+	0	ID=CA_scaffold_005409_000001;bin=HLMG_199
+CA_scaffold_005409	PNNL	CDS	178	1689	.	+	0	ID=CA_scaffold_005409_000002;bin=HLMG_199;gene=rpoN;product=RNA polymerase sigma-54 factor
+CA_scaffold_005409	PNNL	CDS	1695	3191	.	-	0	ID=CA_scaffold_005409_000003;bin=HLMG_199
+CA_scaffold_005409	PNNL	CDS	3201	3680	.	-	0	ID=CA_scaffold_005409_000004;bin=HLMG_199;gene=lrp;product=Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein
+CA_scaffold_005409	PNNL	CDS	4063	5331	.	+	0	ID=CA_scaffold_005409_000005;bin=HLMG_199;gene=serS;product=seryl-tRNA synthetase;EC_number=6.1.1.11
+CA_scaffold_005409	PNNL	CDS	5685	6122	.	+	0	ID=CA_scaffold_005409_000006;bin=HLMG_199
+CA_scaffold_005409	PNNL	CDS	6373	7524	.	+	0	ID=CA_scaffold_005409_000007;bin=HLMG_199
+CA_scaffold_005409	PNNL	CDS	7521	7898	.	+	0	ID=CA_scaffold_005409_000008;bin=HLMG_199
+CA_scaffold_005454	PNNL	CDS	624	2120	.	-	0	ID=CA_scaffold_005454_000001;bin=HLMG_199;gene=asnS;product=asparaginyl-tRNA synthetase;EC_number=6.1.1.22
+CA_scaffold_005454	PNNL	CDS	2308	3561	.	-	0	ID=CA_scaffold_005454_000002;bin=HLMG_199
+CA_scaffold_005454	PNNL	CDS	3676	5793	.	-	0	ID=CA_scaffold_005454_000003;bin=HLMG_199;gene=pnp;product=polyribonucleotide nucleotidyltransferase;EC_number=2.7.7.8
+CA_scaffold_005454	PNNL	CDS	5937	6206	.	-	0	ID=CA_scaffold_005454_000004;bin=HLMG_199;gene=rpsO;product=small subunit ribosomal protein S15
+CA_scaffold_005454	PNNL	CDS	6257	7219	.	-	0	ID=CA_scaffold_005454_000005;bin=HLMG_199;gene=ribF;product=riboflavin kinase / FMN adenylyltransferase;EC_number=2.7.1.26 2.7.7.
+CA_scaffold_005454	PNNL	CDS	7271	7477	.	-	0	ID=CA_scaffold_005454_000006;bin=HLMG_199;gene=truB;product=tRNA pseudouridine55 synthase;EC_number=5.4.99.25
+CA_scaffold_005458	PNNL	CDS	1	423	.	+	0	ID=CA_scaffold_005458_000001;bin=HLMG_199;gene=amn;product=AMP nucleosidase;EC_number=3.2.2.4
+CA_scaffold_005458	PNNL	CDS	750	1514	.	+	0	ID=CA_scaffold_005458_000002;bin=HLMG_199
+CA_scaffold_005458	PNNL	CDS	1511	2113	.	+	0	ID=CA_scaffold_005458_000003;bin=HLMG_199
+CA_scaffold_005458	PNNL	CDS	2238	2654	.	+	0	ID=CA_scaffold_005458_000004;bin=HLMG_199
+CA_scaffold_005458	PNNL	CDS	3022	3681	.	+	0	ID=CA_scaffold_005458_000005;bin=HLMG_199;gene=radC;product=DNA repair protein RadC
+CA_scaffold_005458	PNNL	CDS	3784	4323	.	+	0	ID=CA_scaffold_005458_000006;bin=HLMG_199
+CA_scaffold_005458	PNNL	CDS	4578	5351	.	+	0	ID=CA_scaffold_005458_000007;bin=HLMG_199
+CA_scaffold_005458	PNNL	CDS	5356	7497	.	-	0	ID=CA_scaffold_005458_000008;bin=HLMG_199;gene=ppk;product=polyphosphate kinase;EC_number=2.7.4.1
+CA_scaffold_005458	PNNL	CDS	7656	8684	.	+	0	ID=CA_scaffold_005458_000009;bin=HLMG_199;gene=ruvB;product=holliday junction DNA helicase RuvB;EC_number=3.6.4.12
+CA_scaffold_005458	PNNL	CDS	8769	9920	.	+	0	ID=CA_scaffold_005458_000010;bin=HLMG_199;gene=metK;product=S-adenosylmethionine synthetase;EC_number=2.5.1.6
+CA_scaffold_005497	PNNL	CDS	478	3564	.	+	0	ID=CA_scaffold_005497_000001;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_005497	PNNL	CDS	3557	4462	.	+	0	ID=CA_scaffold_005497_000002;bin=HLMG_199;gene=cas1;product=CRISP-associated protein Cas1
+CA_scaffold_005497	PNNL	CDS	4462	4794	.	+	0	ID=CA_scaffold_005497_000003;bin=HLMG_199;gene=cas2;product=CRISPR-associated protein Cas2
+CA_scaffold_005497	PNNL	CDS	6323	7426	.	-	0	ID=CA_scaffold_005497_000004;bin=HLMG_199
+CA_scaffold_005572	PNNL	CDS	155	1201	.	-	0	ID=CA_scaffold_005572_000001;bin=HLMG_199;gene=queA;product=S-adenosylmethionine:tRNA ribosyltransferase-isomerase;EC_number=2.4.99.17
+CA_scaffold_005572	PNNL	CDS	1176	1298	.	-	0	ID=CA_scaffold_005572_000002;bin=HLMG_199
+CA_scaffold_005572	PNNL	CDS	1383	1919	.	+	0	ID=CA_scaffold_005572_000003;bin=HLMG_199
+CA_scaffold_005572	PNNL	CDS	1929	2384	.	+	0	ID=CA_scaffold_005572_000004;bin=HLMG_199
+CA_scaffold_005572	PNNL	CDS	2402	2818	.	+	0	ID=CA_scaffold_005572_000005;bin=HLMG_199;gene=ybeB;product=ribosome-associated protein
+CA_scaffold_005572	PNNL	CDS	2879	6730	.	+	0	ID=CA_scaffold_005572_000006;bin=HLMG_199
+CA_scaffold_005572	PNNL	CDS	6910	7365	.	+	0	ID=CA_scaffold_005572_000007;bin=HLMG_199;gene=norM;product=multidrug resistance protein, MATE family
+CA_scaffold_005594	PNNL	CDS	2	487	.	-	0	ID=CA_scaffold_005594_000001;bin=HLMG_199;gene=gltA;product=citrate synthase;EC_number=2.3.3.1
+CA_scaffold_005594	PNNL	CDS	712	1482	.	-	0	ID=CA_scaffold_005594_000002;bin=HLMG_199;gene=rdgB;product=XTP/dITP diphosphohydrolase;EC_number=3.6.1.66
+CA_scaffold_005594	PNNL	CDS	1717	2991	.	-	0	ID=CA_scaffold_005594_000003;bin=HLMG_199
+CA_scaffold_005594	PNNL	CDS	2991	4889	.	-	0	ID=CA_scaffold_005594_000004;bin=HLMG_199
+CA_scaffold_005594	PNNL	CDS	4889	5497	.	-	0	ID=CA_scaffold_005594_000005;bin=HLMG_199;gene=maf;product=septum formation protein
+CA_scaffold_005594	PNNL	CDS	5691	5945	.	+	0	ID=CA_scaffold_005594_000006;bin=HLMG_199
+CA_scaffold_005594	PNNL	CDS	6033	6803	.	+	0	ID=CA_scaffold_005594_000007;bin=HLMG_199
+CA_scaffold_005594	PNNL	CDS	6800	7342	.	+	0	ID=CA_scaffold_005594_000008;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	2	640	.	-	0	ID=CA_scaffold_005679_000001;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	865	1239	.	+	0	ID=CA_scaffold_005679_000002;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	1316	2440	.	+	0	ID=CA_scaffold_005679_000003;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	2412	3284	.	+	0	ID=CA_scaffold_005679_000004;bin=HLMG_199;gene=meh;product=mesaconyl-C4 CoA hydratase
+CA_scaffold_005679	PNNL	CDS	3394	4305	.	+	0	ID=CA_scaffold_005679_000005;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	4478	7096	.	-	0	ID=CA_scaffold_005679_000006;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	7182	7670	.	-	0	ID=CA_scaffold_005679_000007;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	7791	8738	.	-	0	ID=CA_scaffold_005679_000008;bin=HLMG_199
+CA_scaffold_005679	PNNL	CDS	8809	10119	.	-	0	ID=CA_scaffold_005679_000009;bin=HLMG_199
+CA_scaffold_005699	PNNL	CDS	24	734	.	-	0	ID=CA_scaffold_005699_000001;bin=HLMG_199
+CA_scaffold_005699	PNNL	CDS	1011	2162	.	-	0	ID=CA_scaffold_005699_000002;bin=HLMG_199
+CA_scaffold_005699	PNNL	CDS	2586	7343	.	+	0	ID=CA_scaffold_005699_000003;bin=HLMG_199
+CA_scaffold_005699	PNNL	CDS	7451	7717	.	+	0	ID=CA_scaffold_005699_000004;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	503	763	.	+	0	ID=CA_scaffold_000574_000001;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	951	1631	.	+	0	ID=CA_scaffold_000574_000002;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	1618	1812	.	-	0	ID=CA_scaffold_000574_000003;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	1793	1993	.	-	0	ID=CA_scaffold_000574_000004;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	2069	2275	.	+	0	ID=CA_scaffold_000574_000005;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	2275	2439	.	+	0	ID=CA_scaffold_000574_000006;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	2583	3353	.	+	0	ID=CA_scaffold_000574_000007;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	3470	3703	.	+	0	ID=CA_scaffold_000574_000008;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	3838	4149	.	+	0	ID=CA_scaffold_000574_000009;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	4476	5726	.	+	0	ID=CA_scaffold_000574_000010;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	5714	6043	.	+	0	ID=CA_scaffold_000574_000011;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	6021	7487	.	-	0	ID=CA_scaffold_000574_000012;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	7552	7842	.	+	0	ID=CA_scaffold_000574_000013;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	7820	9970	.	+	0	ID=CA_scaffold_000574_000014;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	10075	11154	.	+	0	ID=CA_scaffold_000574_000015;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	11160	12401	.	+	0	ID=CA_scaffold_000574_000016;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	12419	12787	.	+	0	ID=CA_scaffold_000574_000017;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	12802	13125	.	+	0	ID=CA_scaffold_000574_000018;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	13122	13955	.	+	0	ID=CA_scaffold_000574_000019;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	13958	14491	.	+	0	ID=CA_scaffold_000574_000020;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	14488	15129	.	+	0	ID=CA_scaffold_000574_000021;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	15126	15743	.	+	0	ID=CA_scaffold_000574_000022;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	15748	16380	.	+	0	ID=CA_scaffold_000574_000023;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	16417	17217	.	+	0	ID=CA_scaffold_000574_000024;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	17227	17490	.	+	0	ID=CA_scaffold_000574_000025;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	17487	17816	.	+	0	ID=CA_scaffold_000574_000026;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	17819	18268	.	+	0	ID=CA_scaffold_000574_000027;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	18270	18464	.	+	0	ID=CA_scaffold_000574_000028;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	18479	19513	.	+	0	ID=CA_scaffold_000574_000029;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	19526	23278	.	+	0	ID=CA_scaffold_000574_000030;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	23280	23636	.	+	0	ID=CA_scaffold_000574_000031;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	23649	24248	.	+	0	ID=CA_scaffold_000574_000032;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	24251	26119	.	+	0	ID=CA_scaffold_000574_000033;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	26109	28355	.	+	0	ID=CA_scaffold_000574_000034;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	28433	28657	.	+	0	ID=CA_scaffold_000574_000035;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	28654	29070	.	+	0	ID=CA_scaffold_000574_000036;bin=HLMG_199;gene=doc;product=death on curing protein
+CA_scaffold_000574	PNNL	CDS	29059	29406	.	-	0	ID=CA_scaffold_000574_000037;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	29406	29567	.	-	0	ID=CA_scaffold_000574_000038;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	29571	30089	.	-	0	ID=CA_scaffold_000574_000039;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	30092	30631	.	-	0	ID=CA_scaffold_000574_000040;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	30978	31307	.	-	0	ID=CA_scaffold_000574_000041;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	31327	31524	.	-	0	ID=CA_scaffold_000574_000042;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	31759	31914	.	-	0	ID=CA_scaffold_000574_000043;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	31877	32197	.	-	0	ID=CA_scaffold_000574_000044;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	32190	32378	.	-	0	ID=CA_scaffold_000574_000045;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	32469	32903	.	-	0	ID=CA_scaffold_000574_000046;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	33212	33490	.	-	0	ID=CA_scaffold_000574_000047;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	33491	33757	.	-	0	ID=CA_scaffold_000574_000048;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	34215	34502	.	-	0	ID=CA_scaffold_000574_000049;bin=HLMG_199
+CA_scaffold_000574	PNNL	CDS	34578	34808	.	-	0	ID=CA_scaffold_000574_000050;bin=HLMG_199
+CA_scaffold_005775	PNNL	CDS	350	463	.	-	0	ID=CA_scaffold_005775_000001;bin=HLMG_199
+CA_scaffold_005775	PNNL	CDS	531	1199	.	+	0	ID=CA_scaffold_005775_000002;bin=HLMG_199
+CA_scaffold_005775	PNNL	CDS	1494	1952	.	-	0	ID=CA_scaffold_005775_000003;bin=HLMG_199
+CA_scaffold_005775	PNNL	CDS	1993	3474	.	-	0	ID=CA_scaffold_005775_000004;bin=HLMG_199
+CA_scaffold_005775	PNNL	CDS	3495	6572	.	-	0	ID=CA_scaffold_005775_000005;bin=HLMG_199
+CA_scaffold_005775	PNNL	CDS	7090	7182	.	-	0	ID=CA_scaffold_005775_000006;bin=HLMG_199
+CA_scaffold_005867	PNNL	CDS	3	749	.	-	0	ID=CA_scaffold_005867_000001;bin=HLMG_199
+CA_scaffold_005867	PNNL	CDS	746	1240	.	-	0	ID=CA_scaffold_005867_000002;bin=HLMG_199
+CA_scaffold_005867	PNNL	CDS	1245	2432	.	-	0	ID=CA_scaffold_005867_000003;bin=HLMG_199
+CA_scaffold_005867	PNNL	CDS	2757	4109	.	+	0	ID=CA_scaffold_005867_000004;bin=HLMG_199
+CA_scaffold_005867	PNNL	CDS	4173	4949	.	+	0	ID=CA_scaffold_005867_000005;bin=HLMG_199
+CA_scaffold_005867	PNNL	CDS	5041	7107	.	-	0	ID=CA_scaffold_005867_000006;bin=HLMG_199
+CA_scaffold_005883	PNNL	CDS	1	306	.	+	0	ID=CA_scaffold_005883_000001;bin=HLMG_199;gene=ksgA;product=16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase;EC_number=2.1.1.182
+CA_scaffold_005883	PNNL	CDS	483	770	.	+	0	ID=CA_scaffold_005883_000002;bin=HLMG_199;gene=groES;product=chaperonin GroES
+CA_scaffold_005883	PNNL	CDS	822	2492	.	+	0	ID=CA_scaffold_005883_000003;bin=HLMG_199;gene=groEL;product=chaperonin GroEL
+CA_scaffold_005883	PNNL	CDS	2776	3723	.	-	0	ID=CA_scaffold_005883_000004;bin=HLMG_199
+CA_scaffold_005883	PNNL	CDS	3720	4673	.	-	0	ID=CA_scaffold_005883_000005;bin=HLMG_199
+CA_scaffold_005883	PNNL	CDS	4676	5173	.	-	0	ID=CA_scaffold_005883_000006;bin=HLMG_199
+CA_scaffold_005883	PNNL	CDS	5367	6857	.	-	0	ID=CA_scaffold_005883_000007;bin=HLMG_199
+CA_scaffold_005883	PNNL	CDS	7126	8532	.	-	0	ID=CA_scaffold_005883_000008;bin=HLMG_199;gene=gdhA;product=glutamate dehydrogenase (NAD(P)+);EC_number=1.4.1.3
+CA_scaffold_005883	PNNL	CDS	9162	9434	.	-	0	ID=CA_scaffold_005883_000009;bin=HLMG_199
+CA_scaffold_005883	PNNL	CDS	9571	10629	.	+	0	ID=CA_scaffold_005883_000010;bin=HLMG_199;gene=dinB;product=DNA polymerase IV;EC_number=2.7.7.7
+CA_scaffold_005883	PNNL	CDS	10630	11625	.	+	0	ID=CA_scaffold_005883_000011;bin=HLMG_199;product=inner membrane protein
+CA_scaffold_005883	PNNL	CDS	11667	12275	.	+	0	ID=CA_scaffold_005883_000012;bin=HLMG_199;gene=rpoE;product=RNA polymerase sigma-70 factor, ECF subfamily
+CA_scaffold_005883	PNNL	CDS	12275	12766	.	+	0	ID=CA_scaffold_005883_000013;bin=HLMG_199
+CA_scaffold_005912	PNNL	CDS	3	1184	.	+	0	ID=CA_scaffold_005912_000001;bin=HLMG_199;gene=sfcA;product=malate dehydrogenase (oxaloacetate-decarboxylating);EC_number=1.1.1.38
+CA_scaffold_005912	PNNL	CDS	1606	2448	.	-	0	ID=CA_scaffold_005912_000002;bin=HLMG_199;product=proline dehydrogenase;EC_number=1.5.-.-
+CA_scaffold_005912	PNNL	CDS	2716	3651	.	+	0	ID=CA_scaffold_005912_000003;bin=HLMG_199
+CA_scaffold_005912	PNNL	CDS	3683	3898	.	+	0	ID=CA_scaffold_005912_000004;bin=HLMG_199
+CA_scaffold_005912	PNNL	CDS	3902	4399	.	+	0	ID=CA_scaffold_005912_000005;bin=HLMG_199;gene=coxB;product=cytochrome c oxidase subunit II;EC_number=1.9.3.1
+CA_scaffold_005912	PNNL	CDS	4404	6095	.	+	0	ID=CA_scaffold_005912_000006;bin=HLMG_199;gene=coxA;product=cytochrome c oxidase subunit I;EC_number=1.9.3.1
+CA_scaffold_005912	PNNL	CDS	6102	6713	.	+	0	ID=CA_scaffold_005912_000007;bin=HLMG_199;product=protein SCO1/2
+CA_scaffold_005912	PNNL	CDS	6783	7358	.	+	0	ID=CA_scaffold_005912_000008;bin=HLMG_199
+CA_scaffold_005912	PNNL	CDS	7572	8669	.	-	0	ID=CA_scaffold_005912_000009;bin=HLMG_199;gene=gltS;product=glutamate:Na+ symporter, ESS family
+CA_scaffold_005921	PNNL	CDS	3	767	.	-	0	ID=CA_scaffold_005921_000001;bin=HLMG_199;gene=petH;product=ferredoxin--NADP+ reductase;EC_number=1.18.1.2
+CA_scaffold_005921	PNNL	CDS	828	1451	.	-	0	ID=CA_scaffold_005921_000002;bin=HLMG_199;product=ABC-2 type transport system ATP-binding protein
+CA_scaffold_005921	PNNL	CDS	1453	2673	.	-	0	ID=CA_scaffold_005921_000003;bin=HLMG_199
+CA_scaffold_005921	PNNL	CDS	2743	3090	.	-	0	ID=CA_scaffold_005921_000004;bin=HLMG_199
+CA_scaffold_005921	PNNL	CDS	3165	4061	.	-	0	ID=CA_scaffold_005921_000005;bin=HLMG_199
+CA_scaffold_005921	PNNL	CDS	4222	4992	.	+	0	ID=CA_scaffold_005921_000006;bin=HLMG_199;gene=fixA;product=electron transfer flavoprotein beta subunit
+CA_scaffold_005921	PNNL	CDS	5011	5988	.	+	0	ID=CA_scaffold_005921_000007;bin=HLMG_199;gene=fixB;product=electron transfer flavoprotein alpha subunit
+CA_scaffold_005921	PNNL	CDS	6012	7085	.	+	0	ID=CA_scaffold_005921_000008;bin=HLMG_199;gene=fixC;product=electron transfer flavoprotein-quinone oxidoreductase;EC_number=1.5.5.-
+CA_scaffold_005921	PNNL	CDS	7045	7392	.	+	0	ID=CA_scaffold_005921_000009;bin=HLMG_199
+CA_scaffold_005934	PNNL	CDS	144	575	.	+	0	ID=CA_scaffold_005934_000001;bin=HLMG_199
+CA_scaffold_005934	PNNL	CDS	618	962	.	-	0	ID=CA_scaffold_005934_000002;bin=HLMG_199
+CA_scaffold_005934	PNNL	CDS	988	1305	.	-	0	ID=CA_scaffold_005934_000003;bin=HLMG_199
+CA_scaffold_005934	PNNL	CDS	1308	3305	.	-	0	ID=CA_scaffold_005934_000004;bin=HLMG_199;product=ATP-binding cassette, subfamily F, member 3
+CA_scaffold_005934	PNNL	CDS	3433	4689	.	+	0	ID=CA_scaffold_005934_000005;bin=HLMG_199
+CA_scaffold_005934	PNNL	CDS	4765	6042	.	+	0	ID=CA_scaffold_005934_000006;bin=HLMG_199;product=membrane dipeptidase;EC_number=3.4.13.19
+CA_scaffold_005934	PNNL	CDS	6178	7974	.	+	0	ID=CA_scaffold_005934_000007;bin=HLMG_199
+CA_scaffold_005950	PNNL	CDS	2	226	.	+	0	ID=CA_scaffold_005950_000001;bin=HLMG_199
+CA_scaffold_005950	PNNL	CDS	375	3515	.	-	0	ID=CA_scaffold_005950_000002;bin=HLMG_199;gene=dnaE2;product=error-prone DNA polymerase;EC_number=2.7.7.7
+CA_scaffold_005950	PNNL	CDS	4266	5642	.	-	0	ID=CA_scaffold_005950_000003;bin=HLMG_199;gene=imuB;product=protein ImuB
+CA_scaffold_005950	PNNL	CDS	5683	6714	.	-	0	ID=CA_scaffold_005950_000004;bin=HLMG_199
+CA_scaffold_005984	PNNL	CDS	2	2233	.	-	0	ID=CA_scaffold_005984_000001;bin=HLMG_199
+CA_scaffold_005984	PNNL	CDS	2284	2574	.	-	0	ID=CA_scaffold_005984_000002;bin=HLMG_199;gene=gatC;product=aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C;EC_number=6.3.5.6 6.3.5.7
+CA_scaffold_005984	PNNL	CDS	2819	3310	.	+	0	ID=CA_scaffold_005984_000003;bin=HLMG_199
+CA_scaffold_005984	PNNL	CDS	3373	4383	.	-	0	ID=CA_scaffold_005984_000004;bin=HLMG_199;product=isocitrate dehydrogenase (NAD+);EC_number=1.1.1.41
+CA_scaffold_005984	PNNL	CDS	4464	5450	.	-	0	ID=CA_scaffold_005984_000005;bin=HLMG_199;gene=gcp;product=O-sialoglycoprotein endopeptidase;EC_number=3.4.24.57
+CA_scaffold_005984	PNNL	CDS	5586	7016	.	-	0	ID=CA_scaffold_005984_000006;bin=HLMG_199;gene=dnaK;product=molecular chaperone DnaK
+CA_scaffold_006005	PNNL	CDS	1	1107	.	+	0	ID=CA_scaffold_006005_000001;bin=HLMG_199;gene=lysC;product=aspartate kinase;EC_number=2.7.2.4
+CA_scaffold_006005	PNNL	CDS	1073	1792	.	+	0	ID=CA_scaffold_006005_000002;bin=HLMG_199;gene=dapB;product=4-hydroxy-tetrahydrodipicolinate reductase;EC_number=1.17.1.8
+CA_scaffold_006005	PNNL	CDS	1789	2670	.	+	0	ID=CA_scaffold_006005_000003;bin=HLMG_199;gene=dapA;product=4-hydroxy-tetrahydrodipicolinate synthase;EC_number=4.3.3.7
+CA_scaffold_006005	PNNL	CDS	2672	3418	.	+	0	ID=CA_scaffold_006005_000004;bin=HLMG_199;gene=dapD;product=2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase;EC_number=2.3.1.117
+CA_scaffold_006005	PNNL	CDS	3499	3945	.	+	0	ID=CA_scaffold_006005_000005;bin=HLMG_199;gene=ssb;product=single-strand DNA-binding protein
+CA_scaffold_006005	PNNL	CDS	4066	5457	.	+	0	ID=CA_scaffold_006005_000006;bin=HLMG_199
+CA_scaffold_006005	PNNL	CDS	5457	6518	.	+	0	ID=CA_scaffold_006005_000007;bin=HLMG_199;gene=murB;product=UDP-N-acetylmuramate dehydrogenase;EC_number=1.3.1.98
+CA_scaffold_006005	PNNL	CDS	6518	6997	.	+	0	ID=CA_scaffold_006005_000008;bin=HLMG_199
+CA_scaffold_006040	PNNL	CDS	3	1772	.	-	0	ID=CA_scaffold_006040_000001;bin=HLMG_199
+CA_scaffold_006040	PNNL	CDS	1819	3543	.	-	0	ID=CA_scaffold_006040_000002;bin=HLMG_199
+CA_scaffold_006040	PNNL	CDS	3724	5901	.	+	0	ID=CA_scaffold_006040_000003;bin=HLMG_199;product=uncharacterized protein
+CA_scaffold_006040	PNNL	CDS	6005	6853	.	-	0	ID=CA_scaffold_006040_000004;bin=HLMG_199;gene=nfo;product=deoxyribonuclease IV;EC_number=3.1.21.2
+CA_scaffold_006067	PNNL	CDS	2	1345	.	-	0	ID=CA_scaffold_006067_000001;bin=HLMG_199
+CA_scaffold_006067	PNNL	CDS	1342	4506	.	-	0	ID=CA_scaffold_006067_000002;bin=HLMG_199
+CA_scaffold_006067	PNNL	CDS	4524	5687	.	-	0	ID=CA_scaffold_006067_000003;bin=HLMG_199
+CA_scaffold_006067	PNNL	CDS	6552	6839	.	-	0	ID=CA_scaffold_006067_000004;bin=HLMG_199
+CA_scaffold_006100	PNNL	CDS	1	642	.	-	0	ID=CA_scaffold_006100_000001;bin=HLMG_199
+CA_scaffold_006100	PNNL	CDS	807	2657	.	+	0	ID=CA_scaffold_006100_000002;bin=HLMG_199
+CA_scaffold_006100	PNNL	CDS	2650	3063	.	-	0	ID=CA_scaffold_006100_000003;bin=HLMG_199
+CA_scaffold_006100	PNNL	CDS	3221	6037	.	+	0	ID=CA_scaffold_006100_000004;bin=HLMG_199
+CA_scaffold_006100	PNNL	CDS	6050	6481	.	-	0	ID=CA_scaffold_006100_000005;bin=HLMG_199
+CA_scaffold_006100	PNNL	CDS	6838	6930	.	-	0	ID=CA_scaffold_006100_000006;bin=HLMG_199
+CA_scaffold_006111	PNNL	CDS	1	339	.	+	0	ID=CA_scaffold_006111_000001;bin=HLMG_199
+CA_scaffold_006111	PNNL	CDS	525	2114	.	+	0	ID=CA_scaffold_006111_000002;bin=HLMG_199
+CA_scaffold_006111	PNNL	CDS	2132	5572	.	+	0	ID=CA_scaffold_006111_000003;bin=HLMG_199
+CA_scaffold_006111	PNNL	CDS	5715	6191	.	+	0	ID=CA_scaffold_006111_000004;bin=HLMG_199
+CA_scaffold_006111	PNNL	CDS	6220	6669	.	+	0	ID=CA_scaffold_006111_000005;bin=HLMG_199
+CA_scaffold_006133	PNNL	CDS	2	694	.	-	0	ID=CA_scaffold_006133_000001;bin=HLMG_199;gene=scpB;product=segregation and condensation protein B
+CA_scaffold_006133	PNNL	CDS	724	1308	.	-	0	ID=CA_scaffold_006133_000002;bin=HLMG_199
+CA_scaffold_006133	PNNL	CDS	1332	1799	.	-	0	ID=CA_scaffold_006133_000003;bin=HLMG_199;gene=astE;product=succinylglutamate desuccinylase;EC_number=3.5.1.96
+CA_scaffold_006133	PNNL	CDS	1786	3621	.	-	0	ID=CA_scaffold_006133_000004;bin=HLMG_199
+CA_scaffold_006133	PNNL	CDS	3735	5657	.	-	0	ID=CA_scaffold_006133_000005;bin=HLMG_199
+CA_scaffold_006133	PNNL	CDS	5999	6820	.	+	0	ID=CA_scaffold_006133_000006;bin=HLMG_199
+CA_scaffold_006133	PNNL	CDS	6985	8079	.	-	0	ID=CA_scaffold_006133_000007;bin=HLMG_199
+CA_scaffold_006133	PNNL	CDS	8964	9062	.	+	0	ID=CA_scaffold_006133_000008;bin=HLMG_199
+CA_scaffold_006134	PNNL	CDS	2	1216	.	+	0	ID=CA_scaffold_006134_000001;bin=HLMG_199;gene=glpA;product=glycerol-3-phosphate dehydrogenase;EC_number=1.1.5.3
+CA_scaffold_006134	PNNL	CDS	1235	2731	.	+	0	ID=CA_scaffold_006134_000002;bin=HLMG_199;gene=glpK;product=glycerol kinase;EC_number=2.7.1.30
+CA_scaffold_006134	PNNL	CDS	2801	3568	.	+	0	ID=CA_scaffold_006134_000003;bin=HLMG_199;product=glycerol uptake facilitator protein
+CA_scaffold_006134	PNNL	CDS	3697	4863	.	+	0	ID=CA_scaffold_006134_000004;bin=HLMG_199
+CA_scaffold_006134	PNNL	CDS	4963	6036	.	+	0	ID=CA_scaffold_006134_000005;bin=HLMG_199;gene=dhaK;product=dihydroxyacetone kinase, N-terminal domain;EC_number=2.7.1.-
+CA_scaffold_006134	PNNL	CDS	6207	6842	.	+	0	ID=CA_scaffold_006134_000006;bin=HLMG_199;gene=dhaL;product=dihydroxyacetone kinase, C-terminal domain;EC_number=2.7.1.-
+CA_scaffold_006205	PNNL	CDS	53	3430	.	-	0	ID=CA_scaffold_006205_000001;bin=HLMG_199
+CA_scaffold_006205	PNNL	CDS	3777	3899	.	+	0	ID=CA_scaffold_006205_000002;bin=HLMG_199
+CA_scaffold_006205	PNNL	CDS	3927	5582	.	+	0	ID=CA_scaffold_006205_000003;bin=HLMG_199;gene=fhs;product=formate--tetrahydrofolate ligase;EC_number=6.3.4.3
+CA_scaffold_006205	PNNL	CDS	5941	6357	.	-	0	ID=CA_scaffold_006205_000004;bin=HLMG_199;product=putative oxidoreductase
+CA_scaffold_006205	PNNL	CDS	6475	6840	.	-	0	ID=CA_scaffold_006205_000005;bin=HLMG_199
+CA_scaffold_006262	PNNL	CDS	1	180	.	+	0	ID=CA_scaffold_006262_000001;bin=HLMG_199
+CA_scaffold_006262	PNNL	CDS	195	1034	.	-	0	ID=CA_scaffold_006262_000002;bin=HLMG_199
+CA_scaffold_006262	PNNL	CDS	1040	1444	.	-	0	ID=CA_scaffold_006262_000003;bin=HLMG_199;gene=exbD;product=biopolymer transport protein ExbD
+CA_scaffold_006262	PNNL	CDS	1448	2167	.	-	0	ID=CA_scaffold_006262_000004;bin=HLMG_199;gene=exbB;product=biopolymer transport protein ExbB
+CA_scaffold_006262	PNNL	CDS	2174	3589	.	-	0	ID=CA_scaffold_006262_000005;bin=HLMG_199
+CA_scaffold_006262	PNNL	CDS	3579	3788	.	-	0	ID=CA_scaffold_006262_000006;bin=HLMG_199;gene=hupB;product=DNA-binding protein HU-beta
+CA_scaffold_006262	PNNL	CDS	3792	5549	.	-	0	ID=CA_scaffold_006262_000007;bin=HLMG_199
+CA_scaffold_006262	PNNL	CDS	5759	6790	.	-	0	ID=CA_scaffold_006262_000008;bin=HLMG_199
+CA_scaffold_006338	PNNL	CDS	374	3250	.	-	0	ID=CA_scaffold_006338_000001;bin=HLMG_199
+CA_scaffold_006338	PNNL	CDS	3572	5104	.	-	0	ID=CA_scaffold_006338_000002;bin=HLMG_199
+CA_scaffold_006338	PNNL	CDS	5145	6215	.	-	0	ID=CA_scaffold_006338_000003;bin=HLMG_199;gene=cheB;product=two-component system, chemotaxis family, response regulator CheB;EC_number=3.1.1.61
+CA_scaffold_006370	PNNL	CDS	3	149	.	-	0	ID=CA_scaffold_006370_000001;bin=HLMG_199
+CA_scaffold_006370	PNNL	CDS	200	844	.	-	0	ID=CA_scaffold_006370_000002;bin=HLMG_199
+CA_scaffold_006370	PNNL	CDS	1302	1898	.	+	0	ID=CA_scaffold_006370_000003;bin=HLMG_199;product=putative membrane protein
+CA_scaffold_006370	PNNL	CDS	1918	4605	.	-	0	ID=CA_scaffold_006370_000004;bin=HLMG_199
+CA_scaffold_006370	PNNL	CDS	4969	5877	.	-	0	ID=CA_scaffold_006370_000005;bin=HLMG_199
+CA_scaffold_006370	PNNL	CDS	5879	8230	.	-	0	ID=CA_scaffold_006370_000006;bin=HLMG_199
+CA_scaffold_006375	PNNL	CDS	1	2154	.	+	0	ID=CA_scaffold_006375_000001;bin=HLMG_199;gene=fadE;product=acyl-CoA dehydrogenase;EC_number=1.3.99.-
+CA_scaffold_006375	PNNL	CDS	2123	2341	.	+	0	ID=CA_scaffold_006375_000002;bin=HLMG_199
+CA_scaffold_006375	PNNL	CDS	2853	5330	.	+	0	ID=CA_scaffold_006375_000003;bin=HLMG_199;gene=thrA;product=bifunctional aspartokinase / homoserine dehydrogenase 1;EC_number=2.7.2.4 1.1.1.3
+CA_scaffold_006375	PNNL	CDS	5368	6321	.	+	0	ID=CA_scaffold_006375_000004;bin=HLMG_199;gene=thrB1;product=homoserine kinase;EC_number=2.7.1.39
+CA_scaffold_006375	PNNL	CDS	6360	7676	.	+	0	ID=CA_scaffold_006375_000005;bin=HLMG_199;gene=thrC;product=threonine synthase;EC_number=4.2.3.1
+CA_scaffold_006375	PNNL	CDS	7789	8001	.	+	0	ID=CA_scaffold_006375_000006;bin=HLMG_199;gene=rpmE;product=large subunit ribosomal protein L31
+CA_scaffold_006375	PNNL	CDS	8074	8709	.	+	0	ID=CA_scaffold_006375_000007;bin=HLMG_199
+CA_scaffold_006454	PNNL	CDS	195	323	.	-	0	ID=CA_scaffold_006454_000001;bin=HLMG_199
+CA_scaffold_006454	PNNL	CDS	332	559	.	-	0	ID=CA_scaffold_006454_000002;bin=HLMG_199
+CA_scaffold_006454	PNNL	CDS	802	3207	.	-	0	ID=CA_scaffold_006454_000003;bin=HLMG_199
+CA_scaffold_006454	PNNL	CDS	3539	4912	.	-	0	ID=CA_scaffold_006454_000004;bin=HLMG_199;gene=fumC;product=fumarate hydratase, class II;EC_number=4.2.1.2
+CA_scaffold_006454	PNNL	CDS	5067	6200	.	-	0	ID=CA_scaffold_006454_000005;bin=HLMG_199
+CA_scaffold_006454	PNNL	CDS	6212	6637	.	-	0	ID=CA_scaffold_006454_000006;bin=HLMG_199
+CA_scaffold_006532	PNNL	CDS	2	457	.	+	0	ID=CA_scaffold_006532_000001;bin=HLMG_199
+CA_scaffold_006532	PNNL	CDS	493	2472	.	+	0	ID=CA_scaffold_006532_000002;bin=HLMG_199;gene=nosZ;product=nitrous-oxide reductase;EC_number=1.7.2.4
+CA_scaffold_006532	PNNL	CDS	2633	3205	.	+	0	ID=CA_scaffold_006532_000003;bin=HLMG_199
+CA_scaffold_006532	PNNL	CDS	3221	3754	.	+	0	ID=CA_scaffold_006532_000004;bin=HLMG_199
+CA_scaffold_006532	PNNL	CDS	3770	4258	.	+	0	ID=CA_scaffold_006532_000005;bin=HLMG_199
+CA_scaffold_006532	PNNL	CDS	4266	5510	.	+	0	ID=CA_scaffold_006532_000006;bin=HLMG_199;gene=nosD;product=nitrous oxidase accessory protein
+CA_scaffold_006532	PNNL	CDS	5507	6226	.	+	0	ID=CA_scaffold_006532_000007;bin=HLMG_199
+CA_scaffold_006532	PNNL	CDS	6223	6591	.	+	0	ID=CA_scaffold_006532_000008;bin=HLMG_199
+CA_scaffold_006582	PNNL	CDS	3	203	.	+	0	ID=CA_scaffold_006582_000001;bin=HLMG_199
+CA_scaffold_006582	PNNL	CDS	213	1817	.	+	0	ID=CA_scaffold_006582_000002;bin=HLMG_199
+CA_scaffold_006582	PNNL	CDS	1846	5085	.	-	0	ID=CA_scaffold_006582_000003;bin=HLMG_199;gene=fadE;product=acyl-CoA dehydrogenase;EC_number=1.3.99.-
+CA_scaffold_006582	PNNL	CDS	5097	5684	.	-	0	ID=CA_scaffold_006582_000004;bin=HLMG_199
+CA_scaffold_006595	PNNL	CDS	1	762	.	+	0	ID=CA_scaffold_006595_000001;bin=HLMG_199
+CA_scaffold_006595	PNNL	CDS	966	1076	.	+	0	ID=CA_scaffold_006595_000002;bin=HLMG_199
+CA_scaffold_006595	PNNL	CDS	1111	2112	.	+	0	ID=CA_scaffold_006595_000003;bin=HLMG_199
+CA_scaffold_006595	PNNL	CDS	2135	3460	.	+	0	ID=CA_scaffold_006595_000004;bin=HLMG_199;gene=ahcY;product=adenosylhomocysteinase;EC_number=3.3.1.1
+CA_scaffold_006595	PNNL	CDS	3539	4477	.	-	0	ID=CA_scaffold_006595_000005;bin=HLMG_199;gene=htrB;product=lipid A biosynthesis lauroyl acyltransferase;EC_number=2.3.1.-
+CA_scaffold_006595	PNNL	CDS	4556	5170	.	-	0	ID=CA_scaffold_006595_000006;bin=HLMG_199
+CA_scaffold_006595	PNNL	CDS	5122	6273	.	-	0	ID=CA_scaffold_006595_000007;bin=HLMG_199;gene=atoB;product=acetyl-CoA C-acetyltransferase;EC_number=2.3.1.9
+CA_scaffold_006595	PNNL	CDS	6475	7326	.	-	0	ID=CA_scaffold_006595_000008;bin=HLMG_199
+CA_scaffold_006628	PNNL	CDS	2	616	.	+	0	ID=CA_scaffold_006628_000001;bin=HLMG_199
+CA_scaffold_006628	PNNL	CDS	613	4989	.	+	0	ID=CA_scaffold_006628_000002;bin=HLMG_199
+CA_scaffold_006628	PNNL	CDS	5016	5429	.	-	0	ID=CA_scaffold_006628_000003;bin=HLMG_199
+CA_scaffold_006628	PNNL	CDS	5745	6524	.	-	0	ID=CA_scaffold_006628_000004;bin=HLMG_199;gene=aceF;product=pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase);EC_number=2.3.1.12
+CA_scaffold_006650	PNNL	CDS	1	696	.	-	0	ID=CA_scaffold_006650_000001;bin=HLMG_199;gene=purC;product=phosphoribosylaminoimidazole-succinocarboxamide synthase;EC_number=6.3.2.6
+CA_scaffold_006650	PNNL	CDS	706	1731	.	-	0	ID=CA_scaffold_006650_000002;bin=HLMG_199;gene=lacI;product=LacI family transcriptional regulator
+CA_scaffold_006650	PNNL	CDS	1906	2877	.	+	0	ID=CA_scaffold_006650_000003;bin=HLMG_199;gene=crtB;product=phytoene synthase;EC_number=2.5.1.32
+CA_scaffold_006650	PNNL	CDS	3079	3792	.	+	0	ID=CA_scaffold_006650_000004;bin=HLMG_199
+CA_scaffold_006650	PNNL	CDS	3750	5306	.	+	0	ID=CA_scaffold_006650_000005;bin=HLMG_199
+CA_scaffold_006650	PNNL	CDS	5310	6233	.	+	0	ID=CA_scaffold_006650_000006;bin=HLMG_199;gene=murQ;product=N-acetylmuramic acid 6-phosphate etherase;EC_number=4.2.1.126
+CA_scaffold_006650	PNNL	CDS	6315	6509	.	+	0	ID=CA_scaffold_006650_000007;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	1	348	.	+	0	ID=CA_scaffold_006697_000001;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	341	1420	.	+	0	ID=CA_scaffold_006697_000002;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	1470	2522	.	+	0	ID=CA_scaffold_006697_000003;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	2687	2905	.	+	0	ID=CA_scaffold_006697_000004;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	2971	3276	.	+	0	ID=CA_scaffold_006697_000005;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	3495	4622	.	+	0	ID=CA_scaffold_006697_000006;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	4668	4817	.	+	0	ID=CA_scaffold_006697_000007;bin=HLMG_199
+CA_scaffold_006697	PNNL	CDS	4756	5667	.	+	0	ID=CA_scaffold_006697_000008;bin=HLMG_199
+CA_scaffold_006706	PNNL	CDS	2	454	.	+	0	ID=CA_scaffold_006706_000001;bin=HLMG_199;product=putative ABC transport system permease protein
+CA_scaffold_006706	PNNL	CDS	555	2945	.	+	0	ID=CA_scaffold_006706_000002;bin=HLMG_199;gene=mrcA;product=penicillin-binding protein 1A;EC_number=2.4.1.- 3.4.-.-
+CA_scaffold_006706	PNNL	CDS	3052	3696	.	+	0	ID=CA_scaffold_006706_000003;bin=HLMG_199
+CA_scaffold_006706	PNNL	CDS	3680	4459	.	+	0	ID=CA_scaffold_006706_000004;bin=HLMG_199
+CA_scaffold_006706	PNNL	CDS	4576	5367	.	+	0	ID=CA_scaffold_006706_000005;bin=HLMG_199
+CA_scaffold_006706	PNNL	CDS	5476	6351	.	+	0	ID=CA_scaffold_006706_000006;bin=HLMG_199
+CA_scaffold_006751	PNNL	CDS	1	324	.	-	0	ID=CA_scaffold_006751_000001;bin=HLMG_199
+CA_scaffold_006751	PNNL	CDS	330	1193	.	-	0	ID=CA_scaffold_006751_000002;bin=HLMG_199
+CA_scaffold_006751	PNNL	CDS	1232	2752	.	-	0	ID=CA_scaffold_006751_000003;bin=HLMG_199;product=aldehyde dehydrogenase (NAD+);EC_number=1.2.1.3
+CA_scaffold_006751	PNNL	CDS	2807	3715	.	-	0	ID=CA_scaffold_006751_000004;bin=HLMG_199;gene=deoC;product=deoxyribose-phosphate aldolase;EC_number=4.1.2.4
+CA_scaffold_006751	PNNL	CDS	3866	5470	.	-	0	ID=CA_scaffold_006751_000005;bin=HLMG_199;gene=pckA;product=phosphoenolpyruvate carboxykinase (ATP);EC_number=4.1.1.49
+CA_scaffold_006751	PNNL	CDS	5760	6449	.	+	0	ID=CA_scaffold_006751_000006;bin=HLMG_199;gene=aguB;product=N-carbamoylputrescine amidase;EC_number=3.5.1.53
+CA_scaffold_006794	PNNL	CDS	1	804	.	+	0	ID=CA_scaffold_006794_000001;bin=HLMG_199;gene=nei;product=endonuclease VIII;EC_number=3.2.2.- 4.2.99.
+CA_scaffold_006794	PNNL	CDS	1275	1880	.	+	0	ID=CA_scaffold_006794_000002;bin=HLMG_199
+CA_scaffold_006794	PNNL	CDS	1979	2275	.	-	0	ID=CA_scaffold_006794_000003;bin=HLMG_199
+CA_scaffold_006794	PNNL	CDS	2373	2537	.	-	0	ID=CA_scaffold_006794_000004;bin=HLMG_199
+CA_scaffold_006794	PNNL	CDS	2750	5383	.	-	0	ID=CA_scaffold_006794_000005;bin=HLMG_199
+CA_scaffold_006794	PNNL	CDS	5833	6417	.	-	0	ID=CA_scaffold_006794_000006;bin=HLMG_199
+CA_scaffold_006794	PNNL	CDS	6369	6785	.	-	0	ID=CA_scaffold_006794_000007;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	1	438	.	+	0	ID=CA_scaffold_007103_000001;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	534	1190	.	+	0	ID=CA_scaffold_007103_000002;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	1459	1791	.	-	0	ID=CA_scaffold_007103_000003;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	2058	3293	.	+	0	ID=CA_scaffold_007103_000004;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	3360	3959	.	+	0	ID=CA_scaffold_007103_000005;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	3975	4574	.	+	0	ID=CA_scaffold_007103_000006;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	4584	5237	.	+	0	ID=CA_scaffold_007103_000007;bin=HLMG_199
+CA_scaffold_007103	PNNL	CDS	5234	6223	.	-	0	ID=CA_scaffold_007103_000008;bin=HLMG_199
+CA_scaffold_007203	PNNL	CDS	3	2969	.	-	0	ID=CA_scaffold_007203_000001;bin=HLMG_199;gene=mfd;product=transcription-repair coupling factor (superfamily II helicase);EC_number=3.6.4.-
+CA_scaffold_007203	PNNL	CDS	3020	4018	.	-	0	ID=CA_scaffold_007203_000002;bin=HLMG_199;gene=yfbK;product=Ca-activated chloride channel homolog
+CA_scaffold_007203	PNNL	CDS	4015	4998	.	-	0	ID=CA_scaffold_007203_000003;bin=HLMG_199
+CA_scaffold_007203	PNNL	CDS	5174	6160	.	+	0	ID=CA_scaffold_007203_000004;bin=HLMG_199
+CA_scaffold_007293	PNNL	CDS	493	6036	.	-	0	ID=CA_scaffold_007293_000001;bin=HLMG_199
+CA_scaffold_007361	PNNL	CDS	3	971	.	+	0	ID=CA_scaffold_007361_000001;bin=HLMG_199;gene=purH;product=phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase;EC_number=2.1.2.3 3.5.4.1
+CA_scaffold_007361	PNNL	CDS	1075	2139	.	+	0	ID=CA_scaffold_007361_000002;bin=HLMG_199;gene=mreB;product=rod shape-determining protein MreB and related proteins
+CA_scaffold_007361	PNNL	CDS	2157	2984	.	+	0	ID=CA_scaffold_007361_000003;bin=HLMG_199;gene=mreC;product=rod shape-determining protein MreC
+CA_scaffold_007361	PNNL	CDS	2984	3454	.	+	0	ID=CA_scaffold_007361_000004;bin=HLMG_199
+CA_scaffold_007361	PNNL	CDS	3457	5373	.	+	0	ID=CA_scaffold_007361_000005;bin=HLMG_199;gene=mrdA;product=penicillin-binding protein 2
+CA_scaffold_007361	PNNL	CDS	5366	6067	.	+	0	ID=CA_scaffold_007361_000006;bin=HLMG_199;gene=rodA;product=rod shape determining protein RodA
+CA_scaffold_007555	PNNL	CDS	2	94	.	-	0	ID=CA_scaffold_007555_000001;bin=HLMG_199
+CA_scaffold_007555	PNNL	CDS	106	300	.	-	0	ID=CA_scaffold_007555_000002;bin=HLMG_199
+CA_scaffold_007555	PNNL	CDS	303	3386	.	-	0	ID=CA_scaffold_007555_000003;bin=HLMG_199;product=hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family
+CA_scaffold_007555	PNNL	CDS	3647	4810	.	-	0	ID=CA_scaffold_007555_000004;bin=HLMG_199;product=HlyD family secretion protein
+CA_scaffold_007555	PNNL	CDS	4986	5441	.	-	0	ID=CA_scaffold_007555_000005;bin=HLMG_199;product=GAF domain-containing protein
+CA_scaffold_007555	PNNL	CDS	5569	6249	.	+	0	ID=CA_scaffold_007555_000006;bin=HLMG_199;gene=marC;product=multiple antibiotic resistance protein
+CA_scaffold_007555	PNNL	CDS	6261	6728	.	+	0	ID=CA_scaffold_007555_000007;bin=HLMG_199
+CA_scaffold_007555	PNNL	CDS	6853	8199	.	+	0	ID=CA_scaffold_007555_000008;bin=HLMG_199;product=alanine or glycine:cation symporter, AGCS family
+CA_scaffold_007555	PNNL	CDS	8248	8676	.	-	0	ID=CA_scaffold_007555_000009;bin=HLMG_199
+CA_scaffold_007555	PNNL	CDS	8759	9205	.	-	0	ID=CA_scaffold_007555_000010;bin=HLMG_199;gene=epi;product=methylmalonyl-CoA/ethylmalonyl-CoA epimerase;EC_number=5.1.99.1
+CA_scaffold_007555	PNNL	CDS	9288	9611	.	+	0	ID=CA_scaffold_007555_000011;bin=HLMG_199
+CA_scaffold_007555	PNNL	CDS	9701	10219	.	+	0	ID=CA_scaffold_007555_000012;bin=HLMG_199;gene=tag;product=DNA-3-methyladenine glycosylase I;EC_number=3.2.2.20
+CA_scaffold_007602	PNNL	CDS	2	295	.	-	0	ID=CA_scaffold_007602_000001;bin=HLMG_199
+CA_scaffold_007602	PNNL	CDS	300	1406	.	-	0	ID=CA_scaffold_007602_000002;bin=HLMG_199;gene=hemN;product=oxygen-independent coproporphyrinogen III oxidase;EC_number=1.3.99.22
+CA_scaffold_007602	PNNL	CDS	1468	2016	.	-	0	ID=CA_scaffold_007602_000003;bin=HLMG_199
+CA_scaffold_007602	PNNL	CDS	2020	2628	.	-	0	ID=CA_scaffold_007602_000004;bin=HLMG_199
+CA_scaffold_007602	PNNL	CDS	2712	3146	.	-	0	ID=CA_scaffold_007602_000005;bin=HLMG_199;gene=sufE;product=cysteine desulfuration protein SufE
+CA_scaffold_007602	PNNL	CDS	3210	4466	.	-	0	ID=CA_scaffold_007602_000006;bin=HLMG_199
+CA_scaffold_007602	PNNL	CDS	4753	5919	.	-	0	ID=CA_scaffold_007602_000007;bin=HLMG_199
+CA_scaffold_007609	PNNL	CDS	1	258	.	+	0	ID=CA_scaffold_007609_000001;bin=HLMG_199
+CA_scaffold_007609	PNNL	CDS	318	833	.	+	0	ID=CA_scaffold_007609_000002;bin=HLMG_199;gene=hemG;product=menaquinone-dependent protoporphyrinogen oxidase;EC_number=1.3.5.3
+CA_scaffold_007609	PNNL	CDS	1533	1979	.	-	0	ID=CA_scaffold_007609_000003;bin=HLMG_199;product=HSP20 family protein
+CA_scaffold_007609	PNNL	CDS	2182	2847	.	-	0	ID=CA_scaffold_007609_000004;bin=HLMG_199
+CA_scaffold_007609	PNNL	CDS	2860	4251	.	-	0	ID=CA_scaffold_007609_000005;bin=HLMG_199
+CA_scaffold_007609	PNNL	CDS	4510	5379	.	-	0	ID=CA_scaffold_007609_000006;bin=HLMG_199
+CA_scaffold_007609	PNNL	CDS	5399	5863	.	-	0	ID=CA_scaffold_007609_000007;bin=HLMG_199
+CA_scaffold_007609	PNNL	CDS	5924	6718	.	-	0	ID=CA_scaffold_007609_000008;bin=HLMG_199;gene=yrbG;product=cation:H+ antiporter
+CA_scaffold_007732	PNNL	CDS	425	1201	.	-	0	ID=CA_scaffold_007732_000001;bin=HLMG_199
+CA_scaffold_007732	PNNL	CDS	1321	1767	.	+	0	ID=CA_scaffold_007732_000002;bin=HLMG_199
+CA_scaffold_007732	PNNL	CDS	1852	5232	.	-	0	ID=CA_scaffold_007732_000003;bin=HLMG_199
+CA_scaffold_007732	PNNL	CDS	5249	6250	.	-	0	ID=CA_scaffold_007732_000004;bin=HLMG_199;gene=rnr;product=ribonuclease R;EC_number=3.1.-.-
+CA_scaffold_007818	PNNL	CDS	1	840	.	+	0	ID=CA_scaffold_007818_000001;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	1049	1336	.	+	0	ID=CA_scaffold_007818_000002;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	1342	2259	.	+	0	ID=CA_scaffold_007818_000003;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	2561	4105	.	+	0	ID=CA_scaffold_007818_000004;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	4092	5816	.	-	0	ID=CA_scaffold_007818_000005;bin=HLMG_199;gene=rsbU;product=sigma-B regulation protein RsbU (phosphoserine phosphatase)
+CA_scaffold_007818	PNNL	CDS	5816	6229	.	-	0	ID=CA_scaffold_007818_000006;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	6229	6582	.	-	0	ID=CA_scaffold_007818_000007;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	6983	7525	.	+	0	ID=CA_scaffold_007818_000008;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	7604	8089	.	-	0	ID=CA_scaffold_007818_000009;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	8294	9334	.	+	0	ID=CA_scaffold_007818_000010;bin=HLMG_199;gene=afuC;product=iron(III) transport system ATP-binding protein;EC_number=3.6.3.30
+CA_scaffold_007818	PNNL	CDS	9493	10440	.	-	0	ID=CA_scaffold_007818_000011;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	10828	11988	.	+	0	ID=CA_scaffold_007818_000012;bin=HLMG_199
+CA_scaffold_007818	PNNL	CDS	11988	12131	.	+	0	ID=CA_scaffold_007818_000013;bin=HLMG_199
+CA_scaffold_007909	PNNL	CDS	1	228	.	-	0	ID=CA_scaffold_007909_000001;bin=HLMG_199;gene=cutA;product=periplasmic divalent cation tolerance protein
+CA_scaffold_007909	PNNL	CDS	502	1800	.	+	0	ID=CA_scaffold_007909_000002;bin=HLMG_199;gene=tig;product=trigger factor
+CA_scaffold_007909	PNNL	CDS	1816	2466	.	+	0	ID=CA_scaffold_007909_000003;bin=HLMG_199;gene=clpP;product=ATP-dependent Clp protease, protease subunit;EC_number=3.4.21.92
+CA_scaffold_007909	PNNL	CDS	2493	3743	.	+	0	ID=CA_scaffold_007909_000004;bin=HLMG_199;gene=clpX;product=ATP-dependent Clp protease ATP-binding subunit ClpX
+CA_scaffold_007909	PNNL	CDS	3831	5123	.	+	0	ID=CA_scaffold_007909_000005;bin=HLMG_199
+CA_scaffold_007909	PNNL	CDS	5114	5689	.	-	0	ID=CA_scaffold_007909_000006;bin=HLMG_199;gene=rpoE;product=RNA polymerase sigma-70 factor, ECF subfamily
+CA_scaffold_007909	PNNL	CDS	5876	6115	.	-	0	ID=CA_scaffold_007909_000007;bin=HLMG_199
+CA_scaffold_007916	PNNL	CDS	1	540	.	-	0	ID=CA_scaffold_007916_000001;bin=HLMG_199;gene=arsA;product=arsenite-transporting ATPase;EC_number=3.6.3.16
+CA_scaffold_007916	PNNL	CDS	758	1195	.	-	0	ID=CA_scaffold_007916_000002;bin=HLMG_199
+CA_scaffold_007916	PNNL	CDS	1206	1355	.	-	0	ID=CA_scaffold_007916_000003;bin=HLMG_199
+CA_scaffold_007916	PNNL	CDS	1600	1722	.	+	0	ID=CA_scaffold_007916_000004;bin=HLMG_199
+CA_scaffold_007916	PNNL	CDS	1823	2473	.	-	0	ID=CA_scaffold_007916_000005;bin=HLMG_199;gene=phoU;product=phosphate transport system protein
+CA_scaffold_007916	PNNL	CDS	2579	3409	.	-	0	ID=CA_scaffold_007916_000006;bin=HLMG_199;gene=pstB;product=phosphate transport system ATP-binding protein;EC_number=3.6.3.27
+CA_scaffold_007916	PNNL	CDS	3427	4257	.	-	0	ID=CA_scaffold_007916_000007;bin=HLMG_199;gene=pstA;product=phosphate transport system permease protein
+CA_scaffold_007916	PNNL	CDS	4293	5282	.	-	0	ID=CA_scaffold_007916_000008;bin=HLMG_199;gene=pstC;product=phosphate transport system permease protein
+CA_scaffold_007916	PNNL	CDS	5367	6485	.	-	0	ID=CA_scaffold_007916_000009;bin=HLMG_199;gene=pstS;product=phosphate transport system substrate-binding protein
+CA_scaffold_007916	PNNL	CDS	6749	6844	.	-	0	ID=CA_scaffold_007916_000010;bin=HLMG_199
+CA_scaffold_007932	PNNL	CDS	2	799	.	+	0	ID=CA_scaffold_007932_000001;bin=HLMG_199;gene=ftsH;product=cell division protease FtsH;EC_number=3.4.24.-
+CA_scaffold_007932	PNNL	CDS	747	1844	.	+	0	ID=CA_scaffold_007932_000002;bin=HLMG_199;gene=ftsH;product=cell division protease FtsH;EC_number=3.4.24.-
+CA_scaffold_007932	PNNL	CDS	2063	2878	.	+	0	ID=CA_scaffold_007932_000003;bin=HLMG_199
+CA_scaffold_007932	PNNL	CDS	2967	4955	.	+	0	ID=CA_scaffold_007932_000004;bin=HLMG_199
+CA_scaffold_007932	PNNL	CDS	5250	5627	.	+	0	ID=CA_scaffold_007932_000005;bin=HLMG_199
+CA_scaffold_007932	PNNL	CDS	5851	6411	.	-	0	ID=CA_scaffold_007932_000006;bin=HLMG_199
+CA_scaffold_007935	PNNL	CDS	3	530	.	-	0	ID=CA_scaffold_007935_000001;bin=HLMG_199;gene=pdxB;product=erythronate-4-phosphate dehydrogenase;EC_number=1.1.1.290
+CA_scaffold_007935	PNNL	CDS	632	1336	.	+	0	ID=CA_scaffold_007935_000002;bin=HLMG_199;gene=pdp;product=pyrimidine-nucleoside phosphorylase;EC_number=2.4.2.2
+CA_scaffold_007935	PNNL	CDS	1323	2033	.	+	0	ID=CA_scaffold_007935_000003;bin=HLMG_199;gene=pdp;product=pyrimidine-nucleoside phosphorylase;EC_number=2.4.2.2
+CA_scaffold_007935	PNNL	CDS	2141	2866	.	+	0	ID=CA_scaffold_007935_000004;bin=HLMG_199;gene=pspA;product=phage shock protein A
+CA_scaffold_007935	PNNL	CDS	2889	3344	.	+	0	ID=CA_scaffold_007935_000005;bin=HLMG_199
+CA_scaffold_007935	PNNL	CDS	3304	4221	.	+	0	ID=CA_scaffold_007935_000006;bin=HLMG_199
+CA_scaffold_007935	PNNL	CDS	4218	5003	.	+	0	ID=CA_scaffold_007935_000007;bin=HLMG_199;gene=crt;product=enoyl-CoA hydratase;EC_number=4.2.1.17
+CA_scaffold_007935	PNNL	CDS	5017	6300	.	+	0	ID=CA_scaffold_007935_000008;bin=HLMG_199
+CA_scaffold_007935	PNNL	CDS	6340	6999	.	+	0	ID=CA_scaffold_007935_000009;bin=HLMG_199
+CA_scaffold_007960	PNNL	CDS	359	1177	.	+	0	ID=CA_scaffold_007960_000001;bin=HLMG_199
+CA_scaffold_007960	PNNL	CDS	1182	1850	.	-	0	ID=CA_scaffold_007960_000002;bin=HLMG_199;gene=troR;product=DtxR family transcriptional regulator, Mn-dependent transcriptional regulator
+CA_scaffold_007960	PNNL	CDS	1877	2380	.	-	0	ID=CA_scaffold_007960_000003;bin=HLMG_199
+CA_scaffold_007960	PNNL	CDS	2399	4972	.	-	0	ID=CA_scaffold_007960_000004;bin=HLMG_199;gene=rsbU;product=sigma-B regulation protein RsbU (phosphoserine phosphatase)
+CA_scaffold_007960	PNNL	CDS	5084	5734	.	+	0	ID=CA_scaffold_007960_000005;bin=HLMG_199
+CA_scaffold_008023	PNNL	CDS	161	1156	.	-	0	ID=CA_scaffold_008023_000001;bin=HLMG_199;gene=rfbA;product=glucose-1-phosphate thymidylyltransferase;EC_number=2.7.7.24
+CA_scaffold_008023	PNNL	CDS	1377	3056	.	+	0	ID=CA_scaffold_008023_000002;bin=HLMG_199;gene=murF;product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase;EC_number=6.3.2.10
+CA_scaffold_008023	PNNL	CDS	3160	3477	.	+	0	ID=CA_scaffold_008023_000003;bin=HLMG_199
+CA_scaffold_008023	PNNL	CDS	3521	4747	.	-	0	ID=CA_scaffold_008023_000004;bin=HLMG_199;gene=lolC;product=lipoprotein-releasing system permease protein
+CA_scaffold_008023	PNNL	CDS	4854	5738	.	+	0	ID=CA_scaffold_008023_000005;bin=HLMG_199;gene=glgB;product=1,4-alpha-glucan branching enzyme;EC_number=2.4.1.18
+CA_scaffold_008023	PNNL	CDS	5738	6802	.	+	0	ID=CA_scaffold_008023_000006;bin=HLMG_199;gene=glgB;product=1,4-alpha-glucan branching enzyme;EC_number=2.4.1.18
+CA_scaffold_008051	PNNL	CDS	681	1940	.	+	0	ID=CA_scaffold_008051_000001;bin=HLMG_199;gene=mrr;product=restriction system protein
+CA_scaffold_008051	PNNL	CDS	1937	3319	.	+	0	ID=CA_scaffold_008051_000002;bin=HLMG_199
+CA_scaffold_008051	PNNL	CDS	3390	4949	.	-	0	ID=CA_scaffold_008051_000003;bin=HLMG_199
+CA_scaffold_008051	PNNL	CDS	4942	5322	.	-	0	ID=CA_scaffold_008051_000004;bin=HLMG_199;product=transposase
+CA_scaffold_008051	PNNL	CDS	5322	5612	.	-	0	ID=CA_scaffold_008051_000005;bin=HLMG_199
+CA_scaffold_008138	PNNL	CDS	197	1195	.	+	0	ID=CA_scaffold_008138_000001;bin=HLMG_199
+CA_scaffold_008138	PNNL	CDS	1318	1824	.	+	0	ID=CA_scaffold_008138_000002;bin=HLMG_199
+CA_scaffold_008138	PNNL	CDS	1821	2711	.	+	0	ID=CA_scaffold_008138_000003;bin=HLMG_199
+CA_scaffold_008138	PNNL	CDS	2955	4145	.	-	0	ID=CA_scaffold_008138_000004;bin=HLMG_199
+CA_scaffold_008138	PNNL	CDS	5499	6131	.	-	0	ID=CA_scaffold_008138_000005;bin=HLMG_199;gene=tatD;product=TatD DNase family protein;EC_number=3.1.21.-
+CA_scaffold_008269	PNNL	CDS	2	106	.	+	0	ID=CA_scaffold_008269_000001;bin=HLMG_199
+CA_scaffold_008269	PNNL	CDS	125	445	.	+	0	ID=CA_scaffold_008269_000002;bin=HLMG_199;gene=cysM;product=cysteine synthase B;EC_number=2.5.1.47
+CA_scaffold_008269	PNNL	CDS	472	969	.	+	0	ID=CA_scaffold_008269_000003;bin=HLMG_199;gene=cysM;product=cysteine synthase B;EC_number=2.5.1.47
+CA_scaffold_008269	PNNL	CDS	1021	2079	.	-	0	ID=CA_scaffold_008269_000004;bin=HLMG_199
+CA_scaffold_008269	PNNL	CDS	2201	3445	.	-	0	ID=CA_scaffold_008269_000005;bin=HLMG_199;product=putative ABC transport system permease protein
+CA_scaffold_008269	PNNL	CDS	3478	4707	.	-	0	ID=CA_scaffold_008269_000006;bin=HLMG_199;product=putative ABC transport system permease protein
+CA_scaffold_008269	PNNL	CDS	4748	5878	.	-	0	ID=CA_scaffold_008269_000007;bin=HLMG_199;product=HlyD family secretion protein
+CA_scaffold_008382	PNNL	CDS	3	2690	.	-	0	ID=CA_scaffold_008382_000001;bin=HLMG_199
+CA_scaffold_008382	PNNL	CDS	2690	4621	.	-	0	ID=CA_scaffold_008382_000002;bin=HLMG_199
+CA_scaffold_008382	PNNL	CDS	4726	5547	.	+	0	ID=CA_scaffold_008382_000003;bin=HLMG_199
+CA_scaffold_008411	PNNL	CDS	1	1914	.	-	0	ID=CA_scaffold_008411_000001;bin=HLMG_199
+CA_scaffold_008411	PNNL	CDS	2066	2428	.	-	0	ID=CA_scaffold_008411_000002;bin=HLMG_199
+CA_scaffold_008411	PNNL	CDS	2544	2714	.	-	0	ID=CA_scaffold_008411_000003;bin=HLMG_199
+CA_scaffold_008411	PNNL	CDS	2731	4173	.	-	0	ID=CA_scaffold_008411_000004;bin=HLMG_199
+CA_scaffold_008411	PNNL	CDS	4204	5121	.	-	0	ID=CA_scaffold_008411_000005;bin=HLMG_199
+CA_scaffold_008411	PNNL	CDS	5129	5533	.	-	0	ID=CA_scaffold_008411_000006;bin=HLMG_199
+CA_scaffold_008436	PNNL	CDS	69	1250	.	+	0	ID=CA_scaffold_008436_000001;bin=HLMG_199;gene=ddl;product=D-alanine-D-alanine ligase;EC_number=6.3.2.4
+CA_scaffold_008436	PNNL	CDS	1254	2747	.	+	0	ID=CA_scaffold_008436_000002;bin=HLMG_199;product=peptide/nickel transport system substrate-binding protein
+CA_scaffold_008436	PNNL	CDS	2744	3613	.	+	0	ID=CA_scaffold_008436_000003;bin=HLMG_199;gene=ppnK;product=NAD+ kinase;EC_number=2.7.1.23
+CA_scaffold_008436	PNNL	CDS	3742	4698	.	+	0	ID=CA_scaffold_008436_000004;bin=HLMG_199;gene=mdh;product=malate dehydrogenase;EC_number=1.1.1.37
+CA_scaffold_008436	PNNL	CDS	4903	5400	.	+	0	ID=CA_scaffold_008436_000005;bin=HLMG_199
+CA_scaffold_008436	PNNL	CDS	5533	6000	.	+	0	ID=CA_scaffold_008436_000006;bin=HLMG_199
+CA_scaffold_008436	PNNL	CDS	6111	7073	.	+	0	ID=CA_scaffold_008436_000007;bin=HLMG_199
+CA_scaffold_008436	PNNL	CDS	7070	7327	.	-	0	ID=CA_scaffold_008436_000008;bin=HLMG_199;gene=rluC;product=23S rRNA pseudouridine955/2504/2580 synthase;EC_number=5.4.99.24
+CA_scaffold_008465	PNNL	CDS	193	1104	.	+	0	ID=CA_scaffold_008465_000001;bin=HLMG_199
+CA_scaffold_008465	PNNL	CDS	1101	1835	.	+	0	ID=CA_scaffold_008465_000002;bin=HLMG_199
+CA_scaffold_008465	PNNL	CDS	2185	2454	.	+	0	ID=CA_scaffold_008465_000003;bin=HLMG_199
+CA_scaffold_008465	PNNL	CDS	2649	2999	.	+	0	ID=CA_scaffold_008465_000004;bin=HLMG_199
+CA_scaffold_008465	PNNL	CDS	3174	4964	.	+	0	ID=CA_scaffold_008465_000005;bin=HLMG_199
+CA_scaffold_008465	PNNL	CDS	4961	5377	.	-	0	ID=CA_scaffold_008465_000006;bin=HLMG_199
+CA_scaffold_008554	PNNL	CDS	1	714	.	+	0	ID=CA_scaffold_008554_000001;bin=HLMG_199
+CA_scaffold_008554	PNNL	CDS	722	2083	.	-	0	ID=CA_scaffold_008554_000002;bin=HLMG_199
+CA_scaffold_008554	PNNL	CDS	2393	5035	.	+	0	ID=CA_scaffold_008554_000003;bin=HLMG_199;gene=ppdK;product=pyruvate, orthophosphate dikinase;EC_number=2.7.9.1
+CA_scaffold_008554	PNNL	CDS	5231	5467	.	+	0	ID=CA_scaffold_008554_000004;bin=HLMG_199
+CA_scaffold_008583	PNNL	CDS	1	183	.	+	0	ID=CA_scaffold_008583_000001;bin=HLMG_199;gene=mscL;product=large conductance mechanosensitive channel
+CA_scaffold_008583	PNNL	CDS	206	1300	.	-	0	ID=CA_scaffold_008583_000002;bin=HLMG_199
+CA_scaffold_008583	PNNL	CDS	1370	1657	.	-	0	ID=CA_scaffold_008583_000003;bin=HLMG_199
+CA_scaffold_008583	PNNL	CDS	1796	3043	.	-	0	ID=CA_scaffold_008583_000004;bin=HLMG_199;gene=fabF;product=3-oxoacyl-[acyl-carrier-protein] synthase II;EC_number=2.3.1.179
+CA_scaffold_008583	PNNL	CDS	3125	5848	.	-	0	ID=CA_scaffold_008583_000005;bin=HLMG_199;product=hypothetical protein
+CA_scaffold_008583	PNNL	CDS	5949	6152	.	-	0	ID=CA_scaffold_008583_000006;bin=HLMG_199
+CA_scaffold_008583	PNNL	CDS	6234	6389	.	+	0	ID=CA_scaffold_008583_000007;bin=HLMG_199
+CA_scaffold_008583	PNNL	CDS	6383	6667	.	-	0	ID=CA_scaffold_008583_000008;bin=HLMG_199
+CA_scaffold_008686	PNNL	CDS	419	1432	.	-	0	ID=CA_scaffold_008686_000001;bin=HLMG_199
+CA_scaffold_008686	PNNL	CDS	1560	2300	.	+	0	ID=CA_scaffold_008686_000002;bin=HLMG_199
+CA_scaffold_008686	PNNL	CDS	2427	3617	.	+	0	ID=CA_scaffold_008686_000003;bin=HLMG_199
+CA_scaffold_008686	PNNL	CDS	3628	5412	.	+	0	ID=CA_scaffold_008686_000004;bin=HLMG_199;gene=hsdM;product=type I restriction enzyme M protein;EC_number=2.1.1.72
+CA_scaffold_008738	PNNL	CDS	3	1328	.	-	0	ID=CA_scaffold_008738_000001;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	1660	2025	.	+	0	ID=CA_scaffold_008738_000002;bin=HLMG_199;gene=cydA;product=cytochrome d ubiquinol oxidase subunit I;EC_number=1.10.3.-
+CA_scaffold_008738	PNNL	CDS	2042	2899	.	+	0	ID=CA_scaffold_008738_000003;bin=HLMG_199;gene=cydA;product=cytochrome d ubiquinol oxidase subunit I;EC_number=1.10.3.-
+CA_scaffold_008738	PNNL	CDS	2925	3938	.	+	0	ID=CA_scaffold_008738_000004;bin=HLMG_199;gene=cydB;product=cytochrome d ubiquinol oxidase subunit II;EC_number=1.10.3.-
+CA_scaffold_008738	PNNL	CDS	3948	5696	.	+	0	ID=CA_scaffold_008738_000005;bin=HLMG_199;gene=cydD;product=ATP-binding cassette, subfamily C, bacterial CydD
+CA_scaffold_008738	PNNL	CDS	5680	7419	.	+	0	ID=CA_scaffold_008738_000006;bin=HLMG_199;gene=cydC;product=ATP-binding cassette, subfamily C, bacterial CydC
+CA_scaffold_008738	PNNL	CDS	7950	8129	.	+	0	ID=CA_scaffold_008738_000007;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	8126	8776	.	+	0	ID=CA_scaffold_008738_000008;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	8787	9173	.	-	0	ID=CA_scaffold_008738_000009;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	9272	10402	.	-	0	ID=CA_scaffold_008738_000010;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	10907	11857	.	-	0	ID=CA_scaffold_008738_000011;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	12611	12856	.	+	0	ID=CA_scaffold_008738_000012;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	12863	13336	.	+	0	ID=CA_scaffold_008738_000013;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	13636	13833	.	+	0	ID=CA_scaffold_008738_000014;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	13936	14364	.	+	0	ID=CA_scaffold_008738_000015;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	14542	14757	.	+	0	ID=CA_scaffold_008738_000016;bin=HLMG_199
+CA_scaffold_008738	PNNL	CDS	14926	15708	.	-	0	ID=CA_scaffold_008738_000017;bin=HLMG_199
+CA_scaffold_008775	PNNL	CDS	3	1574	.	-	0	ID=CA_scaffold_008775_000001;bin=HLMG_199;gene=tolB;product=TolB protein
+CA_scaffold_008775	PNNL	CDS	1649	3112	.	-	0	ID=CA_scaffold_008775_000002;bin=HLMG_199
+CA_scaffold_008775	PNNL	CDS	3398	5377	.	+	0	ID=CA_scaffold_008775_000003;bin=HLMG_199;gene=acnA;product=aconitate hydratase;EC_number=4.2.1.3
+CA_scaffold_008793	PNNL	CDS	985	1170	.	-	0	ID=CA_scaffold_008793_000001;bin=HLMG_199
+CA_scaffold_008793	PNNL	CDS	1507	1731	.	-	0	ID=CA_scaffold_008793_000002;bin=HLMG_199;gene=chaB;product=cation transport regulator
+CA_scaffold_008793	PNNL	CDS	1916	2164	.	+	0	ID=CA_scaffold_008793_000003;bin=HLMG_199
+CA_scaffold_008793	PNNL	CDS	2774	2917	.	-	0	ID=CA_scaffold_008793_000004;bin=HLMG_199
+CA_scaffold_008793	PNNL	CDS	3299	3619	.	-	0	ID=CA_scaffold_008793_000005;bin=HLMG_199
+CA_scaffold_008793	PNNL	CDS	4057	5292	.	-	0	ID=CA_scaffold_008793_000006;bin=HLMG_199;gene=argD;product=acetylornithine/N-succinyldiaminopimelate aminotransferase;EC_number=2.6.1.11 2.6.1.
+CA_scaffold_008793	PNNL	CDS	5536	5724	.	+	0	ID=CA_scaffold_008793_000007;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	136	522	.	-	0	ID=CA_scaffold_008948_000001;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	882	2042	.	-	0	ID=CA_scaffold_008948_000002;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	2099	2494	.	-	0	ID=CA_scaffold_008948_000003;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	2872	5997	.	-	0	ID=CA_scaffold_008948_000004;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	6049	6198	.	-	0	ID=CA_scaffold_008948_000005;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	6310	7560	.	-	0	ID=CA_scaffold_008948_000006;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	8016	9239	.	-	0	ID=CA_scaffold_008948_000007;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	9297	9533	.	-	0	ID=CA_scaffold_008948_000008;bin=HLMG_199
+CA_scaffold_008948	PNNL	CDS	9665	10999	.	-	0	ID=CA_scaffold_008948_000009;bin=HLMG_199
+CA_scaffold_009058	PNNL	CDS	4	765	.	-	0	ID=CA_scaffold_009058_000001;bin=HLMG_199;gene=fabG;product=3-oxoacyl-[acyl-carrier protein] reductase;EC_number=1.1.1.100
+CA_scaffold_009058	PNNL	CDS	886	1299	.	-	0	ID=CA_scaffold_009058_000002;bin=HLMG_199
+CA_scaffold_009058	PNNL	CDS	1609	5274	.	-	0	ID=CA_scaffold_009058_000003;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	3	248	.	-	0	ID=CA_scaffold_009061_000001;bin=HLMG_199;gene=eno;product=enolase;EC_number=4.2.1.11
+CA_scaffold_009061	PNNL	CDS	320	1012	.	+	0	ID=CA_scaffold_009061_000002;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	990	1865	.	-	0	ID=CA_scaffold_009061_000003;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	1992	2456	.	+	0	ID=CA_scaffold_009061_000004;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	2462	3319	.	+	0	ID=CA_scaffold_009061_000005;bin=HLMG_199;gene=hemK;product=release factor glutamine methyltransferase;EC_number=2.1.1.-
+CA_scaffold_009061	PNNL	CDS	3717	5162	.	+	0	ID=CA_scaffold_009061_000006;bin=HLMG_199;gene=dnaA;product=chromosomal replication initiator protein
+CA_scaffold_009061	PNNL	CDS	5268	5585	.	+	0	ID=CA_scaffold_009061_000007;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	5573	6058	.	+	0	ID=CA_scaffold_009061_000008;bin=HLMG_199;gene=folK;product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase;EC_number=2.7.6.3
+CA_scaffold_009061	PNNL	CDS	6085	6729	.	+	0	ID=CA_scaffold_009061_000009;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	6733	6948	.	+	0	ID=CA_scaffold_009061_000010;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	6945	7493	.	+	0	ID=CA_scaffold_009061_000011;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	7586	7951	.	-	0	ID=CA_scaffold_009061_000012;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	8082	9014	.	+	0	ID=CA_scaffold_009061_000013;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	9001	9618	.	-	0	ID=CA_scaffold_009061_000014;bin=HLMG_199
+CA_scaffold_009061	PNNL	CDS	9709	10131	.	+	0	ID=CA_scaffold_009061_000015;bin=HLMG_199
+CA_scaffold_009136	PNNL	CDS	3	338	.	-	0	ID=CA_scaffold_009136_000001;bin=HLMG_199;gene=rsgA;product=ribosome biogenesis GTPase;EC_number=3.6.1.-
+CA_scaffold_009136	PNNL	CDS	575	3115	.	-	0	ID=CA_scaffold_009136_000002;bin=HLMG_199;gene=lon;product=ATP-dependent Lon protease;EC_number=3.4.21.53
+CA_scaffold_009136	PNNL	CDS	3322	4845	.	-	0	ID=CA_scaffold_009136_000003;bin=HLMG_199
+CA_scaffold_009136	PNNL	CDS	4860	5249	.	-	0	ID=CA_scaffold_009136_000004;bin=HLMG_199
+CA_scaffold_009201	PNNL	CDS	1	420	.	+	0	ID=CA_scaffold_009201_000001;bin=HLMG_199;gene=malQ;product=4-alpha-glucanotransferase;EC_number=2.4.1.25
+CA_scaffold_009201	PNNL	CDS	498	1328	.	+	0	ID=CA_scaffold_009201_000002;bin=HLMG_199;gene=comA;product=phosphosulfolactate synthase;EC_number=4.4.1.19
+CA_scaffold_009201	PNNL	CDS	1340	2146	.	+	0	ID=CA_scaffold_009201_000003;bin=HLMG_199;gene=glgA;product=starch synthase;EC_number=2.4.1.21
+CA_scaffold_009201	PNNL	CDS	2091	3413	.	+	0	ID=CA_scaffold_009201_000004;bin=HLMG_199
+CA_scaffold_009201	PNNL	CDS	3423	4736	.	+	0	ID=CA_scaffold_009201_000005;bin=HLMG_199
+CA_scaffold_009201	PNNL	CDS	4784	5227	.	+	0	ID=CA_scaffold_009201_000006;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	1	294	.	-	0	ID=CA_scaffold_009403_000001;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	376	3162	.	-	0	ID=CA_scaffold_009403_000002;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	3166	3645	.	-	0	ID=CA_scaffold_009403_000003;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	3648	4097	.	-	0	ID=CA_scaffold_009403_000004;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	4165	4383	.	-	0	ID=CA_scaffold_009403_000005;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	4380	4835	.	-	0	ID=CA_scaffold_009403_000006;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	4798	5034	.	-	0	ID=CA_scaffold_009403_000007;bin=HLMG_199
+CA_scaffold_009403	PNNL	CDS	5062	5349	.	-	0	ID=CA_scaffold_009403_000008;bin=HLMG_199
+CA_scaffold_009434	PNNL	CDS	456	1160	.	+	0	ID=CA_scaffold_009434_000001;bin=HLMG_199
+CA_scaffold_009434	PNNL	CDS	1204	1926	.	+	0	ID=CA_scaffold_009434_000002;bin=HLMG_199
+CA_scaffold_009434	PNNL	CDS	1944	4232	.	+	0	ID=CA_scaffold_009434_000003;bin=HLMG_199
+CA_scaffold_009434	PNNL	CDS	4232	4432	.	+	0	ID=CA_scaffold_009434_000004;bin=HLMG_199
+CA_scaffold_009434	PNNL	CDS	4443	4640	.	-	0	ID=CA_scaffold_009434_000005;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	3	734	.	-	0	ID=CA_scaffold_009526_000001;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	810	1649	.	-	0	ID=CA_scaffold_009526_000002;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	1724	3142	.	-	0	ID=CA_scaffold_009526_000003;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	3157	4428	.	-	0	ID=CA_scaffold_009526_000004;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	4422	6299	.	-	0	ID=CA_scaffold_009526_000005;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	6727	7431	.	-	0	ID=CA_scaffold_009526_000006;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	7677	8357	.	+	0	ID=CA_scaffold_009526_000007;bin=HLMG_199
+CA_scaffold_009526	PNNL	CDS	8354	9430	.	+	0	ID=CA_scaffold_009526_000008;bin=HLMG_199;gene=pfkA;product=6-phosphofructokinase 1;EC_number=2.7.1.11
+CA_scaffold_009526	PNNL	CDS	9461	9628	.	+	0	ID=CA_scaffold_009526_000009;bin=HLMG_199
+CA_scaffold_009532	PNNL	CDS	3	815	.	-	0	ID=CA_scaffold_009532_000001;bin=HLMG_199;gene=rnr;product=ribonuclease R;EC_number=3.1.-.-
+CA_scaffold_009532	PNNL	CDS	829	5109	.	-	0	ID=CA_scaffold_009532_000002;bin=HLMG_199
+CA_scaffold_009557	PNNL	CDS	3	155	.	-	0	ID=CA_scaffold_009557_000001;bin=HLMG_199;gene=rsmI;product=16S rRNA (cytidine1402-2'-O)-methyltransferase;EC_number=2.1.1.198
+CA_scaffold_009557	PNNL	CDS	152	643	.	-	0	ID=CA_scaffold_009557_000002;bin=HLMG_199
+CA_scaffold_009557	PNNL	CDS	720	1925	.	-	0	ID=CA_scaffold_009557_000003;bin=HLMG_199
+CA_scaffold_009557	PNNL	CDS	1949	3211	.	-	0	ID=CA_scaffold_009557_000004;bin=HLMG_199
+CA_scaffold_009557	PNNL	CDS	3240	4070	.	-	0	ID=CA_scaffold_009557_000005;bin=HLMG_199;gene=dapF;product=diaminopimelate epimerase;EC_number=5.1.1.7
+CA_scaffold_009557	PNNL	CDS	4077	5105	.	-	0	ID=CA_scaffold_009557_000006;bin=HLMG_199;gene=holB;product=DNA polymerase III subunit delta';EC_number=2.7.7.7
+CA_scaffold_009557	PNNL	CDS	5266	5430	.	-	0	ID=CA_scaffold_009557_000007;bin=HLMG_199
+CA_scaffold_009603	PNNL	CDS	606	2843	.	+	0	ID=CA_scaffold_009603_000001;bin=HLMG_199
+CA_scaffold_009603	PNNL	CDS	2833	3597	.	+	0	ID=CA_scaffold_009603_000002;bin=HLMG_199
+CA_scaffold_009603	PNNL	CDS	3594	4937	.	+	0	ID=CA_scaffold_009603_000003;bin=HLMG_199
+CA_scaffold_009736	PNNL	CDS	1	690	.	+	0	ID=CA_scaffold_009736_000001;bin=HLMG_199
+CA_scaffold_009736	PNNL	CDS	1085	1699	.	-	0	ID=CA_scaffold_009736_000002;bin=HLMG_199;gene=pncA;product=nicotinamidase/pyrazinamidase;EC_number=3.5.1.19 3.5.1.
+CA_scaffold_009736	PNNL	CDS	1706	3112	.	-	0	ID=CA_scaffold_009736_000003;bin=HLMG_199;gene=pncB;product=nicotinate phosphoribosyltransferase;EC_number=6.3.4.21
+CA_scaffold_009736	PNNL	CDS	3182	3994	.	-	0	ID=CA_scaffold_009736_000004;bin=HLMG_199
+CA_scaffold_009736	PNNL	CDS	4105	5034	.	+	0	ID=CA_scaffold_009736_000005;bin=HLMG_199
+CA_scaffold_009753	PNNL	CDS	355	3348	.	+	0	ID=CA_scaffold_009753_000001;bin=HLMG_199;product=iron complex outermembrane recepter protein
+CA_scaffold_009753	PNNL	CDS	3374	4948	.	+	0	ID=CA_scaffold_009753_000002;bin=HLMG_199
+CA_scaffold_009753	PNNL	CDS	5036	5416	.	+	0	ID=CA_scaffold_009753_000003;bin=HLMG_199
+CA_scaffold_009829	PNNL	CDS	3	1553	.	+	0	ID=CA_scaffold_009829_000001;bin=HLMG_199
+CA_scaffold_009829	PNNL	CDS	1679	3415	.	+	0	ID=CA_scaffold_009829_000002;bin=HLMG_199;gene=yjbB;product=phosphate:Na+ symporter
+CA_scaffold_009829	PNNL	CDS	3532	5094	.	+	0	ID=CA_scaffold_009829_000003;bin=HLMG_199
+CA_scaffold_009829	PNNL	CDS	5057	5611	.	+	0	ID=CA_scaffold_009829_000004;bin=HLMG_199
+CA_scaffold_009855	PNNL	CDS	2	271	.	+	0	ID=CA_scaffold_009855_000001;bin=HLMG_199
+CA_scaffold_009855	PNNL	CDS	295	459	.	+	0	ID=CA_scaffold_009855_000002;bin=HLMG_199
+CA_scaffold_009855	PNNL	CDS	629	2440	.	+	0	ID=CA_scaffold_009855_000003;bin=HLMG_199
+CA_scaffold_009855	PNNL	CDS	2742	4484	.	+	0	ID=CA_scaffold_009855_000004;bin=HLMG_199
+CA_scaffold_009855	PNNL	CDS	4548	5324	.	-	0	ID=CA_scaffold_009855_000005;bin=HLMG_199;gene=sucC;product=succinyl-CoA synthetase beta subunit;EC_number=6.2.1.5
+CA_scaffold_009998	PNNL	CDS	3	3071	.	+	0	ID=CA_scaffold_009998_000001;bin=HLMG_199
+CA_scaffold_009998	PNNL	CDS	3182	3946	.	+	0	ID=CA_scaffold_009998_000002;bin=HLMG_199;gene=dpo;product=DNA polymerase bacteriophage-type;EC_number=2.7.7.7
+CA_scaffold_009998	PNNL	CDS	4083	4979	.	+	0	ID=CA_scaffold_009998_000003;bin=HLMG_199;gene=dnaB;product=replicative DNA helicase;EC_number=3.6.4.12
+CA_scaffold_009998	PNNL	CDS	4999	5307	.	+	0	ID=CA_scaffold_009998_000004;bin=HLMG_199;gene=dnaB;product=replicative DNA helicase;EC_number=3.6.4.12
