@@ -1,5 +1,5 @@
 
-#data
+#data neeed to add
 
 Contains the individual reconstructed genome bin files from the GroopM binning process. Due to size the files for the unbinned contigs > 1kb are zipped.
 
